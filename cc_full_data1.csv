@@ -1,0 +1,1127 @@
+Ind_ID,Gender,Has a car,Has a property,Children count,Income,Employment status,Education level,Marital status,Dwelling,Employment length,Has a mobile phone,Has a work phone,Has a phone,Has an email,Job title,Family member count,Is high risk,Age_date
+5009744,F,Y,N,0,315000.0,Commercial associate,Higher education,Married,House / apartment,2025-02-11 11:11:26.391727,1,1,1,0,Laborers,2,1,2060-08-17 11:02:46.471042
+5009746,F,Y,N,0,315000.0,Commercial associate,Higher education,Married,House / apartment,2025-02-11 11:11:26.391727,1,1,1,0,Laborers,2,1,2067-06-05 19:15:21.385852
+5009749,F,Y,N,0,191399.3262295082,Commercial associate,Higher education,Married,House / apartment,2025-02-11 11:11:26.391727,1,1,1,0,Laborers,2,1,2060-08-17 11:02:46.471042
+5009752,F,Y,N,0,315000.0,Commercial associate,Higher education,Married,House / apartment,2025-02-11 11:11:26.391727,1,1,1,0,Laborers,2,1,2060-08-17 11:02:46.471042
+5009753,F,Y,N,0,315000.0,Pensioner,Higher education,Married,House / apartment,2025-02-11 11:11:26.391727,1,1,1,0,Laborers,2,1,2060-08-17 11:02:46.471042
+5009754,F,Y,N,0,315000.0,Commercial associate,Higher education,Married,House / apartment,2025-02-11 11:11:26.391727,1,1,1,0,Laborers,2,1,2060-08-17 11:02:46.471042
+5018498,F,Y,Y,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,2026-04-03 11:11:26.391727,1,1,1,0,Cooking staff,2,1,2075-05-24 11:02:46.471042
+5018501,F,Y,Y,0,191399.3262295082,Working,Secondary / secondary special,Married,House / apartment,2026-04-03 11:11:26.391727,1,1,1,0,Cooking staff,2,1,2075-05-24 11:02:46.471042
+5018503,F,Y,Y,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,2026-04-03 11:11:26.391727,1,1,1,0,Cooking staff,2,1,2075-05-24 11:02:46.471042
+5021310,M,N,Y,0,270000.0,Working,Secondary / secondary special,Married,House / apartment,2024-03-10 11:11:26.391727,1,0,0,0,Laborers,2,1,2069-10-08 11:02:46.471042
+5021314,M,N,Y,0,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-03-10 11:11:26.391727,1,0,0,0,Laborers,2,1,2069-10-08 11:02:46.471042
+5021430,F,N,Y,0,126000.0,Commercial associate,Higher education,Single / not married,House / apartment,2030-04-10 11:11:26.391727,1,0,0,0,Sales staff,1,1,2075-04-11 11:02:46.471042
+5021431,F,N,Y,0,126000.0,Commercial associate,Higher education,Single / not married,House / apartment,2030-04-10 11:11:26.391727,1,0,0,0,Sales staff,1,1,2075-04-11 11:02:46.471042
+5021998,M,N,Y,0,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,2028-01-05 11:11:26.391727,1,0,0,1,Laborers,2,1,2075-02-26 11:02:46.471042
+5022053,M,N,N,0,202500.0,Working,Higher education,Single / not married,House / apartment,2035-05-11 11:11:26.391727,1,0,0,0,Laborers,1,1,2058-08-02 11:02:46.471042
+5022617,M,Y,Y,0,202500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2028-02-04 11:11:26.391727,1,0,0,1,Laborers,2,1,2056-06-04 11:02:46.471042
+5023781,M,N,Y,0,157500.0,Commercial associate,Higher education,Civil marriage,House / apartment,2026-06-26 11:11:26.391727,1,0,0,0,Accountants,2,1,2072-03-30 11:02:46.471042
+5023831,F,N,Y,2,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-01-16 11:11:26.391727,1,0,0,0,Sales staff,4,1,2056-09-25 11:02:46.471042
+5024071,F,N,Y,0,180000.0,Working,Higher education,Married,House / apartment,2025-11-06 11:11:26.391727,1,0,0,0,Laborers,2,1,2067-04-02 11:02:46.471042
+5025127,F,N,Y,0,292500.0,Working,Secondary / secondary special,Married,House / apartment,2032-09-06 11:11:26.391727,1,0,0,0,High skill tech staff,2,1,2053-12-06 11:02:46.471042
+5029028,F,N,Y,0,90000.0,Working,Lower secondary,Single / not married,Rented apartment,2036-07-27 11:11:26.391727,1,0,0,0,Cleaning staff,2,1,2056-06-08 11:02:46.471042
+5033453,F,N,N,0,135000.0,Working,Higher education,Single / not married,House / apartment,2030-01-24 11:11:26.391727,1,0,0,0,Laborers,1,1,2052-12-09 11:02:46.471042
+5033514,F,Y,N,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2024-07-24 11:11:26.391727,1,1,0,0,Sales staff,3,1,2067-03-09 11:02:46.471042
+5033916,M,N,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2033-06-30 11:11:26.391727,1,0,0,0,Laborers,2,1,2059-02-22 11:02:46.471042
+5036469,M,Y,N,0,112500.0,State servant,Secondary / secondary special,Single / not married,House / apartment,2027-09-29 11:11:26.391727,1,0,0,0,Drivers,2,1,2079-03-07 11:02:46.471042
+5036590,M,Y,Y,0,292500.0,Working,Higher education,Married,House / apartment,2025-09-21 11:11:26.391727,1,0,0,0,Drivers,2,1,2081-02-26 11:02:46.471042
+5036795,M,Y,Y,0,215100.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-01-11 11:11:26.391727,1,0,1,0,Laborers,2,1,2076-01-04 11:02:46.471042
+5046324,F,N,Y,1,157500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2029-09-21 11:11:26.391727,1,0,1,0,Low-skill Laborers,3,1,2065-11-08 11:02:46.471042
+5046328,F,N,Y,1,157500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,2029-09-21 11:11:26.391727,1,0,1,0,Low-skill Laborers,3,1,2065-11-08 11:02:46.471042
+5047662,F,N,Y,1,67500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2034-10-10 11:11:26.391727,1,0,0,0,Accountants,3,1,2075-03-15 11:02:46.471042
+5048300,M,Y,N,1,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-09-09 11:11:26.391727,1,0,0,0,Laborers,3,1,2053-11-16 11:02:46.471042
+5048301,M,Y,N,1,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-09-09 11:11:26.391727,1,0,0,0,Laborers,3,1,2053-11-16 11:02:46.471042
+5050603,M,N,N,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2043-06-19 11:11:26.391727,1,1,0,0,Laborers,2,1,2073-09-08 11:02:46.471042
+5050606,M,N,N,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2043-06-19 11:11:26.391727,1,1,0,0,Laborers,2,1,2073-09-08 11:02:46.471042
+5050671,M,N,N,0,171000.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,2023-12-19 11:11:26.391727,1,1,1,0,High skill tech staff,1,1,2055-04-19 11:02:46.471042
+5051160,M,Y,N,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2025-11-18 11:11:26.391727,1,0,0,0,Laborers,3,1,2049-10-11 11:02:46.471042
+5051161,M,Y,N,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2025-11-18 11:11:26.391727,1,0,0,0,Laborers,3,1,2049-10-11 11:02:46.471042
+5052659,F,N,Y,0,103500.0,Working,Secondary / secondary special,Married,House / apartment,2025-01-20 11:11:26.391727,1,0,0,1,IT staff,2,1,2051-12-22 11:02:46.471042
+5052661,F,N,Y,0,103500.0,Working,Secondary / secondary special,Married,House / apartment,2025-01-20 11:11:26.391727,1,0,0,1,IT staff,2,1,2051-12-22 11:02:46.471042
+5052877,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2032-09-22 11:11:26.391727,1,0,0,0,Drivers,2,1,2072-07-23 11:02:46.471042
+5052879,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2032-09-22 11:11:26.391727,1,0,0,0,Drivers,2,1,2072-07-23 11:02:46.471042
+5052882,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2032-09-22 11:11:26.391727,1,0,0,0,Drivers,2,1,2072-07-23 11:02:46.471042
+5053254,F,Y,Y,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2029-05-25 11:11:26.391727,1,1,0,0,Managers,2,1,2074-08-14 11:02:46.471042
+5054063,M,N,N,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,2027-07-03 11:11:26.391727,1,0,0,0,Drivers,3,1,2068-06-23 11:02:46.471042
+5054068,M,N,N,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,2027-07-03 11:11:26.391727,1,0,0,0,Drivers,1,1,2068-06-23 11:02:46.471042
+5061691,F,N,Y,1,67500.0,Commercial associate,Higher education,Married,House / apartment,2027-10-20 11:11:26.391727,1,0,0,1,Waiters/barmen staff,3,1,2048-06-26 11:02:46.471042
+5062136,M,N,N,1,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2023-11-20 11:11:26.391727,1,0,0,0,Laborers,2,1,2058-12-16 11:02:46.471042
+5062137,M,N,Y,1,191399.3262295082,Working,Secondary / secondary special,Single / not married,House / apartment,2023-11-20 11:11:26.391727,1,0,0,0,Laborers,2,1,2058-12-16 11:02:46.471042
+5065348,F,Y,Y,0,202500.0,Working,Higher education,Married,House / apartment,2034-05-23 11:11:26.391727,1,0,0,0,High skill tech staff,2,1,2065-01-06 11:02:46.471042
+5065462,F,N,N,0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-10-23 11:11:26.391727,1,0,0,0,Laborers,2,1,2075-07-17 11:02:46.471042
+5065518,F,Y,N,1,202500.0,Working,Higher education,Married,Rented apartment,2031-05-23 11:11:26.391727,1,0,0,0,Laborers,3,1,2049-07-19 11:02:46.471042
+5068389,F,Y,Y,1,270000.0,Working,Higher education,Separated,House / apartment,2023-11-23 11:11:26.391727,1,0,1,0,Sales staff,2,1,2061-12-25 11:02:46.471042
+5068456,F,Y,N,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-07-25 11:11:26.391727,1,0,0,0,Laborers,2,1,2060-09-10 11:02:46.471042
+5068651,F,Y,Y,0,360000.0,State servant,Higher education,Separated,House / apartment,2028-09-22 11:11:26.391727,1,0,0,0,Core staff,1,1,2076-05-13 11:02:46.471042
+5069216,F,Y,Y,0,256500.0,Commercial associate,Higher education,Married,House / apartment,2028-03-25 11:11:26.391727,1,1,0,0,Accountants,2,1,2054-03-15 11:02:46.471042
+5069218,F,Y,Y,0,256500.0,Commercial associate,Higher education,Single / not married,House / apartment,2028-03-25 11:11:26.391727,1,1,0,0,Accountants,2,1,2054-03-15 11:02:46.471042
+5069307,M,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2027-02-23 11:11:26.391727,1,0,0,0,Core staff,2,1,2066-05-01 11:02:46.471042
+5078820,F,N,N,2,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2037-03-01 11:11:26.391727,1,0,0,0,High skill tech staff,4,1,2063-02-22 11:02:46.471042
+5078945,F,N,Y,2,180000.0,Working,Incomplete higher,Separated,House / apartment,2033-01-30 11:11:26.391727,1,1,0,0,Laborers,3,1,2057-01-21 11:02:46.471042
+5078946,F,N,Y,2,180000.0,Working,Incomplete higher,Separated,House / apartment,2033-01-30 11:11:26.391727,1,1,0,0,Laborers,3,1,2057-01-21 11:02:46.471042
+5079166,M,Y,N,0,202500.0,Working,Secondary / secondary special,Married,With parents,2027-04-30 11:11:26.391727,1,0,0,0,Laborers,2,1,2061-01-27 11:02:46.471042
+5079167,M,Y,N,0,202500.0,Working,Secondary / secondary special,Married,With parents,2027-04-30 11:11:26.391727,1,0,0,0,Laborers,2,1,2061-01-27 11:02:46.471042
+5079168,M,Y,N,0,202500.0,Working,Secondary / secondary special,Married,With parents,2027-04-30 11:11:26.391727,1,0,0,0,Laborers,2,1,2061-01-27 11:02:46.471042
+5085886,M,Y,Y,0,315000.0,Commercial associate,Higher education,Married,House / apartment,2026-12-22 11:11:26.391727,1,0,0,0,Managers,2,1,2074-08-08 11:02:46.471042
+5089162,F,Y,N,0,225000.0,Working,Higher education,Married,House / apartment,2030-06-10 11:11:26.391727,1,1,1,0,Accountants,2,1,2078-12-28 11:02:46.471042
+5089959,M,N,Y,1,126000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2029-04-10 11:11:26.391727,1,0,0,0,Laborers,3,1,2058-06-07 11:02:46.471042
+5090214,M,Y,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2024-02-08 11:11:26.391727,1,0,0,0,Laborers,2,1,2052-11-02 11:02:46.471042
+5090216,M,Y,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2024-02-08 11:11:26.391727,1,0,0,0,Laborers,2,1,2052-11-02 11:02:46.471042
+5092087,M,Y,Y,2,247500.0,Working,Secondary / secondary special,Married,House / apartment,2024-12-22 11:11:26.391727,1,0,0,0,Laborers,4,1,2070-12-06 11:02:46.471042
+5092479,M,N,N,1,85500.0,State servant,Secondary / secondary special,Married,Municipal apartment,2042-04-23 11:11:26.391727,1,0,0,0,Core staff,3,1,2064-08-13 11:02:46.471042
+5096527,F,N,N,0,135000.0,Working,Secondary / secondary special,Widow,Co-op apartment,2025-02-09 11:11:26.391727,1,0,0,0,Core staff,1,1,2078-04-20 11:02:46.471042
+5096528,F,N,N,0,135000.0,Working,Secondary / secondary special,Widow,Co-op apartment,2025-02-09 11:11:26.391727,1,0,0,0,Core staff,1,1,2078-04-20 11:02:46.471042
+5096743,F,N,Y,0,180000.0,Working,Lower secondary,Widow,House / apartment,2029-08-10 11:11:26.391727,1,1,1,0,Cleaning staff,1,1,2069-07-07 11:02:46.471042
+5100430,M,Y,N,0,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2025-03-10 11:11:26.391727,1,0,0,0,Laborers,1,1,2068-03-01 11:02:46.471042
+5105056,M,Y,N,0,191399.3262295082,Commercial associate,Higher education,Single / not married,Municipal apartment,2025-03-03 11:11:26.391727,1,0,1,1,High skill tech staff,1,1,2055-01-27 11:02:46.471042
+5106077,F,N,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2042-07-10 11:11:26.391727,1,0,0,0,Medicine staff,2,1,2077-08-15 11:02:46.471042
+5113621,M,N,N,0,225000.0,Working,Secondary / secondary special,Widow,Municipal apartment,2024-06-16 11:11:26.391727,1,0,0,0,Security staff,1,1,2076-08-22 11:02:46.471042
+5114249,M,N,N,1,130500.0,Working,Incomplete higher,Married,Rented apartment,2028-06-17 11:11:26.391727,1,1,1,0,Laborers,3,1,2054-07-14 11:02:46.471042
+5114253,M,N,N,1,130500.0,Working,Incomplete higher,Married,Rented apartment,2028-06-17 11:11:26.391727,1,1,1,0,Laborers,3,1,2054-07-14 11:02:46.471042
+5115604,F,N,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2032-11-15 11:11:26.391727,1,0,0,0,Core staff,2,1,2063-04-10 11:02:46.471042
+5115606,F,N,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2032-11-15 11:11:26.391727,1,0,0,0,Core staff,2,1,2063-04-10 11:02:46.471042
+5115608,F,N,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2032-11-15 11:11:26.391727,1,0,0,0,Core staff,2,1,2063-04-10 11:02:46.471042
+5115610,F,N,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2032-11-15 11:11:26.391727,1,0,0,0,Core staff,2,1,2063-04-10 11:02:46.471042
+5115611,F,N,Y,0,202500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2032-11-15 11:11:26.391727,1,0,0,0,Core staff,2,1,2063-04-10 11:02:46.471042
+5116035,M,Y,Y,0,126000.0,Working,Higher education,Single / not married,House / apartment,2025-11-15 11:11:26.391727,1,1,0,0,Managers,1,1,2063-04-09 11:02:46.471042
+5116036,M,Y,Y,0,126000.0,Working,Higher education,Single / not married,House / apartment,2025-11-15 11:11:26.391727,1,1,0,0,Managers,1,1,2063-04-09 11:02:46.471042
+5117313,F,N,Y,1,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2034-04-10 11:11:26.391727,1,1,1,0,Laborers,3,1,2059-03-01 11:02:46.471042
+5118541,F,N,Y,0,72000.0,Working,Secondary / secondary special,Married,House / apartment,2026-05-10 11:11:26.391727,1,0,1,0,Laborers,2,1,2073-02-25 11:02:46.471042
+5125289,F,N,N,1,202500.0,Working,Secondary / secondary special,Separated,House / apartment,2023-11-17 11:11:26.391727,1,0,0,0,Laborers,2,1,2061-09-03 11:02:46.471042
+5125708,F,Y,Y,0,135000.0,Working,Lower secondary,Married,House / apartment,2025-03-19 11:11:26.391727,1,0,1,0,High skill tech staff,2,1,2068-06-12 11:02:46.471042
+5125716,F,Y,Y,0,135000.0,Working,Lower secondary,Married,House / apartment,2025-03-19 11:11:26.391727,1,0,1,0,High skill tech staff,2,1,2068-06-12 11:02:46.471042
+5125761,M,N,Y,0,270000.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,2027-11-17 11:11:26.391727,1,0,0,0,Cooking staff,1,1,2072-11-05 11:02:46.471042
+5125763,M,Y,N,1,135000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2027-12-18 11:11:26.391727,1,0,1,0,Laborers,3,1,2059-03-09 11:02:46.471042
+5125934,F,N,Y,2,135000.0,Commercial associate,Lower secondary,Civil marriage,With parents,2028-08-16 11:11:26.391727,1,1,0,0,Sales staff,4,1,2050-07-06 11:02:46.471042
+5135344,M,N,Y,0,112500.0,Commercial associate,Higher education,Married,House / apartment,2025-01-11 11:11:26.391727,1,0,0,0,Security staff,2,1,2078-07-20 11:02:46.471042
+5135345,M,N,Y,0,112500.0,Commercial associate,Higher education,Married,House / apartment,2025-01-11 11:11:26.391727,1,0,0,0,Security staff,2,1,2078-07-20 11:02:46.471042
+5135346,M,N,Y,0,112500.0,Commercial associate,Higher education,Married,House / apartment,2025-01-11 11:11:26.391727,1,0,0,0,Security staff,2,1,2078-07-20 11:02:46.471042
+5135485,F,N,Y,0,135000.0,State servant,Higher education,Single / not married,Municipal apartment,2028-10-22 11:11:26.391727,1,0,0,0,Core staff,1,1,2052-09-11 11:02:46.471042
+5135487,F,N,Y,0,135000.0,State servant,Higher education,Single / not married,Municipal apartment,2028-10-22 11:11:26.391727,1,0,0,0,Core staff,1,1,2052-09-11 11:02:46.471042
+5135636,M,Y,Y,0,195750.0,Working,Secondary / secondary special,Married,House / apartment,2026-01-22 11:11:26.391727,1,1,1,0,Laborers,2,1,2075-01-30 11:02:46.471042
+5142183,M,Y,Y,2,191399.3262295082,Commercial associate,Higher education,Married,House / apartment,2035-04-19 11:11:26.391727,1,1,1,0,Managers,4,1,2072-05-10 11:02:46.471042
+5142361,M,Y,Y,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,2026-01-16 11:11:26.391727,1,1,1,0,Drivers,3,1,2067-11-16 11:02:46.471042
+5142362,M,Y,Y,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,2026-01-16 11:11:26.391727,1,1,1,0,Drivers,3,1,2067-11-16 11:02:46.471042
+5142456,F,N,N,0,67500.0,Commercial associate,Higher education,Separated,House / apartment,2024-11-16 11:11:26.391727,1,0,1,0,Core staff,1,1,2075-05-26 11:02:46.471042
+5142458,F,N,Y,0,67500.0,Commercial associate,Higher education,Separated,House / apartment,2024-11-16 11:11:26.391727,1,0,1,0,Core staff,1,1,2075-05-26 11:02:46.471042
+5142459,F,N,Y,0,67500.0,Commercial associate,Higher education,Separated,House / apartment,2024-11-16 11:11:26.391727,1,0,1,0,Core staff,1,1,2075-05-26 11:02:46.471042
+5143342,M,N,N,1,216000.0,Working,Secondary / secondary special,Married,Municipal apartment,2030-02-17 11:11:26.391727,1,0,0,1,Laborers,3,1,2058-12-15 11:02:46.471042
+5146005,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-01-11 11:11:26.391727,1,0,0,1,Managers,1,1,2051-05-17 11:02:46.471042
+5146079,F,N,Y,1,108000.0,Working,Secondary / secondary special,Married,House / apartment,2026-08-11 11:11:26.391727,1,1,1,0,Sales staff,3,1,2058-05-06 11:02:46.471042
+5146167,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2028-05-10 11:11:26.391727,1,0,0,0,Security staff,2,1,2079-01-29 11:02:46.471042
+5146444,F,N,Y,0,135000.0,Working,Secondary / secondary special,Widow,House / apartment,2026-01-10 11:11:26.391727,1,0,1,0,Managers,1,1,2062-12-02 11:02:46.471042
+5148932,M,Y,N,0,108000.0,Working,Secondary / secondary special,Married,Office apartment,2026-06-21 11:11:26.391727,1,0,0,0,Security staff,2,1,2070-08-17 11:02:46.471042
+5148934,M,Y,N,0,108000.0,Working,Secondary / secondary special,Married,Office apartment,2026-06-21 11:11:26.391727,1,0,0,0,Security staff,2,1,2070-08-17 11:02:46.471042
+5149828,M,Y,Y,0,315000.0,Working,Secondary / secondary special,Married,House / apartment,2030-02-19 11:11:26.391727,1,0,0,0,Managers,2,1,2071-01-03 11:02:46.471042
+5149834,F,N,Y,0,157500.0,Commercial associate,Higher education,Married,House / apartment,2027-02-20 11:11:26.391727,1,0,1,1,Medicine staff,2,1,2057-06-04 11:02:46.471042
+5149838,F,N,Y,0,157500.0,Pensioner,Higher education,Married,House / apartment,2027-02-20 11:11:26.391727,1,0,1,1,Medicine staff,2,1,2057-06-04 11:02:46.471042
+5118538,F,N,Y,1,81000.0,Working,Secondary / secondary special,Married,Municipal apartment,2040-12-10 11:11:26.391727,1,1,1,0,Cleaning staff,3,0,2066-08-18 11:02:46.471042
+5069057,M,Y,N,0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-04-24 11:11:26.391727,1,0,0,0,Laborers,2,0,2072-02-21 11:02:46.471042
+5066689,F,N,Y,0,180000.0,Commercial associate,Higher education,Civil marriage,House / apartment,2024-06-11 11:11:26.391727,1,0,1,1,Sales staff,2,0,2058-12-15 11:02:46.471042
+5113717,F,N,N,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2031-11-15 11:11:26.391727,1,0,0,1,Private service staff,3,0,2068-06-14 11:02:46.471042
+5066765,F,N,Y,1,63000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2031-09-09 11:11:26.391727,1,0,0,0,Sales staff,3,0,2063-05-07 11:02:46.471042
+5105227,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2029-05-03 11:11:26.391727,1,0,0,0,Laborers,2,0,2071-01-20 11:02:46.471042
+5067187,F,N,Y,0,112500.0,Working,Higher education,Married,House / apartment,2025-10-03 11:11:26.391727,1,1,0,0,Core staff,2,0,2054-10-23 11:02:46.471042
+5033574,F,Y,Y,1,191399.3262295082,Working,Secondary / secondary special,Married,House / apartment,2023-11-24 11:11:26.391727,1,1,1,0,Cooking staff,3,0,2062-06-13 11:02:46.471042
+5046340,M,N,Y,1,180000.0,Working,Lower secondary,Married,House / apartment,2028-02-22 11:11:26.391727,1,1,0,0,Laborers,3,0,2052-06-24 11:02:46.471042
+5022326,M,Y,Y,0,256500.0,Commercial associate,Higher education,Married,House / apartment,2028-02-04 11:11:26.391727,1,0,0,1,Core staff,2,0,2082-05-20 11:02:46.471042
+5065764,F,N,Y,0,90000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2025-05-29 11:11:26.391727,1,0,0,0,Laborers,1,0,2063-11-19 11:02:46.471042
+5067849,F,N,Y,0,180000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2025-01-23 11:11:26.391727,1,0,0,0,Laborers,1,0,2063-11-29 11:02:46.471042
+5097169,F,N,N,0,90000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2025-12-07 11:11:26.391727,1,0,0,0,Sales staff,1,0,2052-11-21 11:02:46.471042
+5067723,F,N,Y,1,337500.0,Working,Academic degree,Single / not married,House / apartment,2031-02-03 11:11:26.391727,1,0,0,0,Laborers,2,0,2057-11-19 11:02:46.471042
+5056077,M,Y,Y,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,2027-09-30 11:11:26.391727,1,0,0,0,Core staff,2,0,2056-10-14 11:02:46.471042
+5143016,M,N,N,0,180000.0,Commercial associate,Secondary / secondary special,Civil marriage,Rented apartment,2032-03-19 11:11:26.391727,1,0,0,0,Laborers,2,0,2063-04-29 11:02:46.471042
+5021445,F,N,Y,0,121500.0,Working,Secondary / secondary special,Married,With parents,2037-10-04 11:11:26.391727,1,1,1,0,Core staff,2,0,2059-12-19 11:02:46.471042
+5053592,F,N,Y,1,117000.0,Working,Lower secondary,Widow,House / apartment,2031-12-03 11:11:26.391727,1,0,1,0,Laborers,2,0,2071-10-15 11:02:46.471042
+5116163,F,N,Y,2,90000.0,Working,Secondary / secondary special,Married,House / apartment,2024-05-21 11:11:26.391727,1,0,0,0,Security staff,4,0,2050-08-12 11:02:46.471042
+5066627,M,Y,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2025-02-08 11:11:26.391727,1,0,0,0,Laborers,2,0,2067-06-05 19:15:21.385852
+5125399,M,Y,N,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2025-10-17 11:11:26.391727,1,0,0,0,Laborers,2,0,2051-01-26 11:02:46.471042
+5067345,F,Y,N,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-06-25 11:11:26.391727,1,0,1,0,Laborers,2,0,2068-10-18 11:02:46.471042
+5053711,F,Y,N,2,157500.0,Commercial associate,Incomplete higher,Married,House / apartment,2027-05-05 11:11:26.391727,1,0,0,1,Laborers,4,0,2058-09-17 11:02:46.471042
+5125158,M,N,Y,1,234000.0,Working,Secondary / secondary special,Married,House / apartment,2028-04-18 11:11:26.391727,1,0,0,0,Laborers,3,0,2056-04-13 11:02:46.471042
+5062688,M,Y,Y,0,247500.0,State servant,Secondary / secondary special,Married,Municipal apartment,2025-11-27 11:11:26.391727,1,1,0,1,High skill tech staff,2,0,2078-07-29 11:02:46.471042
+5105685,F,N,Y,2,144000.0,Working,Secondary / secondary special,Married,House / apartment,2031-03-11 11:11:26.391727,1,1,1,0,Private service staff,4,0,2062-03-15 11:02:46.471042
+5115984,M,Y,Y,2,180000.0,Working,Higher education,Married,House / apartment,2030-04-17 11:11:26.391727,1,0,0,0,Managers,4,0,2059-07-31 11:02:46.471042
+5085769,F,N,Y,0,191399.3262295082,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-07-22 11:11:26.391727,1,0,0,0,Cleaning staff,2,0,2076-05-18 11:02:46.471042
+5065363,F,N,Y,1,216000.0,Working,Higher education,Single / not married,House / apartment,2028-05-22 11:11:26.391727,1,0,1,0,Core staff,2,0,2052-04-16 11:02:46.471042
+5140074,F,N,Y,0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2024-09-09 11:11:26.391727,1,0,0,0,Core staff,2,0,2064-12-01 11:02:46.471042
+5091963,M,Y,N,0,180000.0,Working,Secondary / secondary special,Married,Municipal apartment,2027-05-22 11:11:26.391727,1,1,0,0,Drivers,2,0,2075-01-03 11:02:46.471042
+5067149,M,N,N,2,225000.0,Working,Incomplete higher,Married,House / apartment,2024-03-25 11:11:26.391727,1,0,0,0,Laborers,4,0,2061-10-03 11:02:46.471042
+5096424,M,Y,N,0,270000.0,Commercial associate,Higher education,Separated,House / apartment,2029-12-10 11:11:26.391727,1,0,1,0,Laborers,1,0,2055-04-30 11:02:46.471042
+5029348,M,Y,Y,0,270000.0,Working,Higher education,Married,House / apartment,2024-08-21 11:11:26.391727,1,0,0,0,Drivers,2,0,2053-06-20 11:02:46.471042
+5096061,F,N,N,2,73350.0,Working,Secondary / secondary special,Married,House / apartment,2042-11-11 11:11:26.391727,1,0,0,0,Medicine staff,4,0,2062-09-20 11:02:46.471042
+5028917,F,Y,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2028-05-27 11:11:26.391727,1,0,0,0,Sales staff,2,0,2070-08-10 11:02:46.471042
+5117778,F,Y,N,0,144000.0,Working,Secondary / secondary special,Widow,House / apartment,2027-03-12 11:11:26.391727,1,0,0,0,HR staff,1,0,2062-12-15 11:02:46.471042
+5095310,F,Y,Y,0,225000.0,Working,Higher education,Married,House / apartment,2033-09-08 11:11:26.391727,1,0,0,0,Core staff,2,0,2057-03-31 11:02:46.471042
+5050655,F,N,N,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2026-05-19 11:11:26.391727,1,1,1,0,Accountants,2,0,2063-09-01 11:02:46.471042
+5033817,F,Y,N,1,292500.0,State servant,Higher education,Married,House / apartment,2030-10-24 11:11:26.391727,1,0,1,0,Core staff,3,0,2067-05-06 11:02:46.471042
+5052963,M,Y,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-08-24 11:11:26.391727,1,0,0,0,Laborers,2,0,2050-11-05 11:02:46.471042
+5113159,M,Y,Y,0,157500.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,2029-05-10 11:11:26.391727,1,1,0,0,Laborers,1,0,2050-07-06 11:02:46.471042
+5132800,F,N,Y,0,157500.0,Working,Secondary / secondary special,Separated,House / apartment,2027-09-17 11:11:26.391727,1,0,0,0,Sales staff,1,0,2074-04-09 11:02:46.471042
+5090549,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2030-06-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2065-03-28 11:02:46.471042
+5054522,F,Y,Y,1,135000.0,Working,Higher education,Married,House / apartment,2029-11-02 11:11:26.391727,1,0,0,0,Laborers,3,0,2050-12-05 11:02:46.471042
+5051061,F,N,N,2,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-02-18 11:11:26.391727,1,0,1,0,Laborers,4,0,2056-03-19 11:02:46.471042
+5010707,M,Y,N,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2037-05-14 11:11:26.391727,1,0,1,0,Drivers,2,0,2066-12-09 11:02:46.471042
+5028984,F,N,Y,0,193500.0,Working,Secondary / secondary special,Separated,House / apartment,2029-07-27 11:11:26.391727,1,1,1,1,Laborers,1,0,2075-09-14 11:02:46.471042
+5028615,F,Y,Y,0,225000.0,Commercial associate,Higher education,Single / not married,With parents,2029-05-27 11:11:26.391727,1,0,1,0,Sales staff,1,0,2052-10-02 11:02:46.471042
+5126034,F,Y,Y,0,108000.0,Working,Secondary / secondary special,Separated,House / apartment,2026-01-16 11:11:26.391727,1,0,0,1,Cleaning staff,1,0,2070-07-10 11:02:46.471042
+5021775,F,N,Y,0,292500.0,Commercial associate,Higher education,Civil marriage,House / apartment,2027-10-05 11:11:26.391727,1,0,0,0,Laborers,2,0,2063-04-09 11:02:46.471042
+5046415,M,Y,Y,0,270000.0,Working,Higher education,Married,House / apartment,2027-10-22 11:11:26.391727,1,0,1,0,Laborers,2,0,2063-02-12 11:02:46.471042
+5117314,M,N,Y,1,292500.0,Working,Secondary / secondary special,Married,House / apartment,2028-02-09 11:11:26.391727,1,0,0,0,Laborers,3,0,2069-01-17 11:02:46.471042
+5139548,F,Y,Y,2,157500.0,Commercial associate,Higher education,Married,House / apartment,2040-11-10 11:11:26.391727,1,0,1,0,Medicine staff,4,0,2060-09-13 11:02:46.471042
+5096416,F,N,N,0,76500.0,Working,Secondary / secondary special,Married,House / apartment,2023-10-11 11:11:26.391727,1,1,0,0,Laborers,2,0,2069-09-18 11:02:46.471042
+5042286,F,N,Y,0,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2026-11-09 11:11:26.391727,1,0,0,0,Secretaries,1,0,2053-02-07 11:02:46.471042
+5050729,M,Y,N,0,180000.0,Working,Secondary / secondary special,Single / not married,With parents,2024-12-18 11:11:26.391727,1,0,0,0,Laborers,1,0,2046-11-10 11:02:46.471042
+5044935,M,N,Y,2,360000.0,State servant,Higher education,Married,House / apartment,2038-12-13 11:11:26.391727,1,0,1,0,Managers,4,0,2067-05-23 11:02:46.471042
+5113539,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2028-05-16 11:11:26.391727,1,0,0,0,Laborers,2,0,2080-12-09 11:02:46.471042
+5033452,F,N,N,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2038-07-25 11:11:26.391727,1,1,1,0,Core staff,2,0,2075-12-03 11:02:46.471042
+5065335,M,N,Y,0,202500.0,Commercial associate,Lower secondary,Married,Rented apartment,2028-10-22 11:11:26.391727,1,0,1,0,Sales staff,2,0,2050-04-01 11:02:46.471042
+5145978,F,Y,N,0,112500.0,State servant,Secondary / secondary special,Widow,House / apartment,2039-08-11 11:11:26.391727,1,0,0,0,Secretaries,1,0,2077-01-01 11:02:46.471042
+5105614,F,Y,Y,2,135000.0,Working,Higher education,Married,House / apartment,2024-10-08 11:11:26.391727,1,0,0,0,Accountants,4,0,2057-04-12 11:02:46.471042
+5038845,F,N,Y,0,103500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-10-22 11:11:26.391727,1,1,1,0,Sales staff,2,0,2070-01-27 11:02:46.471042
+5105556,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2035-12-02 11:11:26.391727,1,0,0,0,Laborers,2,0,2077-09-22 11:02:46.471042
+5028383,M,Y,N,0,337500.0,Working,Secondary / secondary special,Single / not married,With parents,2032-07-27 11:11:26.391727,1,0,0,0,Core staff,1,0,2054-07-27 11:02:46.471042
+5009980,F,Y,Y,0,180000.0,State servant,Secondary / secondary special,Married,House / apartment,2034-02-11 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2080-01-12 11:02:46.471042
+5009706,F,N,N,0,157500.0,Working,Higher education,Married,House / apartment,2024-06-14 11:11:26.391727,1,0,0,0,Managers,2,0,2055-05-23 11:02:46.471042
+5146463,M,Y,N,0,360000.0,State servant,Higher education,Married,House / apartment,2028-10-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2050-11-04 11:02:46.471042
+5112662,F,N,N,1,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2025-03-01 11:11:26.391727,1,0,0,0,Managers,3,0,2057-02-06 11:02:46.471042
+5096796,M,Y,Y,0,337500.0,Working,Higher education,Separated,House / apartment,2025-02-09 11:11:26.391727,1,0,0,0,Laborers,1,0,2059-08-14 11:02:46.471042
+5066597,F,N,N,1,360000.0,Commercial associate,Higher education,Civil marriage,House / apartment,2028-10-09 11:11:26.391727,1,0,0,0,Sales staff,3,0,2064-01-17 11:02:46.471042
+5047704,F,N,Y,2,191399.3262295082,Working,Secondary / secondary special,Single / not married,House / apartment,2027-08-10 11:11:26.391727,1,0,0,0,Laborers,3,0,2063-10-21 11:02:46.471042
+5143019,M,N,N,0,270000.0,Working,Secondary / secondary special,Married,With parents,2025-03-19 11:11:26.391727,1,1,1,0,Laborers,2,0,2055-09-24 11:02:46.471042
+5118617,F,N,N,0,270000.0,Commercial associate,Higher education,Single / not married,House / apartment,2037-10-09 11:11:26.391727,1,0,0,0,Sales staff,1,0,2066-09-08 11:02:46.471042
+5042232,F,N,Y,0,112500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2040-09-07 11:11:26.391727,1,1,0,0,Sales staff,1,0,2058-09-09 11:02:46.471042
+5125317,M,Y,N,0,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-12-18 11:11:26.391727,1,0,0,0,Laborers,2,0,2080-08-29 11:02:46.471042
+5038814,F,N,Y,0,247500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2025-07-21 11:11:26.391727,1,0,0,0,Laborers,2,0,2076-07-13 11:02:46.471042
+5095356,F,N,N,0,157500.0,Working,Secondary / secondary special,Single / not married,With parents,2026-05-10 11:11:26.391727,1,0,0,0,Sales staff,1,0,2048-03-16 11:02:46.471042
+5037266,M,Y,N,0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2027-02-17 11:11:26.391727,1,0,0,0,Drivers,1,0,2056-01-26 11:02:46.471042
+5052865,F,N,Y,0,94500.0,Commercial associate,Incomplete higher,Married,House / apartment,2032-12-23 11:11:26.391727,1,1,1,0,Sales staff,2,0,2061-06-26 11:02:46.471042
+5096211,M,N,N,0,81000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2023-12-11 11:11:26.391727,1,1,0,0,Low-skill Laborers,2,0,2062-06-02 11:02:46.471042
+5023280,F,Y,Y,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-03-28 11:11:26.391727,1,0,0,0,Sales staff,2,0,2069-03-27 11:02:46.471042
+5132340,F,N,Y,2,198000.0,Commercial associate,Incomplete higher,Separated,House / apartment,2031-03-17 11:11:26.391727,1,0,0,0,Laborers,3,0,2066-05-07 11:02:46.471042
+5045917,M,Y,Y,0,315000.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,2029-01-21 11:11:26.391727,1,0,0,0,Drivers,2,0,2070-01-10 11:02:46.471042
+5041073,F,N,Y,0,67500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-01-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2073-04-13 11:02:46.471042
+5149660,F,N,Y,1,180000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2031-08-20 11:11:26.391727,1,0,0,0,Realty agents,3,0,2056-02-23 11:02:46.471042
+5022756,F,N,N,1,202500.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,2032-03-06 11:11:26.391727,1,0,0,0,Sales staff,2,0,2053-01-29 11:02:46.471042
+5036562,F,N,N,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,2037-06-29 11:11:26.391727,1,1,0,0,Laborers,3,0,2056-03-27 11:02:46.471042
+5117754,M,Y,N,0,306000.0,Working,Secondary / secondary special,Married,House / apartment,2028-01-10 11:11:26.391727,1,0,0,0,Managers,2,0,2067-05-07 11:02:46.471042
+5125281,F,N,Y,1,90000.0,Working,Secondary / secondary special,Married,House / apartment,2033-08-16 11:11:26.391727,1,0,0,1,Sales staff,3,0,2068-01-31 11:02:46.471042
+5149039,F,N,Y,2,270000.0,Commercial associate,Higher education,Civil marriage,House / apartment,2033-08-19 11:11:26.391727,1,0,0,0,Laborers,4,0,2053-08-25 11:02:46.471042
+5021267,F,Y,Y,1,270000.0,Working,Secondary / secondary special,Married,House / apartment,2036-02-04 11:11:26.391727,1,0,0,0,Laborers,3,0,2063-03-30 11:02:46.471042
+5125166,M,N,Y,1,234000.0,Working,Secondary / secondary special,Married,House / apartment,2028-04-18 11:11:26.391727,1,0,0,0,Laborers,3,0,2056-04-13 11:02:46.471042
+5125524,M,N,N,2,171000.0,Working,Secondary / secondary special,Married,Municipal apartment,2039-01-17 11:11:26.391727,1,1,1,0,Core staff,4,0,2061-06-21 11:02:46.471042
+5010089,F,N,N,0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2028-02-12 11:11:26.391727,1,0,0,0,Laborers,2,0,2051-09-21 11:02:46.471042
+5126457,F,N,N,0,94500.0,Working,Higher education,Married,House / apartment,2024-01-18 11:11:26.391727,1,0,0,0,Security staff,2,0,2069-07-29 11:02:46.471042
+5142763,F,N,N,0,117000.0,Commercial associate,Secondary / secondary special,Single / not married,With parents,2024-12-17 11:11:26.391727,1,0,0,0,Sales staff,1,0,2050-12-12 11:02:46.471042
+5023261,M,Y,Y,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2028-02-26 11:11:26.391727,1,0,0,0,Drivers,2,0,2081-07-23 11:02:46.471042
+5090861,F,Y,Y,0,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2029-06-12 11:11:26.391727,1,0,0,0,Sales staff,2,0,2077-08-16 11:02:46.471042
+5118397,M,N,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2028-01-10 11:11:26.391727,1,0,0,0,Drivers,2,0,2070-06-23 11:02:46.471042
+5069399,M,N,Y,0,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2027-08-23 11:11:26.391727,1,1,1,0,Core staff,1,0,2046-07-01 11:02:46.471042
+5008889,F,N,Y,0,247500.0,Commercial associate,Higher education,Separated,Rented apartment,2027-03-14 11:11:26.391727,1,0,0,0,Core staff,1,0,2070-02-05 11:02:46.471042
+5022041,M,N,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2027-05-11 11:11:26.391727,1,0,0,1,Sales staff,2,0,2051-01-09 11:02:46.471042
+5126124,F,Y,N,0,72000.0,Working,Secondary / secondary special,Married,House / apartment,2024-02-18 11:11:26.391727,1,1,1,0,Medicine staff,2,0,2065-01-31 11:02:46.471042
+5050853,M,N,N,0,180000.0,Commercial associate,Higher education,Single / not married,House / apartment,2027-08-19 11:11:26.391727,1,0,0,0,High skill tech staff,1,0,2049-06-27 11:02:46.471042
+5024412,M,Y,N,0,270000.0,Working,Higher education,Married,House / apartment,2037-06-06 11:11:26.391727,1,0,0,0,Managers,2,0,2074-05-21 11:02:46.471042
+5090612,F,Y,N,0,202500.0,Working,Higher education,Married,House / apartment,2031-06-19 11:11:26.391727,1,0,0,0,Accountants,2,0,2061-04-05 11:02:46.471042
+5028274,F,Y,N,2,360000.0,Working,Incomplete higher,Married,House / apartment,2029-07-27 11:11:26.391727,1,0,0,0,Accountants,4,0,2058-05-13 11:02:46.471042
+5028996,M,Y,Y,0,270000.0,Working,Higher education,Married,House / apartment,2024-06-26 11:11:26.391727,1,0,0,0,Laborers,2,0,2057-01-30 11:02:46.471042
+5126322,F,N,N,0,270000.0,Working,Secondary / secondary special,Married,House / apartment,2028-03-20 11:11:26.391727,1,1,1,0,High skill tech staff,2,0,2072-03-08 11:02:46.471042
+5053610,F,N,Y,0,112500.0,Working,Secondary / secondary special,Married,Municipal apartment,2033-08-02 11:11:26.391727,1,0,0,0,Laborers,2,0,2079-11-18 11:02:46.471042
+5069227,F,Y,Y,0,191399.3262295082,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-02-22 11:11:26.391727,1,0,1,0,Sales staff,2,0,2070-12-16 11:02:46.471042
+5137401,F,N,N,0,157500.0,Working,Higher education,Separated,House / apartment,2031-09-22 11:11:26.391727,1,0,0,0,Medicine staff,1,0,2070-09-14 11:02:46.471042
+5142812,M,Y,N,0,202500.0,State servant,Secondary / secondary special,Married,House / apartment,2035-03-20 11:11:26.391727,1,1,1,0,Core staff,2,0,2055-05-27 11:02:46.471042
+5053354,F,Y,N,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2023-10-24 11:11:26.391727,1,0,0,0,Laborers,2,0,2073-10-13 11:02:46.471042
+5087944,F,N,Y,0,72000.0,Working,Secondary / secondary special,Widow,House / apartment,2029-03-14 11:11:26.391727,1,1,1,0,Cleaning staff,1,0,2078-01-21 11:02:46.471042
+5068491,M,N,N,1,315000.0,Commercial associate,Higher education,Married,House / apartment,2023-10-24 11:11:26.391727,1,0,1,0,Laborers,3,0,2073-09-02 11:02:46.471042
+5009739,F,Y,N,0,99000.0,Working,Secondary / secondary special,Married,House / apartment,2035-07-15 11:11:26.391727,1,1,1,0,Core staff,2,0,2063-08-22 11:02:46.471042
+5096991,F,N,Y,1,225000.0,Commercial associate,Higher education,Married,House / apartment,2023-11-09 11:11:26.391727,1,0,0,0,Core staff,3,0,2057-02-09 11:02:46.471042
+5046362,F,N,Y,0,90000.0,Working,Secondary / secondary special,Civil marriage,With parents,2023-11-22 11:11:26.391727,1,1,1,0,Sales staff,2,0,2062-11-24 11:02:46.471042
+5066817,F,Y,N,1,360000.0,Working,Higher education,Widow,House / apartment,2034-07-11 11:11:26.391727,1,0,0,1,Managers,2,0,2068-08-18 11:02:46.471042
+5068888,F,N,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2036-11-22 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2087-12-14 11:02:46.471042
+5022308,F,N,Y,0,90000.0,Working,Secondary / secondary special,Separated,House / apartment,2032-08-06 11:11:26.391727,1,0,0,0,Laborers,1,0,2075-08-24 11:02:46.471042
+5068465,F,N,Y,1,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2028-11-22 11:11:26.391727,1,0,1,0,Private service staff,3,0,2051-05-15 11:02:46.471042
+5137033,M,Y,N,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,2024-01-22 11:11:26.391727,1,0,1,0,Laborers,3,0,2062-08-31 11:02:46.471042
+5100220,M,Y,Y,2,315000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2040-04-10 11:11:26.391727,1,0,0,0,Drivers,4,0,2065-01-28 11:02:46.471042
+5078842,F,Y,Y,1,135000.0,Working,Secondary / secondary special,Married,With parents,2023-10-31 11:11:26.391727,1,0,0,0,Private service staff,3,0,2052-05-06 11:02:46.471042
+5105150,F,N,Y,0,90000.0,Working,Higher education,Married,House / apartment,2028-05-03 11:11:26.391727,1,0,0,0,Sales staff,2,0,2075-05-14 11:02:46.471042
+5045253,F,N,Y,1,270000.0,Working,Secondary / secondary special,Married,House / apartment,2033-08-11 11:11:26.391727,1,0,0,0,Core staff,3,0,2080-08-09 11:02:46.471042
+5100000,F,N,N,1,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2032-11-09 11:11:26.391727,1,0,0,0,Sales staff,3,0,2065-03-13 11:02:46.471042
+5029725,F,N,Y,1,135000.0,Commercial associate,Higher education,Married,House / apartment,2031-06-24 11:11:26.391727,1,1,0,1,Core staff,3,0,2050-04-13 11:02:46.471042
+5090925,F,N,Y,0,243000.0,Commercial associate,Secondary / secondary special,Married,With parents,2032-11-07 11:11:26.391727,1,0,0,0,Laborers,2,0,2070-01-20 11:02:46.471042
+5115947,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2026-07-17 11:11:26.391727,1,0,0,0,Laborers,1,0,2049-10-03 11:02:46.471042
+5149040,F,N,Y,0,180000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2033-05-22 11:11:26.391727,1,0,0,0,Laborers,2,0,2077-08-01 11:02:46.471042
+5113291,F,Y,Y,2,121500.0,Working,Incomplete higher,Married,House / apartment,2023-10-15 11:11:26.391727,1,1,1,0,Core staff,4,0,2054-07-10 11:02:46.471042
+5139951,F,Y,Y,0,121500.0,State servant,Secondary / secondary special,Married,House / apartment,2032-05-10 11:11:26.391727,1,1,0,0,Laborers,2,0,2078-03-27 11:02:46.471042
+5028697,M,Y,N,1,270000.0,Working,Higher education,Married,Rented apartment,2024-01-25 11:11:26.391727,1,0,1,0,Laborers,3,0,2053-02-15 11:02:46.471042
+5009443,F,N,N,0,90000.0,State servant,Secondary / secondary special,Married,House / apartment,2028-02-12 11:11:26.391727,1,0,1,0,Laborers,2,0,2049-06-28 11:02:46.471042
+5096621,F,N,N,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2027-11-11 11:11:26.391727,1,0,1,0,Laborers,3,0,2063-02-07 11:02:46.471042
+5149150,M,Y,Y,0,247500.0,Working,Secondary / secondary special,Married,House / apartment,2033-04-21 11:11:26.391727,1,1,0,0,Laborers,2,0,2053-06-30 11:02:46.471042
+5118448,F,N,N,1,76500.0,Working,Secondary / secondary special,Married,House / apartment,2025-07-10 11:11:26.391727,1,1,0,0,Sales staff,3,0,2051-02-09 11:02:46.471042
+5022833,M,Y,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2027-12-09 11:11:26.391727,1,0,0,0,Core staff,2,0,2070-10-09 11:02:46.471042
+5010397,F,Y,Y,1,225000.0,Working,Higher education,Married,House / apartment,2027-11-13 11:11:26.391727,1,1,1,0,High skill tech staff,3,0,2062-03-31 11:02:46.471042
+5047789,F,Y,Y,0,225000.0,Commercial associate,Higher education,Married,House / apartment,2026-03-11 11:11:26.391727,1,0,0,0,Laborers,2,0,2052-02-21 11:02:46.471042
+5150047,F,N,Y,0,283500.0,Working,Secondary / secondary special,Married,House / apartment,2025-04-21 11:11:26.391727,1,0,0,0,Sales staff,2,0,2072-09-04 11:02:46.471042
+5021682,M,N,Y,0,191399.3262295082,Commercial associate,Secondary / secondary special,Separated,House / apartment,2033-07-06 11:11:26.391727,1,0,0,0,Cleaning staff,1,0,2074-10-31 11:02:46.471042
+5088699,F,Y,Y,0,252000.0,Working,Secondary / secondary special,Married,House / apartment,2026-12-18 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2071-08-05 11:02:46.471042
+5146472,F,Y,Y,0,180000.0,Commercial associate,Higher education,Civil marriage,House / apartment,2033-12-10 11:11:26.391727,1,0,0,0,Sales staff,2,0,2062-03-16 11:02:46.471042
+5068156,M,Y,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2032-05-25 11:11:26.391727,1,0,0,0,Laborers,2,0,2077-01-28 11:02:46.471042
+5117756,M,Y,N,0,306000.0,Working,Secondary / secondary special,Married,House / apartment,2028-01-10 11:11:26.391727,1,0,0,0,Managers,2,0,2067-05-07 11:02:46.471042
+5143164,F,N,N,2,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-03-20 11:11:26.391727,1,1,0,0,Accountants,4,0,2061-04-08 11:02:46.471042
+5135841,F,N,Y,1,36000.0,Working,Secondary / secondary special,Married,House / apartment,2026-07-23 11:11:26.391727,1,0,1,0,Core staff,3,0,2057-07-04 11:02:46.471042
+5023059,M,Y,Y,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,2024-11-25 11:11:26.391727,1,0,0,0,Laborers,3,0,2054-05-23 11:02:46.471042
+5125325,M,Y,N,0,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-12-18 11:11:26.391727,1,0,0,0,Laborers,2,0,2080-08-29 11:02:46.471042
+5135574,F,Y,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2026-03-24 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2055-09-05 11:02:46.471042
+5009053,F,N,Y,2,202500.0,Working,Higher education,Married,House / apartment,2029-10-11 11:11:26.391727,1,0,0,1,Core staff,4,0,2053-08-14 11:02:46.471042
+5029108,M,Y,N,1,315000.0,State servant,Secondary / secondary special,Married,House / apartment,2033-06-26 11:11:26.391727,1,0,0,1,High skill tech staff,3,0,2059-09-25 11:02:46.471042
+5091400,F,N,N,0,135000.0,Working,Secondary / secondary special,Married,With parents,2025-11-21 11:11:26.391727,1,0,0,0,Laborers,2,0,2057-02-15 11:02:46.471042
+5050768,F,N,N,2,337500.0,Working,Secondary / secondary special,Married,House / apartment,2029-06-18 11:11:26.391727,1,0,0,0,Core staff,4,0,2053-08-07 11:02:46.471042
+5113420,F,N,N,1,157500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,2038-02-13 11:11:26.391727,1,0,0,0,Core staff,2,0,2058-04-29 11:02:46.471042
+5113132,F,Y,Y,0,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2033-03-10 11:11:26.391727,1,0,0,0,Sales staff,2,0,2075-08-15 11:02:46.471042
+5062670,F,Y,Y,1,135000.0,Working,Higher education,Married,House / apartment,2035-07-30 11:11:26.391727,1,0,0,0,Managers,3,0,2064-03-15 11:02:46.471042
+5029352,M,Y,Y,0,270000.0,Working,Higher education,Married,House / apartment,2024-08-21 11:11:26.391727,1,0,0,0,Drivers,2,0,2053-06-20 11:02:46.471042
+5105067,M,N,Y,0,157500.0,Working,Incomplete higher,Married,House / apartment,2024-10-01 11:11:26.391727,1,1,1,0,Laborers,2,0,2060-12-20 11:02:46.471042
+5143573,M,Y,N,0,157500.0,Working,Incomplete higher,Married,With parents,2026-02-20 11:11:26.391727,1,1,0,0,Drivers,2,0,2048-06-28 11:02:46.471042
+5065673,F,N,N,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2036-05-29 11:11:26.391727,1,0,0,0,Laborers,1,0,2055-01-11 11:02:46.471042
+5029544,F,Y,Y,1,133650.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2028-11-21 11:11:26.391727,1,0,0,0,Laborers,3,0,2063-06-22 11:02:46.471042
+5111159,F,Y,Y,1,81000.0,Working,Higher education,Married,House / apartment,2027-04-29 11:11:26.391727,1,1,1,0,Core staff,3,0,2052-08-30 11:02:46.471042
+5099957,F,Y,Y,1,225000.0,Commercial associate,Higher education,Married,House / apartment,2024-10-08 11:11:26.391727,1,0,0,0,Accountants,3,0,2054-04-13 11:02:46.471042
+5143360,F,N,Y,0,126000.0,Working,Secondary / secondary special,Married,House / apartment,2029-08-17 11:11:26.391727,1,1,1,0,High skill tech staff,2,0,2085-12-18 11:02:46.471042
+5091753,M,Y,N,2,135000.0,Working,Higher education,Married,House / apartment,2027-12-23 11:11:26.391727,1,0,0,0,Core staff,4,0,2058-05-08 11:02:46.471042
+5117403,F,N,N,0,94500.0,Working,Secondary / secondary special,Married,House / apartment,2027-12-11 11:11:26.391727,1,0,0,0,Waiters/barmen staff,2,0,2069-05-23 11:02:46.471042
+5149319,F,Y,Y,1,180000.0,Working,Higher education,Separated,House / apartment,2039-11-20 11:11:26.391727,1,0,0,0,Managers,2,0,2075-02-01 11:02:46.471042
+5137542,F,N,N,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2032-02-22 11:11:26.391727,1,1,0,0,Cooking staff,2,0,2075-03-16 11:02:46.471042
+5095170,M,Y,Y,0,252000.0,Commercial associate,Higher education,Married,House / apartment,2030-11-08 11:11:26.391727,1,0,0,0,Drivers,2,0,2061-04-13 11:02:46.471042
+5090780,F,N,N,1,202500.0,Working,Secondary / secondary special,Married,House / apartment,2032-12-08 11:11:26.391727,1,0,0,0,Managers,3,0,2056-06-29 11:02:46.471042
+5092242,F,N,N,0,117000.0,Working,Secondary / secondary special,Married,House / apartment,2029-11-21 11:11:26.391727,1,0,0,0,Laborers,2,0,2080-05-01 11:02:46.471042
+5068671,M,N,Y,0,247500.0,Working,Incomplete higher,Married,House / apartment,2024-08-22 11:11:26.391727,1,0,0,0,Core staff,2,0,2048-08-02 11:02:46.471042
+5087994,M,Y,Y,1,180000.0,Commercial associate,Incomplete higher,Civil marriage,House / apartment,2041-09-14 11:11:26.391727,1,0,0,0,Laborers,3,0,2066-01-28 11:02:46.471042
+5052739,F,N,Y,2,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2024-11-22 11:11:26.391727,1,0,0,1,High skill tech staff,4,0,2052-02-18 11:02:46.471042
+5068747,F,N,N,0,157500.0,Working,Higher education,Civil marriage,With parents,2024-01-23 11:11:26.391727,1,0,0,0,Accountants,2,0,2059-09-26 11:02:46.471042
+5149353,M,Y,Y,0,191399.3262295082,Commercial associate,Higher education,Married,House / apartment,2032-06-21 11:11:26.391727,1,0,0,0,Accountants,2,0,2056-12-07 11:02:46.471042
+5024578,F,N,N,1,90000.0,Working,Secondary / secondary special,Married,With parents,2027-07-07 11:11:26.391727,1,0,0,0,Laborers,3,0,2051-08-01 11:02:46.471042
+5058405,M,Y,Y,0,247500.0,Working,Higher education,Married,House / apartment,2030-08-27 11:11:26.391727,1,0,0,0,Managers,2,0,2058-09-03 11:02:46.471042
+5041869,M,Y,N,0,99000.0,State servant,Secondary / secondary special,Married,House / apartment,2024-12-08 11:11:26.391727,1,1,1,0,Core staff,2,0,2076-09-18 11:02:46.471042
+5115894,M,Y,N,0,247500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-02-16 11:11:26.391727,1,0,0,0,Drivers,2,0,2071-04-20 11:02:46.471042
+5062749,M,Y,N,1,202500.0,State servant,Higher education,Married,House / apartment,2030-04-07 11:11:26.391727,1,0,0,0,Laborers,3,0,2060-02-29 11:02:46.471042
+5045611,F,N,Y,2,90000.0,Working,Secondary / secondary special,Married,House / apartment,2025-06-21 11:11:26.391727,1,0,0,0,Laborers,4,0,2055-09-18 11:02:46.471042
+5113288,F,Y,Y,2,121500.0,Working,Incomplete higher,Married,House / apartment,2023-10-15 11:11:26.391727,1,1,1,0,Core staff,4,0,2054-07-10 11:02:46.471042
+5053003,F,Y,Y,0,157500.0,Working,Incomplete higher,Married,House / apartment,2027-12-24 11:11:26.391727,1,1,1,0,Laborers,2,0,2049-03-20 11:02:46.471042
+5118038,F,N,N,2,121500.0,Working,Higher education,Married,House / apartment,2025-03-11 11:11:26.391727,1,0,0,0,HR staff,4,0,2055-07-15 11:02:46.471042
+5091405,F,N,Y,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2028-09-21 11:11:26.391727,1,1,0,0,Laborers,1,0,2071-08-22 11:02:46.471042
+5137022,F,N,N,0,180000.0,State servant,Secondary / secondary special,Widow,House / apartment,2024-06-21 11:11:26.391727,1,1,1,0,Laborers,1,0,2073-04-15 11:02:46.471042
+5137292,M,Y,N,1,225000.0,Working,Secondary / secondary special,Married,House / apartment,2043-05-22 11:11:26.391727,1,1,1,0,High skill tech staff,3,0,2065-03-30 11:02:46.471042
+5038751,M,Y,Y,2,157500.0,Commercial associate,Higher education,Married,With parents,2025-03-23 11:11:26.391727,1,0,0,0,Drivers,4,0,2062-05-14 11:02:46.471042
+5099900,M,Y,Y,0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2042-04-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2079-03-15 11:02:46.471042
+5061321,F,Y,Y,1,261000.0,State servant,Higher education,Married,House / apartment,2027-12-20 11:11:26.391727,1,0,0,0,Managers,3,0,2064-09-18 11:02:46.471042
+5139410,F,Y,Y,2,135000.0,State servant,Secondary / secondary special,Married,House / apartment,2040-03-12 11:11:26.391727,1,1,0,0,Core staff,4,0,2063-01-16 11:02:46.471042
+5048486,M,Y,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2025-07-09 11:11:26.391727,1,1,1,0,Drivers,2,0,2059-01-30 11:02:46.471042
+5091280,M,N,Y,1,103500.0,Working,Secondary / secondary special,Married,House / apartment,2025-04-23 11:11:26.391727,1,1,0,0,Laborers,3,0,2055-11-17 11:02:46.471042
+5023186,M,Y,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2030-11-26 11:11:26.391727,1,0,1,0,Core staff,2,0,2070-09-12 11:02:46.471042
+5054307,M,N,N,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2025-12-02 11:11:26.391727,1,0,0,0,Laborers,3,0,2051-03-17 11:02:46.471042
+5116879,F,N,N,0,112500.0,Working,Higher education,Single / not married,With parents,2023-12-10 11:11:26.391727,1,1,1,0,High skill tech staff,1,0,2053-10-17 11:02:46.471042
+5050453,M,N,Y,1,231750.0,Working,Secondary / secondary special,Married,House / apartment,2023-11-18 11:11:26.391727,1,0,0,0,Laborers,3,0,2062-07-08 11:02:46.471042
+5022804,F,Y,Y,0,202500.0,Working,Higher education,Widow,House / apartment,2027-08-11 11:11:26.391727,1,0,0,0,Managers,1,0,2056-05-11 11:02:46.471042
+5091374,M,Y,Y,0,247500.0,Working,Secondary / secondary special,Married,House / apartment,2026-12-23 11:11:26.391727,1,1,1,0,Drivers,2,0,2065-07-31 11:02:46.471042
+5135484,F,N,Y,0,135000.0,State servant,Higher education,Single / not married,Municipal apartment,2028-10-22 11:11:26.391727,1,0,0,0,Core staff,1,0,2052-09-11 11:02:46.471042
+5054188,F,N,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2024-12-02 11:11:26.391727,1,0,1,0,Sales staff,2,0,2054-09-11 11:02:46.471042
+5068548,M,Y,Y,0,117000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-04-24 11:11:26.391727,1,0,0,0,Laborers,2,0,2076-06-28 11:02:46.471042
+5053472,M,N,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2029-05-04 11:11:26.391727,1,1,1,0,Low-skill Laborers,2,0,2074-03-16 11:02:46.471042
+5105395,F,N,Y,0,135000.0,Working,Incomplete higher,Single / not married,House / apartment,2025-01-31 11:11:26.391727,1,0,0,0,Secretaries,1,0,2053-06-10 11:02:46.471042
+5089722,F,N,N,0,315000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,2032-06-10 11:11:26.391727,1,1,1,1,Private service staff,1,0,2071-09-29 11:02:46.471042
+5066562,F,N,N,0,180000.0,Commercial associate,Incomplete higher,Married,With parents,2024-09-08 11:11:26.391727,1,1,0,1,Sales staff,2,0,2046-02-02 11:02:46.471042
+5010203,M,Y,Y,0,135000.0,Working,Lower secondary,Married,With parents,2028-08-14 11:11:26.391727,1,0,0,1,Laborers,2,0,2050-11-02 11:02:46.471042
+5024665,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2036-01-07 11:11:26.391727,1,1,1,0,Laborers,2,0,2063-01-02 11:02:46.471042
+5089626,F,N,N,0,315000.0,Commercial associate,Higher education,Married,House / apartment,2024-05-10 11:11:26.391727,1,1,1,1,Sales staff,2,0,2067-10-31 11:02:46.471042
+5021373,F,N,Y,0,247500.0,Working,Higher education,Married,House / apartment,2025-02-03 11:11:26.391727,1,0,0,1,Managers,2,0,2084-01-07 11:02:46.471042
+5054699,M,Y,Y,0,157500.0,Working,Higher education,Married,House / apartment,2042-06-04 11:11:26.391727,1,0,0,0,Laborers,2,0,2067-06-05 19:15:21.385852
+5051180,M,Y,N,1,191399.3262295082,Working,Secondary / secondary special,Married,House / apartment,2028-10-18 11:11:26.391727,1,0,1,0,Laborers,3,0,2059-05-04 11:02:46.471042
+5096300,F,N,N,1,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2029-09-09 11:11:26.391727,1,0,0,0,High skill tech staff,3,0,2049-01-10 11:02:46.471042
+5053143,M,N,Y,1,126000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2023-11-23 11:11:26.391727,1,0,1,0,Laborers,3,0,2057-03-10 11:02:46.471042
+5038510,F,N,Y,0,103500.0,Working,Incomplete higher,Married,House / apartment,2036-01-22 11:11:26.391727,1,0,0,0,Laborers,2,0,2055-12-20 11:02:46.471042
+5023482,F,N,Y,1,119250.0,Working,Secondary / secondary special,Married,House / apartment,2035-07-27 11:11:26.391727,1,1,1,0,Core staff,3,0,2067-02-16 11:02:46.471042
+5054099,M,Y,N,2,202500.0,Working,Higher education,Married,House / apartment,2025-07-02 11:11:26.391727,1,0,0,0,Drivers,4,0,2055-08-23 11:02:46.471042
+5062713,F,N,Y,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,2033-12-05 11:11:26.391727,1,0,0,0,Core staff,3,0,2063-03-28 11:02:46.471042
+5088851,F,Y,Y,0,112500.0,Working,Higher education,Married,House / apartment,2029-11-07 11:11:26.391727,1,0,0,1,Accountants,2,0,2054-08-05 11:02:46.471042
+5111117,F,N,Y,1,315000.0,Working,Higher education,Married,House / apartment,2027-06-30 11:11:26.391727,1,0,0,0,Managers,3,0,2055-04-11 11:02:46.471042
+5118115,M,N,N,1,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2038-05-10 11:11:26.391727,1,1,1,0,Drivers,3,0,2060-07-29 11:02:46.471042
+5024258,M,N,Y,0,162000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2025-02-06 11:11:26.391727,1,0,0,0,Security staff,1,0,2054-12-25 11:02:46.471042
+5113976,M,Y,N,0,270000.0,Working,Incomplete higher,Married,House / apartment,2025-12-15 11:11:26.391727,1,1,1,1,Laborers,2,0,2056-03-29 11:02:46.471042
+5099907,F,N,Y,2,112500.0,Working,Incomplete higher,Married,House / apartment,2028-08-08 11:11:26.391727,1,0,0,0,Core staff,4,0,2053-06-05 11:02:46.471042
+5038932,F,N,Y,0,94500.0,Commercial associate,Higher education,Separated,House / apartment,2040-10-21 11:11:26.391727,1,0,1,0,Medicine staff,1,0,2063-05-05 11:02:46.471042
+5078924,M,N,Y,0,270000.0,Working,Secondary / secondary special,Married,House / apartment,2026-04-01 11:11:26.391727,1,0,1,0,Laborers,2,0,2067-08-20 11:02:46.471042
+5068390,F,Y,Y,1,270000.0,Working,Higher education,Separated,House / apartment,2023-11-23 11:11:26.391727,1,0,1,1,Sales staff,2,0,2061-12-25 11:02:46.471042
+5033788,F,N,Y,1,315000.0,Working,Higher education,Separated,House / apartment,2036-07-23 11:11:26.391727,1,1,1,0,Private service staff,2,0,2066-08-07 11:02:46.471042
+5010781,F,Y,Y,1,157500.0,Commercial associate,Higher education,Married,House / apartment,2029-09-11 11:11:26.391727,1,0,0,1,Core staff,3,0,2063-02-20 11:02:46.471042
+5022761,F,N,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2027-03-11 11:11:26.391727,1,0,0,1,Sales staff,2,0,2050-04-26 11:02:46.471042
+5041980,F,N,N,0,211500.0,Commercial associate,Higher education,Married,With parents,2036-05-08 11:11:26.391727,1,1,1,0,Laborers,2,0,2063-08-01 11:02:46.471042
+5132264,F,N,N,0,144000.0,Working,Secondary / secondary special,Married,House / apartment,2029-02-16 11:11:26.391727,1,0,1,0,Laborers,2,0,2067-06-05 19:15:21.385852
+5142136,F,N,N,2,144000.0,Working,Secondary / secondary special,Married,House / apartment,2037-03-18 11:11:26.391727,1,0,0,0,Medicine staff,4,0,2070-01-21 11:02:46.471042
+5088163,F,N,Y,0,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2026-01-14 11:11:26.391727,1,0,0,0,Core staff,1,0,2058-11-21 11:02:46.471042
+5146086,M,N,N,0,148500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,2026-10-11 11:11:26.391727,1,0,0,1,Laborers,1,0,2062-03-05 11:02:46.471042
+5139553,F,Y,Y,2,157500.0,Commercial associate,Higher education,Married,House / apartment,2040-11-10 11:11:26.391727,1,0,1,0,Medicine staff,4,0,2060-09-13 11:02:46.471042
+5041474,F,N,Y,0,90000.0,Commercial associate,Higher education,Married,House / apartment,2025-09-06 11:11:26.391727,1,0,0,1,Sales staff,2,0,2048-03-02 11:02:46.471042
+5118270,F,N,N,0,99000.0,Working,Secondary / secondary special,Married,With parents,2038-06-10 11:11:26.391727,1,1,0,0,Medicine staff,2,0,2077-01-29 11:02:46.471042
+5142290,F,N,Y,1,162000.0,State servant,Higher education,Civil marriage,House / apartment,2023-10-02 11:11:26.391727,1,0,0,0,Accountants,3,0,2064-08-26 11:02:46.471042
+5148792,F,N,Y,0,202500.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,2038-07-22 11:11:26.391727,1,0,0,0,Managers,1,0,2071-04-15 11:02:46.471042
+5062031,F,Y,Y,0,225000.0,Working,Higher education,Single / not married,House / apartment,2025-02-18 11:11:26.391727,1,0,1,1,Laborers,1,0,2050-01-13 11:02:46.471042
+5035418,F,N,Y,0,292500.0,Working,Higher education,Married,House / apartment,2036-09-11 11:11:26.391727,1,0,0,0,Core staff,2,0,2081-04-23 11:02:46.471042
+5137407,F,N,N,0,157500.0,Working,Higher education,Separated,House / apartment,2031-09-22 11:11:26.391727,1,0,0,0,Medicine staff,1,0,2070-09-14 11:02:46.471042
+5095117,F,N,Y,0,67500.0,Working,Higher education,Married,House / apartment,2027-11-08 11:11:26.391727,1,0,0,0,Core staff,2,0,2062-07-01 11:02:46.471042
+5146401,F,N,Y,0,112500.0,Working,Secondary / secondary special,Separated,House / apartment,2029-04-09 11:11:26.391727,1,1,0,0,Cleaning staff,1,0,2077-05-25 11:02:46.471042
+5105137,F,N,Y,0,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2026-05-03 11:11:26.391727,1,0,0,0,Laborers,1,0,2050-10-09 11:02:46.471042
+5146467,M,Y,N,0,360000.0,State servant,Higher education,Married,House / apartment,2028-10-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2050-11-04 11:02:46.471042
+5113082,F,N,Y,1,112500.0,Working,Higher education,Single / not married,House / apartment,2026-08-10 11:11:26.391727,1,0,0,0,Core staff,2,0,2065-05-29 11:02:46.471042
+5052755,M,N,Y,0,225000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2026-09-23 11:11:26.391727,1,0,0,0,Managers,2,0,2052-06-13 11:02:46.471042
+5113020,M,Y,Y,0,202500.0,State servant,Secondary / secondary special,Married,House / apartment,2029-07-13 11:11:26.391727,1,0,0,0,Core staff,2,0,2063-07-18 11:02:46.471042
+5058267,M,N,N,1,225000.0,Commercial associate,Secondary / secondary special,Married,With parents,2028-09-29 11:11:26.391727,1,0,0,0,Drivers,3,0,2072-06-06 11:02:46.471042
+5037247,M,Y,Y,2,112500.0,Working,Secondary / secondary special,Married,House / apartment,2026-01-17 11:11:26.391727,1,0,0,0,Laborers,4,0,2056-10-30 11:02:46.471042
+5100461,M,Y,Y,1,202500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2030-05-09 11:11:26.391727,1,0,0,0,High skill tech staff,3,0,2057-07-04 11:02:46.471042
+5096753,M,Y,N,0,328500.0,Working,Higher education,Married,House / apartment,2030-10-11 11:11:26.391727,1,1,1,0,Laborers,2,0,2064-04-18 11:02:46.471042
+5091778,M,N,Y,2,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-09-22 11:11:26.391727,1,1,0,0,Laborers,4,0,2053-04-13 11:02:46.471042
+5038569,M,Y,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2024-02-21 11:11:26.391727,1,0,1,0,Laborers,2,0,2078-03-13 11:02:46.471042
+5069169,M,Y,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2026-02-22 11:11:26.391727,1,0,0,1,Sales staff,2,0,2051-10-01 11:02:46.471042
+5065820,M,Y,Y,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,2029-09-28 11:11:26.391727,1,0,0,0,Laborers,3,0,2067-06-05 19:15:21.385852
+5091048,F,N,Y,2,270000.0,Commercial associate,Higher education,Married,House / apartment,2029-07-11 11:11:26.391727,1,0,0,1,Secretaries,4,0,2065-10-11 11:02:46.471042
+5097134,M,Y,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2030-04-08 11:11:26.391727,1,1,1,0,Drivers,2,0,2054-09-03 11:02:46.471042
+5033884,M,Y,Y,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,2026-01-23 11:11:26.391727,1,1,1,0,Core staff,2,0,2078-06-10 11:02:46.471042
+5097024,M,Y,N,0,198000.0,Commercial associate,Higher education,Married,House / apartment,2031-08-09 11:11:26.391727,1,0,0,0,Managers,2,0,2060-11-11 11:02:46.471042
+5091144,M,Y,N,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2027-03-12 11:11:26.391727,1,0,0,0,Laborers,2,0,2053-01-14 11:02:46.471042
+5088503,M,Y,Y,0,72000.0,Working,Higher education,Married,House / apartment,2025-03-16 11:11:26.391727,1,0,0,0,Security staff,2,0,2083-06-18 11:02:46.471042
+5126142,M,Y,N,2,202500.0,Working,Secondary / secondary special,Married,House / apartment,2033-11-17 11:11:26.391727,1,0,0,0,Laborers,4,0,2067-01-20 11:02:46.471042
+5067020,F,Y,Y,1,247500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2026-12-10 11:11:26.391727,1,0,0,1,Laborers,3,0,2070-06-21 11:02:46.471042
+5061076,M,Y,N,0,157500.0,State servant,Secondary / secondary special,Married,House / apartment,2032-05-21 11:11:26.391727,1,1,0,0,Laborers,2,0,2064-05-17 11:02:46.471042
+5126527,F,N,N,0,225000.0,State servant,Secondary / secondary special,Married,With parents,2024-01-18 11:11:26.391727,1,0,1,0,Medicine staff,2,0,2057-02-06 11:02:46.471042
+5078931,M,N,N,0,112500.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,2024-04-29 11:11:26.391727,1,0,1,0,Laborers,1,0,2066-11-30 11:02:46.471042
+5025207,M,Y,Y,1,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2023-11-07 11:11:26.391727,1,0,0,0,Drivers,3,0,2050-08-14 11:02:46.471042
+5042097,F,N,N,1,108000.0,Working,Secondary / secondary special,Separated,House / apartment,2034-09-08 11:11:26.391727,1,0,1,0,Laborers,2,0,2062-10-18 11:02:46.471042
+5089137,F,Y,N,0,202500.0,Commercial associate,Secondary / secondary special,Civil marriage,With parents,2038-02-07 11:11:26.391727,1,0,1,0,Laborers,2,0,2062-06-19 11:02:46.471042
+5065601,M,N,Y,0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-12-23 11:11:26.391727,1,0,1,0,Laborers,2,0,2080-08-22 11:02:46.471042
+5112833,F,N,Y,1,90000.0,Working,Secondary / secondary special,Separated,With parents,2026-04-18 11:11:26.391727,1,0,1,1,Sales staff,2,0,2059-08-26 11:02:46.471042
+5024636,F,N,Y,0,191399.3262295082,Working,Secondary / secondary special,Married,House / apartment,2026-08-07 11:11:26.391727,1,0,0,0,Laborers,2,0,2078-01-20 11:02:46.471042
+5050549,M,N,N,2,225000.0,Working,Higher education,Civil marriage,House / apartment,2031-12-19 11:11:26.391727,1,1,0,0,Laborers,4,0,2069-06-02 11:02:46.471042
+5065763,F,N,Y,0,90000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2025-05-29 11:11:26.391727,1,0,0,0,Laborers,1,0,2063-11-19 11:02:46.471042
+5089269,F,N,N,0,72000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2027-07-11 11:11:26.391727,1,1,0,0,Cleaning staff,1,0,2074-12-24 11:02:46.471042
+5028684,M,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2031-09-25 11:11:26.391727,1,0,0,1,Laborers,2,0,2049-09-29 11:02:46.471042
+5028737,M,N,Y,0,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2034-07-27 11:11:26.391727,1,0,0,0,Managers,2,0,2057-09-08 11:02:46.471042
+5025741,F,Y,N,0,216000.0,Working,Higher education,Married,Municipal apartment,2024-04-13 11:11:26.391727,1,0,1,0,Sales staff,2,0,2056-04-17 11:02:46.471042
+5045992,F,N,Y,0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2035-10-22 11:11:26.391727,1,0,0,0,Laborers,2,0,2065-04-12 11:02:46.471042
+5054453,M,Y,Y,0,315000.0,Working,Higher education,Married,House / apartment,2026-09-03 11:11:26.391727,1,0,0,0,Laborers,2,0,2072-07-22 11:02:46.471042
+5024586,F,Y,Y,2,315000.0,State servant,Secondary / secondary special,Married,House / apartment,2026-11-07 11:11:26.391727,1,0,0,0,Managers,4,0,2057-04-26 11:02:46.471042
+5091929,F,Y,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2025-04-23 11:11:26.391727,1,0,0,0,Laborers,2,0,2073-05-01 11:02:46.471042
+5149034,F,N,Y,0,180000.0,State servant,Higher education,Married,House / apartment,2026-10-21 11:11:26.391727,1,0,0,0,Core staff,2,0,2071-05-18 11:02:46.471042
+5114114,M,Y,N,0,157500.0,Working,Secondary / secondary special,Separated,House / apartment,2025-06-17 11:11:26.391727,1,0,1,0,Security staff,1,0,2070-03-15 11:02:46.471042
+5142579,F,Y,Y,1,234000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2031-04-19 11:11:26.391727,1,0,0,0,Laborers,2,0,2080-02-05 11:02:46.471042
+5050756,M,Y,N,0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2034-07-19 11:11:26.391727,1,1,0,0,Drivers,2,0,2072-12-13 11:02:46.471042
+5047853,M,Y,Y,1,292500.0,Commercial associate,Higher education,Married,House / apartment,2032-08-09 11:11:26.391727,1,0,0,0,Laborers,3,0,2057-12-03 11:02:46.471042
+5135819,F,N,Y,0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2031-05-23 11:11:26.391727,1,0,0,0,Laborers,2,0,2076-11-06 11:02:46.471042
+5105743,M,Y,N,2,112500.0,Working,Higher education,Married,House / apartment,2041-11-01 11:11:26.391727,1,1,1,0,High skill tech staff,4,0,2067-06-05 19:15:21.385852
+5028280,F,N,N,1,157500.0,Commercial associate,Incomplete higher,Married,With parents,2031-01-25 11:11:26.391727,1,0,0,0,Laborers,3,0,2056-03-15 11:02:46.471042
+5095896,F,N,N,1,112500.0,Commercial associate,Higher education,Married,House / apartment,2030-06-11 11:11:26.391727,1,1,1,0,Managers,3,0,2067-05-14 11:02:46.471042
+5028337,F,Y,N,1,225000.0,Working,Higher education,Single / not married,With parents,2038-04-26 11:11:26.391727,1,0,0,0,Laborers,2,0,2061-06-17 11:02:46.471042
+5090788,F,Y,Y,1,225000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,2027-04-10 11:11:26.391727,1,0,0,0,Managers,2,0,2053-05-18 11:02:46.471042
+5046126,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2031-12-23 11:11:26.391727,1,1,1,0,Managers,2,0,2079-02-03 11:02:46.471042
+5092265,M,N,Y,0,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2024-06-21 11:11:26.391727,1,0,0,0,Security staff,2,0,2072-05-06 11:02:46.471042
+5114354,M,Y,N,0,180000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,2031-09-15 11:11:26.391727,1,1,0,0,Laborers,2,0,2050-05-15 11:02:46.471042
+5117248,F,N,Y,2,112500.0,Working,Secondary / secondary special,Married,House / apartment,2030-01-09 11:11:26.391727,1,0,0,0,Laborers,4,0,2059-01-12 11:02:46.471042
+5024386,F,N,N,0,117000.0,Working,Secondary / secondary special,Married,Municipal apartment,2027-01-07 11:11:26.391727,1,0,0,0,Sales staff,2,0,2060-06-15 11:02:46.471042
+5033439,M,Y,N,2,270000.0,Working,Higher education,Married,House / apartment,2031-09-24 11:11:26.391727,1,0,1,0,Laborers,4,0,2055-08-10 11:02:46.471042
+5089320,F,Y,N,0,135000.0,Commercial associate,Higher education,Married,House / apartment,2025-10-08 11:11:26.391727,1,1,1,1,High skill tech staff,2,0,2055-04-25 11:02:46.471042
+5053872,M,Y,Y,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,2029-05-03 11:11:26.391727,1,0,0,0,Laborers,3,0,2055-05-06 11:02:46.471042
+5091735,F,Y,Y,0,243000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2029-02-21 11:11:26.391727,1,0,0,0,Sales staff,1,0,2063-10-20 11:02:46.471042
+5105791,M,N,N,0,121500.0,State servant,Incomplete higher,Single / not married,House / apartment,2027-12-03 11:11:26.391727,1,1,0,0,Laborers,1,0,2048-01-03 11:02:46.471042
+5125928,M,N,Y,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2025-04-18 11:11:26.391727,1,0,0,0,Laborers,3,0,2055-08-16 11:02:46.471042
+5115662,M,Y,Y,0,225000.0,Commercial associate,Higher education,Single / not married,House / apartment,2030-06-16 11:11:26.391727,1,0,1,0,Sales staff,1,0,2067-04-20 11:02:46.471042
+5029256,M,Y,Y,2,225000.0,Working,Higher education,Married,House / apartment,2026-03-24 11:11:26.391727,1,0,0,0,Drivers,4,0,2060-05-08 11:02:46.471042
+5136029,M,Y,N,0,112500.0,State servant,Secondary / secondary special,Married,House / apartment,2029-11-22 11:11:26.391727,1,0,0,0,Laborers,2,0,2076-12-26 11:02:46.471042
+5023177,F,N,Y,1,337500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2036-05-28 11:11:26.391727,1,1,1,0,Laborers,3,0,2072-01-28 11:02:46.471042
+5021967,F,N,N,1,103500.0,Working,Secondary / secondary special,Married,House / apartment,2026-10-09 11:11:26.391727,1,0,0,0,Sales staff,3,0,2055-08-07 11:02:46.471042
+5146534,F,Y,N,1,67500.0,State servant,Secondary / secondary special,Married,House / apartment,2026-09-10 11:11:26.391727,1,0,0,0,Core staff,3,0,2064-12-28 11:02:46.471042
+5088161,F,N,Y,0,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2026-01-14 11:11:26.391727,1,0,0,0,Core staff,1,0,2058-11-21 11:02:46.471042
+5100394,M,N,Y,1,315000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2034-03-10 11:11:26.391727,1,0,0,0,Core staff,3,0,2057-02-24 11:02:46.471042
+5095631,M,Y,N,1,180000.0,Working,Higher education,Married,House / apartment,2024-02-10 11:11:26.391727,1,0,0,0,Drivers,3,0,2054-02-11 11:02:46.471042
+5113647,F,N,Y,0,225000.0,Working,Incomplete higher,Married,House / apartment,2024-02-14 11:11:26.391727,1,0,0,1,Managers,2,0,2057-01-30 11:02:46.471042
+5046336,F,N,N,1,85500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2025-12-22 11:11:26.391727,1,1,0,0,Accountants,3,0,2051-06-26 11:02:46.471042
+5028781,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2031-10-26 11:11:26.391727,1,0,0,0,Laborers,2,0,2066-11-13 11:02:46.471042
+5125730,F,Y,Y,1,119700.0,Working,Higher education,Married,House / apartment,2032-08-16 11:11:26.391727,1,0,1,0,Laborers,3,0,2059-04-06 11:02:46.471042
+5116369,M,N,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2033-02-06 11:11:26.391727,1,0,0,0,Drivers,2,0,2076-12-05 11:02:46.471042
+5062214,F,N,Y,2,153000.0,Commercial associate,Higher education,Married,House / apartment,2027-02-19 11:11:26.391727,1,0,0,0,Accountants,4,0,2059-11-17 11:02:46.471042
+5009023,F,N,Y,2,216000.0,State servant,Higher education,Married,House / apartment,2032-01-12 11:11:26.391727,1,0,0,1,Laborers,4,0,2065-10-17 11:02:46.471042
+5029191,F,N,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2031-08-12 11:11:26.391727,1,0,0,0,Sales staff,2,0,2067-06-05 19:15:21.385852
+5028946,F,N,Y,0,90000.0,State servant,Secondary / secondary special,Married,House / apartment,2024-02-25 11:11:26.391727,1,0,0,0,Laborers,2,0,2071-03-16 11:02:46.471042
+5068470,F,N,N,1,108000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2025-06-24 11:11:26.391727,1,0,0,0,Medicine staff,3,0,2064-12-27 11:02:46.471042
+5090049,F,N,Y,0,69372.0,Working,Secondary / secondary special,Married,House / apartment,2024-02-08 11:11:26.391727,1,1,1,0,Laborers,2,0,2067-01-03 11:02:46.471042
+5067730,F,N,Y,1,135000.0,Commercial associate,Incomplete higher,Married,House / apartment,2030-09-03 11:11:26.391727,1,1,1,0,Managers,3,0,2051-09-05 11:02:46.471042
+5092239,F,N,N,0,117000.0,Working,Secondary / secondary special,Married,House / apartment,2029-11-21 11:11:26.391727,1,0,0,0,Laborers,2,0,2080-05-01 11:02:46.471042
+5105560,F,N,Y,0,202500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2035-08-02 11:11:26.391727,1,0,0,1,Sales staff,2,0,2069-07-21 11:02:46.471042
+5099914,F,N,Y,2,126000.0,Working,Secondary / secondary special,Married,House / apartment,2027-11-09 11:11:26.391727,1,1,1,0,Sales staff,4,0,2050-12-11 11:02:46.471042
+5150038,M,N,N,0,180000.0,Working,Secondary / secondary special,Single / not married,With parents,2027-09-20 11:11:26.391727,1,0,0,0,Drivers,1,0,2058-07-06 11:02:46.471042
+5053678,F,Y,Y,0,225000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2027-06-05 11:11:26.391727,1,0,1,0,High skill tech staff,1,0,2056-07-27 11:02:46.471042
+5087538,M,N,Y,0,81000.0,Commercial associate,Higher education,Single / not married,House / apartment,2028-10-15 11:11:26.391727,1,0,1,0,Laborers,1,0,2050-07-18 11:02:46.471042
+5050440,F,Y,Y,1,157500.0,Working,Incomplete higher,Civil marriage,House / apartment,2031-01-18 11:11:26.391727,1,0,0,0,Laborers,3,0,2059-03-25 11:02:46.471042
+5061611,M,Y,Y,1,225000.0,Working,Secondary / secondary special,Married,House / apartment,2025-11-19 11:11:26.391727,1,0,1,0,Drivers,3,0,2054-08-30 11:02:46.471042
+5041066,F,N,Y,0,103500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2029-05-09 11:11:26.391727,1,0,0,0,Sales staff,1,0,2071-04-26 11:02:46.471042
+5105819,M,Y,N,2,202500.0,Commercial associate,Higher education,Married,House / apartment,2024-10-08 11:11:26.391727,1,0,0,0,Managers,4,0,2055-08-03 11:02:46.471042
+5091006,F,N,Y,0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2032-05-11 11:11:26.391727,1,0,0,0,Laborers,2,0,2070-08-19 11:02:46.471042
+5050852,M,N,N,0,180000.0,Commercial associate,Higher education,Single / not married,House / apartment,2027-08-19 11:11:26.391727,1,0,0,0,High skill tech staff,1,0,2049-06-27 11:02:46.471042
+5117202,F,N,Y,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2023-10-09 11:11:26.391727,1,0,0,0,Sales staff,1,0,2060-07-21 11:02:46.471042
+5074739,M,N,Y,1,225000.0,Working,Higher education,Married,House / apartment,2033-08-12 11:11:26.391727,1,0,0,0,Core staff,3,0,2059-08-24 11:02:46.471042
+5135489,M,Y,Y,2,225000.0,Working,Secondary / secondary special,Married,House / apartment,2032-10-22 11:11:26.391727,1,0,0,0,Laborers,4,0,2051-12-06 11:02:46.471042
+5067016,M,N,Y,0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-10-09 11:11:26.391727,1,0,0,0,Drivers,1,0,2050-09-08 11:02:46.471042
+5024097,F,Y,N,0,126000.0,State servant,Incomplete higher,Single / not married,House / apartment,2037-10-06 11:11:26.391727,1,1,0,0,Core staff,1,0,2056-04-21 11:02:46.471042
+5008865,F,Y,Y,2,135000.0,Working,Secondary / secondary special,Married,House / apartment,2032-03-13 11:11:26.391727,1,0,0,0,Laborers,4,0,2066-08-30 11:02:46.471042
+5116640,F,N,Y,1,202500.0,Working,Secondary / secondary special,Married,House / apartment,2025-07-07 11:11:26.391727,1,0,0,1,Laborers,3,0,2066-10-12 11:02:46.471042
+5089770,M,Y,Y,2,225000.0,Working,Secondary / secondary special,Married,House / apartment,2030-06-10 11:11:26.391727,1,1,0,0,Laborers,4,0,2053-01-25 11:02:46.471042
+5009118,F,N,N,0,157500.0,Commercial associate,Higher education,Separated,With parents,2024-09-10 11:11:26.391727,1,0,0,0,Laborers,1,0,2066-08-06 11:02:46.471042
+5042296,M,Y,Y,1,202500.0,Working,Secondary / secondary special,Married,House / apartment,2029-04-07 11:11:26.391727,1,1,1,0,Drivers,3,0,2065-02-22 11:02:46.471042
+5010185,M,N,N,1,247500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2041-07-14 11:11:26.391727,1,0,1,0,Laborers,2,0,2069-07-01 11:02:46.471042
+5090509,M,Y,Y,0,225000.0,Commercial associate,Higher education,Married,House / apartment,2023-12-09 11:11:26.391727,1,0,0,0,Managers,2,0,2053-01-20 11:02:46.471042
+5113006,M,Y,N,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,2029-07-13 11:11:26.391727,1,0,0,0,Laborers,3,0,2077-02-16 11:02:46.471042
+5026368,M,N,Y,1,112500.0,Working,Higher education,Married,House / apartment,2038-06-17 11:11:26.391727,1,1,1,0,Laborers,3,0,2060-12-20 11:02:46.471042
+5095905,F,N,N,0,135000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,2027-11-11 11:11:26.391727,1,0,0,0,Core staff,1,0,2065-10-02 11:02:46.471042
+5113440,F,N,Y,0,207000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2030-05-16 11:11:26.391727,1,0,0,0,Cooking staff,1,0,2074-06-25 11:02:46.471042
+5069289,F,N,Y,0,270000.0,Commercial associate,Incomplete higher,Married,House / apartment,2032-10-23 11:11:26.391727,1,0,0,0,Core staff,2,0,2063-12-26 11:02:46.471042
+5135938,F,Y,N,2,315000.0,Working,Secondary / secondary special,Married,House / apartment,2033-11-22 11:11:26.391727,1,0,0,0,Sales staff,4,0,2066-04-12 11:02:46.471042
+5118026,F,N,N,0,315000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2032-05-09 11:11:26.391727,1,0,1,0,High skill tech staff,2,0,2060-10-29 11:02:46.471042
+5053524,F,N,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2030-04-04 11:11:26.391727,1,0,1,0,Managers,2,0,2063-12-05 11:02:46.471042
+5010567,F,Y,Y,0,121500.0,Working,Higher education,Married,House / apartment,2028-02-12 11:11:26.391727,1,0,0,1,Sales staff,2,0,2051-04-15 11:02:46.471042
+5046003,F,N,Y,1,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2032-08-21 11:11:26.391727,1,0,1,0,Private service staff,2,0,2064-09-07 11:02:46.471042
+5118225,M,Y,N,0,225000.0,Working,Secondary / secondary special,Civil marriage,Office apartment,2032-01-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2080-08-13 11:02:46.471042
+5050635,F,N,N,0,225000.0,State servant,Secondary / secondary special,Married,House / apartment,2031-08-19 11:11:26.391727,1,0,0,0,Managers,2,0,2060-08-16 11:02:46.471042
+5088805,M,Y,Y,0,225000.0,State servant,Secondary / secondary special,Married,House / apartment,2033-08-16 11:11:26.391727,1,1,1,0,High skill tech staff,2,0,2061-01-25 11:02:46.471042
+5117331,F,Y,Y,0,270000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,2029-09-09 11:11:26.391727,1,0,1,0,Sales staff,1,0,2064-08-26 11:02:46.471042
+5067281,M,N,Y,1,135000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2030-12-24 11:11:26.391727,1,0,0,0,Laborers,3,0,2059-09-28 11:02:46.471042
+5023092,F,N,N,0,202500.0,Working,Secondary / secondary special,Separated,House / apartment,2034-11-26 11:11:26.391727,1,0,0,0,Laborers,1,0,2069-09-10 11:02:46.471042
+5029251,M,N,Y,0,157500.0,Working,Higher education,Married,House / apartment,2035-03-25 11:11:26.391727,1,1,0,0,Laborers,2,0,2061-11-26 11:02:46.471042
+5091824,M,N,Y,0,270000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2039-08-22 11:11:26.391727,1,0,0,0,Laborers,1,0,2063-08-03 11:02:46.471042
+5132569,F,N,Y,1,112500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2027-03-17 11:11:26.391727,1,0,1,0,Sales staff,3,0,2064-05-25 11:02:46.471042
+5021490,M,N,Y,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2025-03-06 11:11:26.391727,1,0,1,0,Sales staff,1,0,2052-10-03 11:02:46.471042
+5035859,F,N,Y,0,270000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2030-01-11 11:11:26.391727,1,0,0,0,Accountants,1,0,2081-07-06 11:02:46.471042
+5022025,M,Y,Y,0,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2027-12-05 11:11:26.391727,1,0,0,0,Laborers,1,0,2050-10-04 11:02:46.471042
+5116613,M,N,Y,0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2033-03-08 11:11:26.391727,1,0,0,0,Laborers,2,0,2055-11-03 11:02:46.471042
+5010303,F,N,Y,0,189000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2040-07-14 11:11:26.391727,1,1,1,0,Laborers,2,0,2078-11-27 11:02:46.471042
+5142496,F,Y,Y,1,135000.0,Commercial associate,Higher education,Married,House / apartment,2031-05-19 11:11:26.391727,1,0,0,0,Private service staff,3,0,2065-11-23 11:02:46.471042
+5113302,M,N,Y,1,180000.0,Working,Higher education,Married,With parents,2028-01-15 11:11:26.391727,1,0,0,0,Cooking staff,3,0,2066-05-31 11:02:46.471042
+5053918,F,Y,N,0,225000.0,Working,Higher education,Civil marriage,House / apartment,2030-03-04 11:11:26.391727,1,0,0,0,Managers,2,0,2063-01-15 11:02:46.471042
+5067102,F,N,N,0,180000.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,2035-12-04 11:11:26.391727,1,0,0,0,Sales staff,1,0,2069-05-26 11:02:46.471042
+5022118,M,N,Y,0,315000.0,Working,Secondary / secondary special,Married,House / apartment,2026-08-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2077-05-29 11:02:46.471042
+5022954,M,Y,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2024-12-08 11:11:26.391727,1,1,0,0,Laborers,2,0,2073-08-05 11:02:46.471042
+5047667,F,N,N,0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2024-12-09 11:11:26.391727,1,0,0,0,Laborers,2,0,2047-05-11 11:02:46.471042
+5091718,F,Y,Y,0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2029-09-21 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2062-02-27 11:02:46.471042
+5009586,F,N,N,0,45000.0,Working,Secondary / secondary special,Separated,House / apartment,2025-09-11 11:11:26.391727,1,0,1,0,Sales staff,1,0,2062-11-12 11:02:46.471042
+5097170,M,Y,Y,0,180000.0,State servant,Secondary / secondary special,Married,House / apartment,2030-09-07 11:11:26.391727,1,0,0,0,Drivers,2,0,2049-09-17 11:02:46.471042
+5022015,M,Y,Y,0,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2027-12-05 11:11:26.391727,1,0,0,0,Laborers,1,0,2050-10-04 11:02:46.471042
+5062594,M,Y,Y,1,135000.0,State servant,Higher education,Married,House / apartment,2023-11-28 11:11:26.391727,1,0,0,1,Core staff,3,0,2048-01-28 11:02:46.471042
+5028726,M,N,Y,0,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2034-07-27 11:11:26.391727,1,0,0,0,Managers,2,0,2057-09-08 11:02:46.471042
+5033831,M,Y,Y,0,135000.0,Working,Higher education,Civil marriage,House / apartment,2025-04-29 11:11:26.391727,1,1,1,0,Laborers,2,0,2076-05-30 11:02:46.471042
+5046086,F,Y,Y,0,99000.0,Working,Secondary / secondary special,Married,House / apartment,2029-10-21 11:11:26.391727,1,0,0,0,Laborers,2,0,2081-02-01 11:02:46.471042
+5135946,M,N,Y,0,270000.0,Working,Higher education,Single / not married,House / apartment,2032-02-22 11:11:26.391727,1,0,1,0,Laborers,1,0,2065-03-09 11:02:46.471042
+5149592,F,N,Y,0,157500.0,Working,Higher education,Married,House / apartment,2028-06-21 11:11:26.391727,1,0,1,0,Core staff,2,0,2057-02-26 11:02:46.471042
+5024103,M,N,Y,0,191399.3262295082,Working,Secondary / secondary special,Married,House / apartment,2030-08-07 11:11:26.391727,1,0,0,0,Security staff,2,0,2078-10-10 11:02:46.471042
+5009845,M,Y,N,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2023-11-13 11:11:26.391727,1,1,0,0,Security staff,2,0,2067-01-17 11:02:46.471042
+5117716,M,Y,N,0,315000.0,Working,Secondary / secondary special,Married,House / apartment,2037-05-09 11:11:26.391727,1,1,1,0,Drivers,2,0,2069-03-01 11:02:46.471042
+5096169,F,N,N,0,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2025-09-09 11:11:26.391727,1,0,0,0,High skill tech staff,2,0,2077-03-05 11:02:46.471042
+5067542,F,N,Y,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-12-24 11:11:26.391727,1,0,0,0,Laborers,2,0,2081-07-01 11:02:46.471042
+5090871,F,N,N,2,225000.0,Working,Secondary / secondary special,Married,House / apartment,2026-08-09 11:11:26.391727,1,0,0,0,Medicine staff,4,0,2062-04-24 11:02:46.471042
+5033729,M,Y,Y,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,2038-05-24 11:11:26.391727,1,1,1,0,Laborers,2,0,2056-06-01 11:02:46.471042
+5037212,M,Y,Y,0,292500.0,State servant,Higher education,Married,House / apartment,2029-12-29 11:11:26.391727,1,0,0,0,High skill tech staff,2,0,2058-03-22 11:02:46.471042
+5116319,F,N,Y,2,157500.0,Working,Secondary / secondary special,Married,House / apartment,2028-09-06 11:11:26.391727,1,0,0,0,Laborers,4,0,2062-06-03 11:02:46.471042
+5146318,F,N,Y,0,135000.0,Working,Secondary / secondary special,Separated,House / apartment,2027-02-10 11:11:26.391727,1,0,0,0,Laborers,1,0,2063-12-03 11:02:46.471042
+5042082,F,Y,N,0,315000.0,Commercial associate,Higher education,Married,House / apartment,2028-02-08 11:11:26.391727,1,0,1,0,Accountants,2,0,2076-11-19 11:02:46.471042
+5091416,F,N,Y,0,225000.0,Working,Higher education,Married,House / apartment,2031-07-23 11:11:26.391727,1,1,1,0,Managers,2,0,2067-11-14 11:02:46.471042
+5041675,F,Y,Y,1,333000.0,Commercial associate,Higher education,Married,House / apartment,2027-12-08 11:11:26.391727,1,0,0,0,Managers,3,0,2055-01-24 11:02:46.471042
+5145965,F,N,N,2,130500.0,Working,Secondary / secondary special,Married,House / apartment,2033-01-10 11:11:26.391727,1,0,0,0,Sales staff,4,0,2065-10-09 11:02:46.471042
+5126543,F,Y,N,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2032-12-18 11:11:26.391727,1,0,0,0,Laborers,2,0,2051-07-17 11:02:46.471042
+5033881,M,Y,N,1,202500.0,Commercial associate,Incomplete higher,Married,House / apartment,2033-10-30 11:11:26.391727,1,0,0,0,Laborers,3,0,2053-01-09 11:02:46.471042
+5068378,F,N,Y,1,126000.0,Working,Higher education,Married,House / apartment,2027-03-26 11:11:26.391727,1,1,1,1,Sales staff,3,0,2058-03-06 11:02:46.471042
+5029194,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2031-09-12 11:11:26.391727,1,0,0,0,Laborers,2,0,2076-05-01 11:02:46.471042
+5010025,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2029-11-12 11:11:26.391727,1,0,0,0,Laborers,2,0,2080-05-29 11:02:46.471042
+5091016,F,N,Y,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,2035-03-12 11:11:26.391727,1,0,0,0,Cooking staff,3,0,2062-08-14 11:02:46.471042
+5149744,F,N,Y,1,105750.0,Working,Secondary / secondary special,Married,With parents,2027-04-22 11:11:26.391727,1,0,0,0,Cleaning staff,3,0,2058-06-05 11:02:46.471042
+5117561,F,N,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2025-04-11 11:11:26.391727,1,1,0,0,Laborers,2,0,2067-06-05 19:15:21.385852
+5089760,M,Y,Y,0,180000.0,State servant,Higher education,Single / not married,House / apartment,2025-12-08 11:11:26.391727,1,0,0,1,Laborers,1,0,2045-12-07 11:02:46.471042
+5053642,M,N,N,0,360000.0,Commercial associate,Higher education,Married,House / apartment,2028-07-02 11:11:26.391727,1,0,1,0,Managers,2,0,2079-03-28 11:02:46.471042
+5089934,M,Y,N,0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2037-02-07 11:11:26.391727,1,0,0,0,Laborers,2,0,2075-12-30 11:02:46.471042
+5125127,F,N,Y,0,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2028-08-16 11:11:26.391727,1,1,1,0,Managers,1,0,2067-08-02 11:02:46.471042
+5113163,F,Y,Y,1,180000.0,Working,Secondary / secondary special,Married,House / apartment,2033-09-07 11:11:26.391727,1,1,1,0,Laborers,3,0,2057-12-13 11:02:46.471042
+5116883,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2027-03-11 11:11:26.391727,1,1,0,0,Laborers,2,0,2072-03-09 11:02:46.471042
+5090126,M,Y,Y,0,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2027-10-10 11:11:26.391727,1,0,0,0,Laborers,1,0,2061-04-22 11:02:46.471042
+5036648,F,N,N,0,202500.0,Commercial associate,Higher education,Married,House / apartment,2033-10-22 11:11:26.391727,1,0,0,0,High skill tech staff,2,0,2054-07-11 11:02:46.471042
+5090335,F,Y,Y,0,144000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2033-09-07 11:11:26.391727,1,1,1,0,Medicine staff,2,0,2059-05-13 11:02:46.471042
+5114342,M,Y,N,0,180000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,2031-09-15 11:11:26.391727,1,1,0,0,Laborers,2,0,2050-05-15 11:02:46.471042
+5115633,M,N,N,0,202500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2023-10-16 11:11:26.391727,1,0,0,0,Drivers,2,0,2085-12-07 11:02:46.471042
+5126311,M,N,N,0,180000.0,Working,Incomplete higher,Civil marriage,With parents,2024-04-19 11:11:26.391727,1,1,0,1,Core staff,2,0,2044-08-09 11:02:46.471042
+5135779,F,N,Y,0,126000.0,Working,Secondary / secondary special,Married,House / apartment,2029-05-22 11:11:26.391727,1,0,1,0,Accountants,2,0,2088-10-16 11:02:46.471042
+5054697,M,Y,Y,0,157500.0,Working,Higher education,Married,House / apartment,2042-06-04 11:11:26.391727,1,0,0,0,Laborers,2,0,2068-10-30 11:02:46.471042
+5116343,M,Y,Y,1,225000.0,State servant,Secondary / secondary special,Married,House / apartment,2034-04-08 11:11:26.391727,1,1,0,0,Laborers,3,0,2055-07-13 11:02:46.471042
+5022800,F,Y,Y,0,202500.0,Working,Higher education,Widow,House / apartment,2027-08-11 11:11:26.391727,1,0,0,0,Managers,1,0,2056-05-11 11:02:46.471042
+5054348,F,N,N,0,103500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-09-02 11:11:26.391727,1,1,1,0,Sales staff,1,0,2057-04-26 11:02:46.471042
+5099980,M,N,Y,0,90000.0,Working,Secondary / secondary special,Separated,House / apartment,2026-06-09 11:11:26.391727,1,0,0,0,Low-skill Laborers,1,0,2064-09-27 11:02:46.471042
+5087829,M,N,Y,0,135000.0,State servant,Secondary / secondary special,Married,Rented apartment,2029-11-14 11:11:26.391727,1,1,0,1,Laborers,2,0,2052-02-12 11:02:46.471042
+5051050,M,Y,N,0,67500.0,Working,Secondary / secondary special,Married,House / apartment,2029-06-18 11:11:26.391727,1,0,0,0,Laborers,2,0,2084-11-09 11:02:46.471042
+5148872,F,N,Y,0,135000.0,State servant,Incomplete higher,Married,House / apartment,2032-08-19 11:11:26.391727,1,0,0,0,Core staff,2,0,2065-08-05 11:02:46.471042
+5088101,F,Y,Y,0,270000.0,Working,Secondary / secondary special,Separated,House / apartment,2024-07-15 11:11:26.391727,1,0,0,0,Laborers,1,0,2069-12-22 11:02:46.471042
+5023587,M,N,N,0,202500.0,Working,Secondary / secondary special,Separated,House / apartment,2040-11-25 11:11:26.391727,1,0,0,0,Laborers,1,0,2062-11-02 11:02:46.471042
+5028547,M,Y,N,1,292500.0,Working,Secondary / secondary special,Separated,House / apartment,2026-05-27 11:11:26.391727,1,0,1,0,Laborers,2,0,2058-04-05 11:02:46.471042
+5149402,F,N,N,1,135000.0,Commercial associate,Secondary / secondary special,Married,With parents,2026-09-20 11:11:26.391727,1,0,0,0,Sales staff,3,0,2060-12-27 11:02:46.471042
+5067090,M,N,N,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2036-04-11 11:11:26.391727,1,0,1,0,Laborers,2,0,2060-11-11 11:02:46.471042
+5105555,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2035-12-02 11:11:26.391727,1,0,0,0,Laborers,2,0,2077-09-22 11:02:46.471042
+5136976,F,N,N,0,306000.0,State servant,Higher education,Married,House / apartment,2038-10-22 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2058-03-21 11:02:46.471042
+5066458,F,Y,Y,0,135000.0,Working,Secondary / secondary special,Separated,House / apartment,2027-05-12 11:11:26.391727,1,0,0,0,Laborers,1,0,2067-06-05 19:15:21.385852
+5113472,M,N,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2024-06-16 11:11:26.391727,1,0,1,0,High skill tech staff,2,0,2076-01-29 11:02:46.471042
+5041535,F,N,Y,0,180000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,2027-07-08 11:11:26.391727,1,0,1,0,Laborers,1,0,2077-10-09 11:02:46.471042
+5066617,F,N,Y,0,139500.0,Working,Secondary / secondary special,Married,House / apartment,2023-12-10 11:11:26.391727,1,0,0,1,Cooking staff,2,0,2074-10-16 11:02:46.471042
+5126751,M,Y,N,2,135000.0,Working,Secondary / secondary special,Married,With parents,2025-01-17 11:11:26.391727,1,0,0,0,Laborers,4,0,2069-01-10 11:02:46.471042
+5009908,M,Y,N,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2033-07-14 11:11:26.391727,1,0,0,0,Drivers,2,0,2075-11-10 11:02:46.471042
+5068337,F,Y,Y,0,112500.0,Working,Higher education,Married,House / apartment,2024-11-22 11:11:26.391727,1,1,1,0,Laborers,2,0,2051-03-02 11:02:46.471042
+5028919,F,Y,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2028-05-27 11:11:26.391727,1,0,0,0,Sales staff,2,0,2070-08-10 11:02:46.471042
+5035627,M,Y,Y,0,337500.0,Working,Higher education,Married,House / apartment,2042-01-11 11:11:26.391727,1,0,0,0,Managers,2,0,2073-02-03 11:02:46.471042
+5114061,M,Y,N,1,193500.0,Working,Higher education,Married,House / apartment,2034-06-17 11:11:26.391727,1,1,1,0,Laborers,3,0,2072-08-09 11:02:46.471042
+5100373,F,N,Y,2,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2034-05-09 11:11:26.391727,1,0,0,0,Core staff,4,0,2058-09-08 11:02:46.471042
+5112765,F,Y,N,1,315000.0,Commercial associate,Higher education,Married,House / apartment,2029-03-01 11:11:26.391727,1,1,1,1,Laborers,3,0,2053-09-11 11:02:46.471042
+5037125,M,Y,N,0,180000.0,Working,Higher education,Married,With parents,2029-08-10 11:11:26.391727,1,0,1,0,Core staff,2,0,2055-06-12 11:02:46.471042
+5029538,F,N,Y,0,112500.0,Working,Higher education,Civil marriage,House / apartment,2026-10-23 11:11:26.391727,1,0,0,0,Core staff,2,0,2058-07-05 11:02:46.471042
+5010078,M,Y,N,2,157500.0,Working,Secondary / secondary special,Married,Municipal apartment,2026-08-14 11:11:26.391727,1,0,0,0,Cleaning staff,4,0,2057-10-13 11:02:46.471042
+5085861,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2037-09-20 11:11:26.391727,1,0,0,0,Cleaning staff,2,0,2073-05-03 11:02:46.471042
+5009146,M,Y,N,0,315000.0,Working,Higher education,Married,House / apartment,2033-09-11 11:11:26.391727,1,1,1,0,Managers,2,0,2066-11-02 11:02:46.471042
+5149433,F,Y,Y,0,112500.0,Working,Secondary / secondary special,Widow,House / apartment,2030-09-20 11:11:26.391727,1,0,0,0,Laborers,1,0,2077-02-16 11:02:46.471042
+5096318,M,Y,N,0,270000.0,Commercial associate,Higher education,Single / not married,House / apartment,2023-12-11 11:11:26.391727,1,0,0,0,Core staff,1,0,2049-07-26 11:02:46.471042
+5038615,F,N,N,1,112500.0,Commercial associate,Higher education,Married,With parents,2032-06-20 11:11:26.391727,1,0,0,0,Core staff,3,0,2057-04-09 11:02:46.471042
+5047670,F,N,N,1,180000.0,State servant,Higher education,Married,House / apartment,2030-05-10 11:11:26.391727,1,1,1,1,Core staff,3,0,2062-01-11 11:02:46.471042
+5036828,F,N,Y,0,180000.0,Working,Higher education,Married,House / apartment,2035-05-11 11:11:26.391727,1,0,0,0,Sales staff,2,0,2076-02-05 11:02:46.471042
+5139892,F,N,Y,0,112500.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,2040-01-11 11:11:26.391727,1,0,1,0,Medicine staff,2,0,2074-02-12 11:02:46.471042
+5135446,F,N,Y,1,225000.0,Working,Secondary / secondary special,Married,With parents,2023-12-23 11:11:26.391727,1,0,0,0,Cleaning staff,3,0,2050-12-26 11:02:46.471042
+5095586,F,N,N,0,270000.0,Working,Incomplete higher,Civil marriage,House / apartment,2024-04-09 11:11:26.391727,1,1,0,1,Medicine staff,2,0,2047-07-24 11:02:46.471042
+5068963,M,Y,N,0,202500.0,Working,Higher education,Married,House / apartment,2031-11-23 11:11:26.391727,1,0,0,0,Laborers,2,0,2065-01-27 11:02:46.471042
+5048121,M,Y,Y,2,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-10-10 11:11:26.391727,1,0,1,0,Laborers,4,0,2056-08-12 11:02:46.471042
+5117219,F,N,Y,0,202500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2028-11-09 11:11:26.391727,1,0,0,0,Core staff,2,0,2053-12-02 11:02:46.471042
+5009821,F,Y,N,0,99000.0,Working,Secondary / secondary special,Married,House / apartment,2038-06-14 11:11:26.391727,1,0,1,0,Cooking staff,2,0,2064-04-04 11:02:46.471042
+5033500,M,N,Y,0,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2028-12-23 11:11:26.391727,1,0,0,0,Laborers,2,0,2071-08-21 11:02:46.471042
+5058281,F,N,Y,0,306000.0,Commercial associate,Higher education,Married,House / apartment,2032-11-30 11:11:26.391727,1,1,1,1,Laborers,2,0,2064-04-18 11:02:46.471042
+5142988,F,N,N,1,135000.0,Working,Higher education,Married,House / apartment,2027-08-18 11:11:26.391727,1,1,0,0,Core staff,3,0,2052-06-10 11:02:46.471042
+5137229,M,Y,N,0,180000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,2030-11-22 11:11:26.391727,1,1,0,0,Drivers,2,0,2062-01-26 11:02:46.471042
+5142899,F,N,N,0,112500.0,Commercial associate,Higher education,Single / not married,With parents,2024-02-18 11:11:26.391727,1,0,0,0,Laborers,1,0,2048-04-17 11:02:46.471042
+5113510,M,Y,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2023-11-15 11:11:26.391727,1,0,0,0,Laborers,2,0,2070-07-15 11:02:46.471042
+5091457,F,N,Y,2,103500.0,Working,Secondary / secondary special,Married,House / apartment,2041-08-21 11:11:26.391727,1,1,1,0,Medicine staff,4,0,2067-06-05 19:15:21.385852
+5149484,F,Y,Y,1,135000.0,Commercial associate,Higher education,Married,House / apartment,2030-04-21 11:11:26.391727,1,0,0,0,Laborers,3,0,2054-05-22 11:02:46.471042
+5092221,M,N,N,0,67500.0,State servant,Secondary / secondary special,Married,House / apartment,2031-03-24 11:11:26.391727,1,0,0,0,Laborers,2,0,2055-06-02 11:02:46.471042
+5023838,F,Y,N,0,315000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2026-06-17 11:11:26.391727,1,0,1,0,Core staff,2,0,2077-09-21 11:02:46.471042
+5033797,F,Y,Y,0,148500.0,Commercial associate,Secondary / secondary special,Married,Office apartment,2029-09-29 11:11:26.391727,1,0,0,0,Core staff,2,0,2070-05-07 11:02:46.471042
+5022803,F,Y,Y,0,202500.0,Working,Higher education,Widow,House / apartment,2027-08-11 11:11:26.391727,1,0,0,0,Managers,1,0,2056-05-11 11:02:46.471042
+5104953,M,Y,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2030-02-21 11:11:26.391727,1,0,0,0,Drivers,2,0,2082-11-17 11:02:46.471042
+5100098,F,N,Y,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,2025-10-09 11:11:26.391727,1,0,0,0,Laborers,2,0,2053-03-21 11:02:46.471042
+5091792,M,Y,Y,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2031-08-22 11:11:26.391727,1,1,0,0,Low-skill Laborers,3,0,2065-03-03 11:02:46.471042
+5149805,F,N,Y,0,135000.0,State servant,Incomplete higher,Single / not married,With parents,2029-03-22 11:11:26.391727,1,0,1,1,Laborers,1,0,2050-07-17 11:02:46.471042
+5089681,F,N,N,0,261000.0,Commercial associate,Incomplete higher,Married,House / apartment,2026-06-10 11:11:26.391727,1,1,0,0,Laborers,2,0,2050-12-19 11:02:46.471042
+5116809,F,N,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2025-06-06 11:11:26.391727,1,0,0,0,High skill tech staff,2,0,2073-10-16 11:02:46.471042
+5143353,M,Y,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2027-04-20 11:11:26.391727,1,1,0,0,Sales staff,2,0,2052-06-21 11:02:46.471042
+5088987,F,N,N,2,171000.0,Working,Secondary / secondary special,Married,House / apartment,2026-09-08 11:11:26.391727,1,1,1,0,Core staff,4,0,2063-07-18 11:02:46.471042
+5021584,F,N,N,1,40500.0,State servant,Secondary / secondary special,Married,Rented apartment,2028-11-08 11:11:26.391727,1,0,0,0,Cooking staff,3,0,2059-03-31 11:02:46.471042
+5009291,F,N,N,0,130500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2036-09-11 11:11:26.391727,1,0,1,0,Cleaning staff,2,0,2064-12-17 11:02:46.471042
+5051007,F,N,N,0,306000.0,Commercial associate,Higher education,Married,House / apartment,2027-03-21 11:11:26.391727,1,0,0,0,Managers,2,0,2052-10-28 11:02:46.471042
+5024263,F,Y,N,0,202500.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,2026-08-07 11:11:26.391727,1,0,1,0,Accountants,2,0,2081-10-05 11:02:46.471042
+5125771,F,N,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2024-10-17 11:11:26.391727,1,0,0,0,Laborers,2,0,2087-06-20 11:02:46.471042
+5021879,M,Y,N,2,112500.0,Working,Secondary / secondary special,Married,House / apartment,2024-02-08 11:11:26.391727,1,0,1,0,Laborers,4,0,2059-05-13 11:02:46.471042
+5137247,F,N,N,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,2032-06-21 11:11:26.391727,1,1,1,0,Secretaries,2,0,2071-01-10 11:02:46.471042
+5061762,F,Y,N,1,135000.0,Working,Higher education,Married,Rented apartment,2025-01-19 11:11:26.391727,1,0,0,1,Accountants,3,0,2054-05-06 11:02:46.471042
+5048319,F,N,N,0,90000.0,Working,Higher education,Separated,House / apartment,2027-09-09 11:11:26.391727,1,0,0,0,Core staff,1,0,2083-06-08 11:02:46.471042
+5023389,M,Y,Y,2,157500.0,Commercial associate,Higher education,Married,House / apartment,2029-03-28 11:11:26.391727,1,0,0,0,Core staff,4,0,2060-07-27 11:02:46.471042
+5143457,M,Y,Y,0,247500.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,2028-04-19 11:11:26.391727,1,0,0,0,High skill tech staff,2,0,2056-02-15 11:02:46.471042
+5069257,F,Y,Y,1,67500.0,Working,Secondary / secondary special,Married,House / apartment,2026-01-22 11:11:26.391727,1,0,1,1,Laborers,3,0,2058-08-12 11:02:46.471042
+5044939,M,N,Y,2,360000.0,State servant,Higher education,Married,House / apartment,2038-12-13 11:11:26.391727,1,0,1,0,Managers,4,0,2067-05-23 11:02:46.471042
+5149413,F,N,Y,2,315000.0,Commercial associate,Higher education,Married,House / apartment,2023-12-21 11:11:26.391727,1,0,1,0,Managers,4,0,2053-06-15 11:02:46.471042
+5062745,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2026-08-07 11:11:26.391727,1,0,1,0,Cleaning staff,2,0,2064-09-03 11:02:46.471042
+5114544,F,N,Y,0,166500.0,Working,Incomplete higher,Married,House / apartment,2034-07-17 11:11:26.391727,1,0,0,1,Laborers,2,0,2053-01-23 11:02:46.471042
+5100352,M,N,N,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2037-02-09 11:11:26.391727,1,1,1,0,Laborers,2,0,2067-06-05 19:15:21.385852
+5078841,M,N,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2032-06-30 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2079-01-31 11:02:46.471042
+5117392,F,N,N,0,135000.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,2024-06-09 11:11:26.391727,1,0,0,0,Accountants,1,0,2071-09-27 11:02:46.471042
+5143453,M,Y,Y,0,247500.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,2028-04-19 11:11:26.391727,1,0,0,0,High skill tech staff,2,0,2056-02-15 11:02:46.471042
+5067832,F,Y,Y,0,315000.0,Working,Higher education,Married,House / apartment,2025-02-02 11:11:26.391727,1,0,0,1,Laborers,2,0,2082-01-14 11:02:46.471042
+5116373,F,N,N,1,90000.0,Working,Secondary / secondary special,Married,With parents,2026-03-08 11:11:26.391727,1,0,0,0,Laborers,3,0,2051-02-21 11:02:46.471042
+5149106,M,N,Y,2,270000.0,Working,Secondary / secondary special,Married,House / apartment,2033-05-22 11:11:26.391727,1,0,0,0,Security staff,4,0,2057-09-13 11:02:46.471042
+5091737,F,Y,Y,0,243000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2029-02-21 11:11:26.391727,1,0,0,0,Sales staff,1,0,2063-10-20 11:02:46.471042
+5052620,M,Y,Y,1,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2028-12-20 11:11:26.391727,1,0,1,0,High skill tech staff,3,0,2067-04-14 11:02:46.471042
+5087819,M,N,Y,2,112500.0,Working,Secondary / secondary special,Married,House / apartment,2027-10-16 11:11:26.391727,1,0,0,0,Security staff,4,0,2066-09-26 11:02:46.471042
+5052811,F,N,Y,0,117000.0,Working,Secondary / secondary special,Married,House / apartment,2035-11-23 11:11:26.391727,1,0,0,0,Managers,2,0,2070-07-28 11:02:46.471042
+5095751,F,N,N,0,202500.0,Working,Secondary / secondary special,Married,With parents,2024-06-10 11:11:26.391727,1,1,1,0,Managers,2,0,2058-09-29 11:02:46.471042
+5062286,M,N,Y,0,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-06-21 11:11:26.391727,1,1,0,1,Core staff,2,0,2046-05-19 11:02:46.471042
+5090805,F,N,N,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2041-08-14 11:11:26.391727,1,0,0,0,Laborers,1,0,2069-07-18 11:02:46.471042
+5079075,F,N,Y,0,216000.0,Working,Secondary / secondary special,Married,House / apartment,2027-12-31 11:11:26.391727,1,1,0,0,Core staff,2,0,2066-02-19 11:02:46.471042
+5146447,F,N,Y,0,135000.0,Working,Secondary / secondary special,Widow,House / apartment,2026-01-10 11:11:26.391727,1,0,1,0,Managers,1,0,2062-12-02 11:02:46.471042
+5051008,F,N,N,1,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2032-10-18 11:11:26.391727,1,1,1,1,Realty agents,3,0,2052-02-12 11:02:46.471042
+5100106,M,Y,N,0,81000.0,Working,Secondary / secondary special,Married,House / apartment,2032-06-09 11:11:26.391727,1,1,1,0,Laborers,2,0,2071-11-11 11:02:46.471042
+5094896,M,Y,Y,1,180000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2034-04-07 11:11:26.391727,1,0,0,0,Managers,3,0,2062-03-19 11:02:46.471042
+5054414,M,N,N,0,225000.0,Commercial associate,Higher education,Married,With parents,2037-06-04 11:11:26.391727,1,1,0,0,Managers,2,0,2059-02-28 11:02:46.471042
+5025791,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2033-06-13 11:11:26.391727,1,0,0,0,Core staff,2,0,2074-03-06 11:02:46.471042
+5067949,F,N,Y,0,157500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2033-05-05 11:11:26.391727,1,0,1,1,Laborers,1,0,2073-02-26 11:02:46.471042
+5142482,M,Y,N,2,166500.0,Commercial associate,Higher education,Married,House / apartment,2026-10-17 11:11:26.391727,1,0,0,0,Core staff,4,0,2057-03-21 11:02:46.471042
+5115957,F,Y,Y,0,180000.0,Working,Secondary / secondary special,Widow,House / apartment,2035-04-18 11:11:26.391727,1,0,0,0,Sales staff,1,0,2065-12-06 11:02:46.471042
+5029423,F,N,Y,1,315000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,2030-05-24 11:11:26.391727,1,0,0,1,Core staff,3,0,2054-03-11 11:02:46.471042
+5029610,F,Y,Y,0,180000.0,Commercial associate,Higher education,Single / not married,House / apartment,2043-01-22 11:11:26.391727,1,0,0,0,Core staff,1,0,2065-01-07 11:02:46.471042
+5117450,F,N,N,2,90000.0,Working,Secondary / secondary special,Married,House / apartment,2023-10-10 11:11:26.391727,1,1,0,0,Laborers,4,0,2055-12-28 11:02:46.471042
+5023949,M,Y,Y,1,148500.0,Working,Secondary / secondary special,Married,House / apartment,2037-09-06 11:11:26.391727,1,0,0,0,Laborers,3,0,2064-06-22 11:02:46.471042
+5089737,F,Y,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2042-01-08 11:11:26.391727,1,1,1,0,Cleaning staff,2,0,2075-07-23 11:02:46.471042
+5143402,M,Y,Y,0,144000.0,Commercial associate,Higher education,Married,House / apartment,2029-12-17 11:11:26.391727,1,0,1,0,Managers,2,0,2076-04-08 11:02:46.471042
+5136909,M,N,N,1,360000.0,Working,Secondary / secondary special,Married,House / apartment,2031-06-22 11:11:26.391727,1,1,0,1,Managers,3,0,2065-03-31 11:02:46.471042
+5143596,F,N,N,0,90000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2032-08-20 11:11:26.391727,1,1,0,0,Waiters/barmen staff,2,0,2055-05-18 11:02:46.471042
+5095939,M,N,N,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2033-05-10 11:11:26.391727,1,0,1,0,Managers,2,0,2070-12-26 11:02:46.471042
+5113343,M,N,Y,2,135000.0,Working,Secondary / secondary special,Married,House / apartment,2036-02-14 11:11:26.391727,1,0,0,0,Laborers,4,0,2054-11-22 11:02:46.471042
+5142920,F,N,N,1,292500.0,Working,Incomplete higher,Married,House / apartment,2034-07-18 11:11:26.391727,1,1,1,0,Sales staff,3,0,2057-08-10 11:02:46.471042
+5114294,F,N,N,0,112500.0,State servant,Secondary / secondary special,Widow,House / apartment,2037-11-15 11:11:26.391727,1,1,0,0,Laborers,1,0,2076-05-03 11:02:46.471042
+5088055,F,N,Y,0,216000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2031-11-15 11:11:26.391727,1,0,0,0,Medicine staff,1,0,2072-08-14 11:02:46.471042
+5142815,M,Y,N,0,126000.0,Commercial associate,Incomplete higher,Married,House / apartment,2031-06-20 11:11:26.391727,1,0,1,0,Laborers,2,0,2051-11-15 11:02:46.471042
+5054460,M,Y,N,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2028-10-02 11:11:26.391727,1,0,1,0,Laborers,3,0,2075-05-08 11:02:46.471042
+5069380,M,N,Y,0,337500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2026-12-24 11:11:26.391727,1,0,0,0,High skill tech staff,1,0,2069-04-12 11:02:46.471042
+5036396,F,Y,Y,0,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2026-12-13 11:11:26.391727,1,0,0,0,Cooking staff,2,0,2060-12-24 11:02:46.471042
+5148535,F,N,Y,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,2028-03-22 11:11:26.391727,1,0,1,0,Laborers,3,0,2052-03-08 11:02:46.471042
+5105436,M,N,Y,2,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2029-11-08 11:11:26.391727,1,0,0,0,Laborers,4,0,2062-10-27 11:02:46.471042
+5105412,F,N,Y,2,135000.0,Working,Secondary / secondary special,Married,House / apartment,2027-09-01 11:11:26.391727,1,0,0,0,Laborers,4,0,2058-06-12 11:02:46.471042
+5142584,M,Y,Y,0,301500.0,Working,Secondary / secondary special,Married,Rented apartment,2025-11-16 11:11:26.391727,1,0,0,0,Laborers,2,0,2048-03-05 11:02:46.471042
+5118108,M,Y,N,0,90000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2026-07-11 11:11:26.391727,1,1,0,0,Laborers,1,0,2046-03-31 11:02:46.471042
+5010683,M,Y,Y,0,292500.0,Working,Higher education,Married,House / apartment,2029-08-14 11:11:26.391727,1,0,0,0,Managers,2,0,2051-09-14 11:02:46.471042
+5045850,F,Y,Y,2,315000.0,Commercial associate,Higher education,Married,With parents,2027-02-22 11:11:26.391727,1,0,0,0,Managers,4,0,2058-01-24 11:02:46.471042
+5058371,F,N,Y,0,117000.0,Working,Secondary / secondary special,Married,House / apartment,2024-06-25 11:11:26.391727,1,1,1,0,Laborers,2,0,2071-05-03 11:02:46.471042
+5137187,F,Y,N,0,67500.0,Working,Secondary / secondary special,Married,House / apartment,2028-10-21 11:11:26.391727,1,1,0,0,Laborers,2,0,2054-09-26 11:02:46.471042
+5095873,F,N,N,0,202500.0,Working,Higher education,Civil marriage,House / apartment,2037-09-09 11:11:26.391727,1,1,1,0,Core staff,2,0,2065-06-04 11:02:46.471042
+5126809,M,N,Y,1,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2029-11-17 11:11:26.391727,1,0,1,1,Laborers,3,0,2052-09-27 11:02:46.471042
+5096604,F,Y,N,1,225000.0,Working,Higher education,Civil marriage,House / apartment,2026-03-12 11:11:26.391727,1,1,1,0,Core staff,3,0,2060-07-19 11:02:46.471042
+5036765,F,N,N,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,2026-11-11 11:11:26.391727,1,0,0,1,Laborers,3,0,2058-08-25 11:02:46.471042
+5091880,F,Y,Y,0,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2042-10-22 11:11:26.391727,1,0,0,0,Accountants,2,0,2074-01-22 11:02:46.471042
+5090082,M,N,N,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2028-02-08 11:11:26.391727,1,0,0,0,Laborers,2,0,2064-09-19 11:02:46.471042
+5061481,F,N,Y,1,225000.0,Commercial associate,Higher education,Married,House / apartment,2029-09-18 11:11:26.391727,1,0,0,1,Managers,3,0,2049-11-01 11:02:46.471042
+5125235,F,N,Y,2,157500.0,Commercial associate,Higher education,Married,House / apartment,2023-09-17 11:11:26.391727,1,0,0,0,High skill tech staff,4,0,2061-03-14 11:02:46.471042
+5089474,M,N,N,0,180000.0,Working,Higher education,Married,House / apartment,2032-12-08 11:11:26.391727,1,0,0,0,Laborers,2,0,2062-10-13 11:02:46.471042
+5126021,F,N,N,1,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2030-10-18 11:11:26.391727,1,1,1,0,Core staff,3,0,2063-12-31 11:02:46.471042
+5114630,F,N,Y,0,81000.0,Working,Secondary / secondary special,Married,House / apartment,2024-04-17 11:11:26.391727,1,1,0,0,Sales staff,2,0,2077-07-20 11:02:46.471042
+5118526,F,N,Y,0,180000.0,Commercial associate,Higher education,Married,House / apartment,2024-12-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2084-04-06 11:02:46.471042
+5118527,F,N,Y,0,180000.0,Commercial associate,Higher education,Married,House / apartment,2024-12-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2084-04-06 11:02:46.471042
+5089596,M,Y,N,0,315000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2026-03-10 11:11:26.391727,1,0,0,0,Managers,2,0,2061-11-14 11:02:46.471042
+5066865,F,N,Y,2,54000.0,Working,Secondary / secondary special,Married,House / apartment,2025-09-08 11:11:26.391727,1,0,0,0,Sales staff,4,0,2050-08-18 11:02:46.471042
+5009941,F,N,Y,2,157500.0,Working,Secondary / secondary special,Married,House / apartment,2029-12-12 11:11:26.391727,1,0,0,0,Sales staff,4,0,2052-10-31 11:02:46.471042
+5052731,F,N,Y,0,180000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2026-07-24 11:11:26.391727,1,0,0,0,Laborers,2,0,2061-04-29 11:02:46.471042
+5137175,F,N,N,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2033-10-21 11:11:26.391727,1,1,1,0,Sales staff,2,0,2078-08-28 11:02:46.471042
+5045614,M,Y,Y,1,360000.0,Working,Higher education,Married,House / apartment,2027-02-22 11:11:26.391727,1,0,0,0,Drivers,3,0,2066-02-06 11:02:46.471042
+5047870,M,Y,Y,1,292500.0,Commercial associate,Higher education,Married,House / apartment,2032-08-09 11:11:26.391727,1,0,0,0,Laborers,3,0,2057-12-03 11:02:46.471042
+5025161,M,N,N,0,360000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2037-08-06 11:11:26.391727,1,0,0,0,Laborers,2,0,2057-10-18 11:02:46.471042
+5145694,M,Y,Y,0,225000.0,Working,Higher education,Single / not married,With parents,2025-04-29 11:11:26.391727,1,1,1,0,Laborers,1,0,2049-05-14 11:02:46.471042
+5113455,F,N,Y,1,126000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2034-10-15 11:11:26.391727,1,0,0,0,Laborers,3,0,2073-03-05 11:02:46.471042
+5126321,F,N,N,0,270000.0,Working,Secondary / secondary special,Married,House / apartment,2028-03-20 11:11:26.391727,1,1,1,0,High skill tech staff,2,0,2072-03-08 11:02:46.471042
+5088450,F,N,Y,0,157500.0,State servant,Secondary / secondary special,Widow,House / apartment,2029-02-16 11:11:26.391727,1,0,1,0,Drivers,1,0,2086-03-04 11:02:46.471042
+5068631,F,Y,Y,0,216000.0,Working,Secondary / secondary special,Married,House / apartment,2033-06-24 11:11:26.391727,1,0,0,0,Managers,2,0,2081-08-06 11:02:46.471042
+5021693,M,Y,Y,2,337500.0,Working,Incomplete higher,Married,House / apartment,2028-02-08 11:11:26.391727,1,0,1,0,Laborers,4,0,2057-07-05 11:02:46.471042
+5111172,M,Y,Y,0,225000.0,Working,Higher education,Married,Rented apartment,2024-10-29 11:11:26.391727,1,0,0,0,Sales staff,2,0,2052-07-15 11:02:46.471042
+5029184,F,N,Y,1,108000.0,Working,Secondary / secondary special,Married,House / apartment,2036-02-11 11:11:26.391727,1,0,0,0,Laborers,3,0,2067-03-30 11:02:46.471042
+5069051,M,Y,N,0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-04-24 11:11:26.391727,1,0,0,0,Laborers,2,0,2072-02-21 11:02:46.471042
+5046379,F,N,N,0,180000.0,Working,Incomplete higher,Married,House / apartment,2028-09-21 11:11:26.391727,1,0,0,0,Laborers,2,0,2077-01-21 11:02:46.471042
+5118477,F,N,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2025-12-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2071-02-10 11:02:46.471042
+5106118,F,Y,Y,1,135000.0,Working,Higher education,Married,House / apartment,2024-08-02 11:11:26.391727,1,0,0,0,Core staff,3,0,2060-05-19 11:02:46.471042
+5024148,F,Y,N,0,180000.0,Working,Higher education,Married,With parents,2026-04-08 11:11:26.391727,1,1,1,0,Accountants,2,0,2054-09-01 11:02:46.471042
+5067262,F,Y,Y,0,270000.0,Working,Secondary / secondary special,Married,House / apartment,2028-03-25 11:11:26.391727,1,0,1,0,Laborers,2,0,2078-03-21 11:02:46.471042
+5045255,F,N,Y,1,270000.0,Working,Secondary / secondary special,Married,House / apartment,2033-08-11 11:11:26.391727,1,0,0,0,Core staff,3,0,2080-08-09 11:02:46.471042
+5044478,F,N,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2029-08-11 11:11:26.391727,1,0,0,0,Laborers,2,0,2067-06-05 19:15:21.385852
+5033418,M,Y,N,0,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2029-06-24 11:11:26.391727,1,0,1,0,Managers,2,0,2052-12-16 11:02:46.471042
+5023231,M,Y,Y,0,270000.0,Working,Secondary / secondary special,Separated,House / apartment,2027-03-29 11:11:26.391727,1,0,0,0,Laborers,1,0,2071-01-31 11:02:46.471042
+5028909,F,N,N,0,67500.0,Working,Secondary / secondary special,Married,House / apartment,2028-08-24 11:11:26.391727,1,0,0,0,Sales staff,2,0,2050-10-15 11:02:46.471042
+5090793,F,N,Y,0,247500.0,Working,Higher education,Married,House / apartment,2033-02-06 11:11:26.391727,1,0,1,0,Core staff,2,0,2061-11-23 11:02:46.471042
+5126517,M,Y,N,0,157500.0,Working,Higher education,Married,House / apartment,2029-09-17 11:11:26.391727,1,0,1,0,Laborers,2,0,2079-09-06 11:02:46.471042
+5146034,M,N,Y,0,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2034-11-11 11:11:26.391727,1,0,0,0,Cooking staff,1,0,2070-05-11 11:02:46.471042
+5142972,M,N,N,1,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2026-01-17 11:11:26.391727,1,1,1,0,Laborers,3,0,2052-09-07 11:02:46.471042
+5028569,F,Y,Y,0,315000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2038-07-27 11:11:26.391727,1,0,0,1,Core staff,2,0,2066-05-14 11:02:46.471042
+5114032,F,N,N,0,99000.0,Working,Higher education,Married,House / apartment,2038-08-17 11:11:26.391727,1,0,0,0,Laborers,2,0,2063-08-26 11:02:46.471042
+5085826,F,N,N,0,351000.0,Commercial associate,Higher education,Married,House / apartment,2026-06-21 11:11:26.391727,1,0,1,0,Laborers,2,0,2082-07-30 11:02:46.471042
+5053089,F,N,N,0,175500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2025-04-24 11:11:26.391727,1,0,0,0,High skill tech staff,1,0,2074-07-21 11:02:46.471042
+5117753,M,Y,N,0,306000.0,Working,Secondary / secondary special,Married,House / apartment,2028-01-10 11:11:26.391727,1,0,0,0,Managers,2,0,2067-05-07 11:02:46.471042
+5126826,F,N,N,1,157500.0,Working,Secondary / secondary special,Civil marriage,With parents,2033-08-17 11:11:26.391727,1,0,0,0,Sales staff,3,0,2055-06-28 11:02:46.471042
+5067893,M,Y,Y,0,292500.0,Working,Secondary / secondary special,Married,Rented apartment,2025-12-23 11:11:26.391727,1,0,0,0,Laborers,2,0,2070-01-31 11:02:46.471042
+5048305,F,N,N,0,191399.3262295082,Working,Higher education,Separated,House / apartment,2027-09-09 11:11:26.391727,1,0,0,0,Core staff,1,0,2083-06-08 11:02:46.471042
+5135531,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Separated,House / apartment,2028-04-21 11:11:26.391727,1,0,0,0,Drivers,1,0,2061-06-23 11:02:46.471042
+5067019,F,Y,Y,1,247500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2026-12-10 11:11:26.391727,1,0,0,1,Laborers,3,0,2070-06-21 11:02:46.471042
+5115671,M,Y,Y,1,189000.0,Working,Higher education,Married,House / apartment,2033-07-16 11:11:26.391727,1,0,0,0,High skill tech staff,3,0,2059-12-21 11:02:46.471042
+5136985,M,Y,N,0,247500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2032-08-21 11:11:26.391727,1,1,0,0,Managers,1,0,2057-04-18 11:02:46.471042
+5126687,F,N,Y,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,2032-02-18 11:11:26.391727,1,1,0,0,Laborers,2,0,2077-12-28 11:02:46.471042
+5045513,M,Y,N,1,180000.0,Working,Secondary / secondary special,Married,House / apartment,2035-10-22 11:11:26.391727,1,0,0,0,Laborers,3,0,2054-12-28 11:02:46.471042
+5021730,F,Y,Y,1,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-04-11 11:11:26.391727,1,0,0,1,Cleaning staff,3,0,2069-12-22 11:02:46.471042
+5096342,F,N,N,0,112500.0,Working,Secondary / secondary special,Married,Municipal apartment,2026-09-10 11:11:26.391727,1,1,0,0,Laborers,2,0,2055-07-06 11:02:46.471042
+5021293,F,Y,Y,1,180000.0,Commercial associate,Higher education,Married,House / apartment,2024-01-05 11:11:26.391727,1,0,0,1,Core staff,3,0,2056-02-04 11:02:46.471042
+5143079,F,Y,N,0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2024-11-17 11:11:26.391727,1,0,0,0,Sales staff,2,0,2061-08-21 11:02:46.471042
+5062294,F,Y,Y,0,225000.0,Working,Higher education,Married,House / apartment,2030-03-21 11:11:26.391727,1,0,0,1,Managers,2,0,2072-03-25 11:02:46.471042
+5089887,F,N,Y,0,157500.0,Working,Higher education,Married,House / apartment,2027-10-09 11:11:26.391727,1,0,0,0,Sales staff,2,0,2052-09-13 11:02:46.471042
+5090790,F,Y,Y,0,238500.0,Working,Higher education,Married,House / apartment,2042-12-08 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2065-02-18 11:02:46.471042
+5146429,M,Y,N,0,261000.0,Commercial associate,Incomplete higher,Civil marriage,With parents,2025-05-10 11:11:26.391727,1,0,0,0,Sales staff,2,0,2047-11-14 11:02:46.471042
+5069292,F,Y,Y,1,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-08-23 11:11:26.391727,1,1,1,0,Managers,3,0,2065-11-03 11:02:46.471042
+5054407,M,N,N,0,225000.0,Commercial associate,Higher education,Married,With parents,2037-06-04 11:11:26.391727,1,1,0,0,Managers,2,0,2059-02-28 11:02:46.471042
+5028616,M,N,Y,1,135000.0,Working,Higher education,Married,House / apartment,2028-12-25 11:11:26.391727,1,1,1,0,High skill tech staff,3,0,2049-04-03 11:02:46.471042
+5036319,F,N,Y,0,112500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2025-01-11 11:11:26.391727,1,0,0,0,Security staff,1,0,2072-10-09 11:02:46.471042
+5116606,M,Y,Y,0,180000.0,Working,Incomplete higher,Married,House / apartment,2036-02-07 11:11:26.391727,1,0,1,0,Laborers,2,0,2070-05-15 11:02:46.471042
+5089218,F,Y,N,1,171000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2041-04-10 11:11:26.391727,1,1,1,0,Medicine staff,3,0,2061-11-20 11:02:46.471042
+5068648,M,N,Y,0,135000.0,Working,Secondary / secondary special,Single / not married,With parents,2026-05-25 11:11:26.391727,1,0,0,0,Drivers,1,0,2054-07-27 11:02:46.471042
+5143560,M,N,N,2,202500.0,Working,Secondary / secondary special,Married,With parents,2025-07-20 11:11:26.391727,1,0,0,0,Drivers,4,0,2053-07-02 11:02:46.471042
+5126518,M,Y,N,0,157500.0,Working,Higher education,Married,House / apartment,2029-09-17 11:11:26.391727,1,0,1,0,Laborers,2,0,2079-09-06 11:02:46.471042
+5116991,M,Y,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2033-02-08 11:11:26.391727,1,0,1,0,Laborers,2,0,2063-03-13 11:02:46.471042
+5024670,F,N,Y,1,180000.0,Working,Higher education,Separated,House / apartment,2027-11-07 11:11:26.391727,1,0,0,0,HR staff,2,0,2064-11-20 11:02:46.471042
+5062095,M,Y,N,0,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2028-06-21 11:11:26.391727,1,1,1,0,High skill tech staff,1,0,2051-05-11 11:02:46.471042
+5079057,M,Y,N,0,121500.0,Working,Secondary / secondary special,Married,House / apartment,2042-05-31 11:11:26.391727,1,0,1,0,Laborers,2,0,2064-03-21 11:02:46.471042
+5041881,M,N,N,0,112500.0,Working,Secondary / secondary special,Civil marriage,Rented apartment,2030-06-09 11:11:26.391727,1,0,0,0,Laborers,2,0,2063-12-21 11:02:46.471042
+5053117,M,Y,N,1,270000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2027-05-26 11:11:26.391727,1,0,0,0,Laborers,3,0,2060-07-25 11:02:46.471042
+5115921,M,Y,Y,0,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2024-05-15 11:11:26.391727,1,0,0,0,Drivers,2,0,2065-07-09 11:02:46.471042
+5150221,M,Y,Y,0,116100.0,Working,Secondary / secondary special,Married,House / apartment,2030-03-12 11:11:26.391727,1,0,0,0,Laborers,2,0,2051-04-06 11:02:46.471042
+5089580,F,Y,N,0,112500.0,State servant,Secondary / secondary special,Married,House / apartment,2024-10-08 11:11:26.391727,1,1,1,0,Core staff,2,0,2055-06-12 11:02:46.471042
+5041320,F,N,N,0,157500.0,Working,Higher education,Single / not married,Office apartment,2032-07-07 11:11:26.391727,1,0,0,0,Laborers,1,0,2075-06-16 11:02:46.471042
+5105499,F,N,Y,0,202500.0,Working,Higher education,Married,House / apartment,2027-08-09 11:11:26.391727,1,0,0,0,Laborers,2,0,2052-09-20 11:02:46.471042
+5095514,M,Y,Y,0,297000.0,Working,Secondary / secondary special,Married,House / apartment,2026-09-09 11:11:26.391727,1,0,1,0,Laborers,2,0,2079-08-30 11:02:46.471042
+5089275,F,Y,N,0,315000.0,Working,Higher education,Married,House / apartment,2033-02-07 11:11:26.391727,1,0,1,1,Accountants,2,0,2060-09-21 11:02:46.471042
+5069066,M,N,Y,0,202500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2031-12-24 11:11:26.391727,1,0,0,0,Laborers,1,0,2050-03-09 11:02:46.471042
+5125542,M,N,N,0,180000.0,Working,Higher education,Married,With parents,2030-02-16 11:11:26.391727,1,1,1,0,High skill tech staff,2,0,2060-06-05 11:02:46.471042
+5095033,M,Y,Y,0,202500.0,Commercial associate,Higher education,Married,House / apartment,2027-07-08 11:11:26.391727,1,0,0,0,Drivers,2,0,2065-09-09 11:02:46.471042
+5142163,M,N,Y,1,360000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2030-07-03 11:11:26.391727,1,0,0,0,Sales staff,3,0,2055-01-23 11:02:46.471042
+5105291,F,N,N,0,112500.0,Working,Secondary / secondary special,Widow,With parents,2025-10-01 11:11:26.391727,1,1,1,0,Core staff,1,0,2051-07-19 11:02:46.471042
+5045380,M,Y,Y,0,261000.0,Working,Incomplete higher,Married,House / apartment,2027-08-22 11:11:26.391727,1,0,1,0,Managers,2,0,2067-02-21 11:02:46.471042
+5113057,F,Y,N,0,202500.0,Commercial associate,Incomplete higher,Separated,House / apartment,2027-03-11 11:11:26.391727,1,0,1,1,Accountants,1,0,2062-02-07 11:02:46.471042
+5010238,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2035-05-15 11:11:26.391727,1,0,0,0,Drivers,2,0,2068-09-14 11:02:46.471042
+5050724,F,Y,N,0,360000.0,Working,Higher education,Married,House / apartment,2029-10-18 11:11:26.391727,1,1,1,0,Accountants,2,0,2058-09-05 11:02:46.471042
+5142781,M,Y,N,2,157500.0,Working,Secondary / secondary special,Separated,With parents,2027-12-18 11:11:26.391727,1,0,0,0,Laborers,3,0,2061-10-13 11:02:46.471042
+5114643,F,Y,N,0,247500.0,Working,Secondary / secondary special,Separated,House / apartment,2029-05-17 11:11:26.391727,1,0,0,0,Laborers,1,0,2060-08-06 11:02:46.471042
+5087536,M,N,Y,0,81000.0,Commercial associate,Higher education,Single / not married,House / apartment,2028-10-15 11:11:26.391727,1,0,1,0,Laborers,1,0,2050-07-18 11:02:46.471042
+5053744,F,N,Y,0,360000.0,State servant,Higher education,Married,House / apartment,2032-03-03 11:11:26.391727,1,0,1,0,Managers,2,0,2067-10-25 11:02:46.471042
+5117698,M,Y,N,0,315000.0,Working,Higher education,Married,House / apartment,2034-05-10 11:11:26.391727,1,1,0,0,Laborers,2,0,2079-02-21 11:02:46.471042
+5118560,F,N,Y,0,126000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2031-06-10 11:11:26.391727,1,0,1,0,Cooking staff,1,0,2069-08-22 11:02:46.471042
+5054496,F,Y,Y,0,225000.0,Commercial associate,Higher education,Separated,House / apartment,2026-10-03 11:11:26.391727,1,0,0,0,Waiters/barmen staff,1,0,2056-08-23 11:02:46.471042
+5033895,F,N,N,2,135000.0,Working,Secondary / secondary special,Married,With parents,2028-01-31 11:11:26.391727,1,0,0,0,Core staff,4,0,2054-06-09 11:02:46.471042
+5033659,M,N,Y,0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2033-07-23 11:11:26.391727,1,0,0,0,Laborers,2,0,2075-10-24 11:02:46.471042
+5062205,F,N,Y,0,112500.0,Commercial associate,Higher education,Married,House / apartment,2026-10-20 11:11:26.391727,1,1,1,0,Laborers,2,0,2071-05-07 11:02:46.471042
+5056237,F,N,Y,0,40500.0,Working,Secondary / secondary special,Married,House / apartment,2037-01-09 11:11:26.391727,1,1,0,0,Cleaning staff,2,0,2058-05-12 11:02:46.471042
+5135863,F,N,Y,2,67500.0,Working,Secondary / secondary special,Married,House / apartment,2025-02-21 11:11:26.391727,1,0,0,0,Sales staff,4,0,2056-12-25 11:02:46.471042
+5050793,F,N,N,0,315000.0,State servant,Higher education,Married,House / apartment,2041-09-17 11:11:26.391727,1,0,0,0,Core staff,2,0,2081-09-06 11:02:46.471042
+5091057,F,N,Y,2,270000.0,Commercial associate,Higher education,Married,House / apartment,2029-07-11 11:11:26.391727,1,0,0,1,Secretaries,4,0,2065-10-11 11:02:46.471042
+5091651,F,Y,Y,1,252000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,2025-07-22 11:11:26.391727,1,0,0,0,Laborers,2,0,2052-10-28 11:02:46.471042
+5118545,F,Y,N,0,270000.0,Working,Secondary / secondary special,Married,House / apartment,2028-04-11 11:11:26.391727,1,0,1,0,Sales staff,2,0,2073-07-22 11:02:46.471042
+5024592,M,Y,Y,0,157500.0,Working,Secondary / secondary special,Married,With parents,2027-12-07 11:11:26.391727,1,1,0,0,Drivers,2,0,2047-11-10 11:02:46.471042
+5125804,F,N,Y,0,270000.0,Working,Secondary / secondary special,Separated,House / apartment,2029-02-16 11:11:26.391727,1,0,0,1,Laborers,1,0,2073-09-21 11:02:46.471042
+5142448,M,Y,Y,0,315000.0,Working,Incomplete higher,Married,House / apartment,2027-06-19 11:11:26.391727,1,0,0,0,Managers,2,0,2067-06-05 19:15:21.385852
+5033728,F,Y,Y,1,202500.0,Working,Secondary / secondary special,Married,House / apartment,2029-03-25 11:11:26.391727,1,1,1,0,Core staff,3,0,2060-12-04 11:02:46.471042
+5149327,F,Y,Y,1,180000.0,Working,Higher education,Separated,House / apartment,2039-11-20 11:11:26.391727,1,0,0,0,Managers,2,0,2075-02-01 11:02:46.471042
+5024033,F,N,Y,2,112500.0,Working,Secondary / secondary special,Married,With parents,2024-08-06 11:11:26.391727,1,0,0,0,Core staff,4,0,2063-07-08 11:02:46.471042
+5113841,F,N,Y,0,135000.0,Commercial associate,Higher education,Married,House / apartment,2026-01-14 11:11:26.391727,1,1,0,1,Core staff,2,0,2048-01-17 11:02:46.471042
+5022918,F,N,Y,0,225000.0,Working,Higher education,Single / not married,House / apartment,2030-08-10 11:11:26.391727,1,0,1,0,Managers,1,0,2056-11-24 11:02:46.471042
+5142649,M,Y,N,0,157500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2029-08-17 11:11:26.391727,1,0,1,0,Laborers,2,0,2071-08-18 11:02:46.471042
+5048276,F,Y,N,1,112500.0,Working,Higher education,Single / not married,House / apartment,2027-12-10 11:11:26.391727,1,0,0,0,Core staff,2,0,2050-12-19 11:02:46.471042
+5022612,M,Y,Y,1,202500.0,Working,Secondary / secondary special,Married,House / apartment,2025-10-08 11:11:26.391727,1,0,0,0,Laborers,3,0,2051-04-14 11:02:46.471042
+5028446,F,Y,Y,0,162000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2031-03-28 11:11:26.391727,1,0,0,0,Laborers,1,0,2072-12-26 11:02:46.471042
+5091894,M,N,N,0,157500.0,Commercial associate,Higher education,Single / not married,House / apartment,2027-11-22 11:11:26.391727,1,0,0,0,Sales staff,1,0,2051-06-01 11:02:46.471042
+5025181,F,N,N,0,270000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2030-07-07 11:11:26.391727,1,0,0,0,High skill tech staff,1,0,2086-01-05 11:02:46.471042
+5091795,F,Y,N,1,90000.0,Working,Secondary / secondary special,Married,House / apartment,2026-03-23 11:11:26.391727,1,0,0,0,Laborers,3,0,2065-01-25 11:02:46.471042
+5068511,F,N,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2031-01-23 11:11:26.391727,1,1,1,0,Core staff,2,0,2066-12-22 11:02:46.471042
+5036926,F,Y,Y,0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2031-09-10 11:11:26.391727,1,1,1,1,Core staff,2,0,2056-02-10 11:02:46.471042
+5114138,F,N,N,2,180000.0,State servant,Secondary / secondary special,Married,Office apartment,2031-06-18 11:11:26.391727,1,1,0,0,Laborers,4,0,2054-02-09 11:02:46.471042
+5052883,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2032-09-22 11:11:26.391727,1,0,0,0,Drivers,2,0,2072-07-23 11:02:46.471042
+5068019,M,Y,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2032-10-03 11:11:26.391727,1,0,0,0,Laborers,2,0,2065-10-11 11:02:46.471042
+5146024,F,N,Y,0,360000.0,Commercial associate,Higher education,Married,House / apartment,2034-03-12 11:11:26.391727,1,0,1,0,Core staff,2,0,2053-11-14 11:02:46.471042
+5036093,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2032-04-11 11:11:26.391727,1,1,0,0,Security staff,2,0,2082-11-27 11:02:46.471042
+5068339,F,Y,Y,0,112500.0,Working,Higher education,Married,House / apartment,2024-11-22 11:11:26.391727,1,1,1,0,Laborers,2,0,2051-03-02 11:02:46.471042
+5095020,F,N,Y,0,225000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2025-05-07 11:11:26.391727,1,0,0,0,Laborers,2,0,2059-03-25 11:02:46.471042
+5105185,M,N,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2025-10-31 11:11:26.391727,1,1,0,0,Laborers,2,0,2067-10-08 11:02:46.471042
+5117216,F,N,Y,0,202500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2028-11-09 11:11:26.391727,1,0,0,0,Core staff,2,0,2053-12-02 11:02:46.471042
+5089632,F,N,N,0,315000.0,Commercial associate,Higher education,Married,House / apartment,2024-05-10 11:11:26.391727,1,1,1,1,Sales staff,2,0,2067-10-31 11:02:46.471042
+5100464,M,Y,Y,1,315000.0,Working,Higher education,Married,House / apartment,2025-01-08 11:11:26.391727,1,0,1,0,Laborers,3,0,2070-12-04 11:02:46.471042
+5028930,F,Y,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2028-05-27 11:11:26.391727,1,0,0,0,Sales staff,2,0,2070-08-10 11:02:46.471042
+5116643,F,N,Y,0,261000.0,Working,Secondary / secondary special,Married,House / apartment,2030-07-08 11:11:26.391727,1,0,0,0,Laborers,2,0,2078-05-25 11:02:46.471042
+5091766,M,N,Y,0,247500.0,Working,Secondary / secondary special,Married,House / apartment,2029-12-22 11:11:26.391727,1,0,0,0,Laborers,2,0,2071-04-19 11:02:46.471042
+5067961,M,Y,Y,0,360000.0,Working,Higher education,Married,House / apartment,2034-01-23 11:11:26.391727,1,0,0,0,Managers,2,0,2084-01-18 11:02:46.471042
+5033814,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2026-09-30 11:11:26.391727,1,0,0,0,Laborers,2,0,2059-07-10 11:02:46.471042
+5113847,F,N,Y,0,225000.0,Working,Secondary / secondary special,Widow,House / apartment,2030-01-14 11:11:26.391727,1,1,0,0,High skill tech staff,1,0,2077-12-19 11:02:46.471042
+5126308,F,N,N,0,112500.0,Working,Higher education,Single / not married,Co-op apartment,2024-12-18 11:11:26.391727,1,1,1,0,Core staff,1,0,2058-07-10 11:02:46.471042
+5142118,M,N,N,1,225000.0,Working,Higher education,Married,House / apartment,2030-05-03 11:11:26.391727,1,0,0,0,Managers,3,0,2073-01-17 11:02:46.471042
+5068196,M,Y,Y,0,173250.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2029-12-23 11:11:26.391727,1,1,0,0,Drivers,2,0,2068-01-24 11:02:46.471042
+5068692,M,N,Y,0,148500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2026-02-22 11:11:26.391727,1,0,0,0,Laborers,1,0,2055-11-14 11:02:46.471042
+5085780,M,N,Y,0,315000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2034-07-22 11:11:26.391727,1,0,0,0,Managers,2,0,2072-10-11 11:02:46.471042
+5096095,F,N,N,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2027-12-11 11:11:26.391727,1,1,1,0,Accountants,3,0,2052-11-18 11:02:46.471042
+5142599,F,N,Y,2,76500.0,State servant,Higher education,Married,House / apartment,2029-05-18 11:11:26.391727,1,0,0,0,Laborers,4,0,2063-06-21 11:02:46.471042
+5045742,M,Y,N,0,225000.0,Commercial associate,Higher education,Married,House / apartment,2027-10-22 11:11:26.391727,1,0,0,0,Laborers,2,0,2059-11-05 11:02:46.471042
+5053173,F,Y,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2030-01-23 11:11:26.391727,1,0,0,0,Core staff,2,0,2069-04-07 11:02:46.471042
+5074735,M,Y,Y,2,216000.0,State servant,Higher education,Married,House / apartment,2030-07-14 11:11:26.391727,1,0,0,0,High skill tech staff,4,0,2053-12-16 11:02:46.471042
+5146410,M,N,Y,0,211500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2026-07-11 11:11:26.391727,1,1,1,0,Core staff,1,0,2051-02-01 11:02:46.471042
+5054097,M,Y,N,2,202500.0,Working,Higher education,Married,House / apartment,2025-07-02 11:11:26.391727,1,0,0,0,Drivers,4,0,2055-08-23 11:02:46.471042
+5068340,F,Y,Y,0,112500.0,Working,Higher education,Married,House / apartment,2024-11-22 11:11:26.391727,1,1,1,0,Laborers,2,0,2051-03-02 11:02:46.471042
+5037254,M,N,N,0,166500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-09-28 11:11:26.391727,1,0,0,1,Laborers,1,0,2046-07-06 11:02:46.471042
+5091921,F,N,Y,2,72000.0,Working,Secondary / secondary special,Married,House / apartment,2038-07-23 11:11:26.391727,1,1,1,0,Medicine staff,4,0,2065-08-02 11:02:46.471042
+5139729,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2029-11-10 11:11:26.391727,1,0,0,0,Cleaning staff,2,0,2079-07-15 11:02:46.471042
+5117605,F,N,N,0,157500.0,Working,Higher education,Married,House / apartment,2029-09-09 11:11:26.391727,1,0,0,0,Core staff,2,0,2062-02-09 11:02:46.471042
+5029152,F,N,Y,1,67500.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,2024-01-13 11:11:26.391727,1,0,0,0,Laborers,3,0,2072-08-24 11:02:46.471042
+5066465,F,Y,Y,0,135000.0,Working,Secondary / secondary special,Separated,House / apartment,2027-05-12 11:11:26.391727,1,0,0,0,Laborers,1,0,2067-11-23 11:02:46.471042
+5117254,F,Y,Y,0,207000.0,State servant,Higher education,Married,House / apartment,2033-02-09 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2084-10-31 11:02:46.471042
+5117551,M,Y,N,1,148500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2031-05-10 11:11:26.391727,1,1,1,0,Drivers,3,0,2058-11-29 11:02:46.471042
+5079181,F,N,N,0,112500.0,Commercial associate,Incomplete higher,Married,House / apartment,2029-11-30 11:11:26.391727,1,0,1,0,Laborers,2,0,2051-05-17 11:02:46.471042
+5028802,F,N,N,2,112500.0,Working,Secondary / secondary special,Married,House / apartment,2026-06-26 11:11:26.391727,1,0,0,0,Laborers,4,0,2066-09-04 11:02:46.471042
+5024838,F,N,Y,0,202500.0,Commercial associate,Higher education,Single / not married,House / apartment,2029-03-08 11:11:26.391727,1,0,0,0,Laborers,1,0,2062-03-26 11:02:46.471042
+5088279,F,N,N,0,67500.0,Working,Secondary / secondary special,Married,House / apartment,2042-09-17 11:11:26.391727,1,1,1,0,Sales staff,2,0,2078-06-22 11:02:46.471042
+5079141,F,N,Y,2,67500.0,Working,Secondary / secondary special,Separated,House / apartment,2031-09-30 11:11:26.391727,1,1,0,0,Sales staff,3,0,2061-06-24 11:02:46.471042
+5058286,F,N,Y,0,306000.0,Commercial associate,Higher education,Married,House / apartment,2032-11-30 11:11:26.391727,1,1,1,1,Laborers,2,0,2064-04-18 11:02:46.471042
+5112870,M,Y,Y,1,360000.0,Working,Secondary / secondary special,Married,House / apartment,2031-07-16 11:11:26.391727,1,0,1,0,Laborers,3,0,2080-12-31 11:02:46.471042
+5061253,F,N,Y,0,112500.0,Working,Incomplete higher,Civil marriage,House / apartment,2028-04-21 11:11:26.391727,1,0,0,0,Laborers,2,0,2048-12-22 11:02:46.471042
+5046191,M,Y,Y,2,270000.0,Commercial associate,Higher education,Married,House / apartment,2025-01-21 11:11:26.391727,1,1,0,0,Managers,4,0,2070-10-27 11:02:46.471042
+5146296,F,N,N,0,67500.0,Working,Secondary / secondary special,Married,House / apartment,2034-03-12 11:11:26.391727,1,1,0,0,Security staff,2,0,2072-11-14 11:02:46.471042
+5033966,F,N,Y,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2032-02-23 11:11:26.391727,1,0,0,0,Sales staff,2,0,2064-11-10 11:02:46.471042
+5065571,M,Y,Y,0,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-09-22 11:11:26.391727,1,0,0,0,Drivers,2,0,2073-05-22 11:02:46.471042
+5035866,F,N,Y,0,247500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-11-12 11:11:26.391727,1,0,0,0,Cooking staff,2,0,2071-11-07 11:02:46.471042
+5088501,M,Y,Y,0,72000.0,Working,Higher education,Married,House / apartment,2025-03-16 11:11:26.391727,1,0,0,0,Security staff,2,0,2083-06-18 11:02:46.471042
+5028990,F,N,N,2,81000.0,Working,Lower secondary,Single / not married,House / apartment,2029-11-24 11:11:26.391727,1,0,0,0,Sales staff,3,0,2065-08-07 11:02:46.471042
+5023209,F,N,N,1,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2024-02-26 11:11:26.391727,1,0,0,0,Sales staff,3,0,2063-01-15 11:02:46.471042
+5142860,F,N,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2028-08-17 11:11:26.391727,1,0,1,0,Laborers,2,0,2062-01-22 11:02:46.471042
+5061896,M,N,Y,1,292500.0,State servant,Higher education,Married,House / apartment,2033-02-18 11:11:26.391727,1,0,0,1,Core staff,3,0,2069-08-06 11:02:46.471042
+5044940,M,N,Y,2,360000.0,State servant,Higher education,Married,House / apartment,2038-12-13 11:11:26.391727,1,0,1,0,Managers,4,0,2067-05-23 11:02:46.471042
+5048610,F,N,Y,0,315000.0,Working,Secondary / secondary special,Separated,House / apartment,2032-07-09 11:11:26.391727,1,0,0,0,Laborers,1,0,2065-04-12 11:02:46.471042
+5069199,F,Y,Y,1,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2032-05-25 11:11:26.391727,1,0,0,0,Sales staff,3,0,2060-09-20 11:02:46.471042
+5033496,M,Y,N,1,202500.0,Commercial associate,Higher education,Married,With parents,2024-09-22 11:11:26.391727,1,0,0,0,Managers,3,0,2050-10-08 11:02:46.471042
+5132752,M,N,Y,0,90000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-02-17 11:11:26.391727,1,1,1,0,Drivers,1,0,2052-06-12 11:02:46.471042
+5096059,F,N,N,2,73350.0,Working,Secondary / secondary special,Married,House / apartment,2042-11-11 11:11:26.391727,1,0,0,0,Medicine staff,4,0,2062-09-20 11:02:46.471042
+5036958,M,Y,Y,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2028-10-10 11:11:26.391727,1,1,1,0,Laborers,3,0,2056-06-30 11:02:46.471042
+5117022,M,Y,Y,2,225000.0,Working,Secondary / secondary special,Married,House / apartment,2024-04-10 11:11:26.391727,1,1,0,0,Laborers,4,0,2057-08-18 11:02:46.471042
+5143362,F,N,Y,0,126000.0,Working,Secondary / secondary special,Married,House / apartment,2029-08-17 11:11:26.391727,1,1,1,0,High skill tech staff,2,0,2085-12-18 11:02:46.471042
+5137163,F,N,N,0,211500.0,Working,Secondary / secondary special,Married,House / apartment,2028-01-22 11:11:26.391727,1,1,1,0,Laborers,2,0,2070-09-26 11:02:46.471042
+5054064,M,N,N,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,2027-07-03 11:11:26.391727,1,0,0,0,Drivers,3,0,2068-06-23 11:02:46.471042
+5051187,M,Y,N,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2025-12-18 11:11:26.391727,1,0,0,0,Core staff,1,0,2057-01-28 11:02:46.471042
+5116714,F,N,N,0,135000.0,Commercial associate,Secondary / secondary special,Separated,Municipal apartment,2025-05-06 11:11:26.391727,1,0,0,0,Laborers,1,0,2075-11-14 11:02:46.471042
+5045069,F,N,N,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2030-06-12 11:11:26.391727,1,0,0,0,Laborers,2,0,2051-10-31 11:02:46.471042
+5066879,M,Y,Y,0,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2027-10-10 11:11:26.391727,1,0,0,0,Laborers,1,0,2061-04-22 11:02:46.471042
+5047787,F,Y,Y,0,225000.0,Commercial associate,Higher education,Married,House / apartment,2026-03-11 11:11:26.391727,1,0,0,0,Laborers,2,0,2052-02-21 11:02:46.471042
+5023692,F,N,Y,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2032-08-26 11:11:26.391727,1,0,0,0,Laborers,1,0,2064-09-04 11:02:46.471042
+5028907,F,N,N,0,67500.0,Working,Secondary / secondary special,Married,House / apartment,2028-08-24 11:11:26.391727,1,0,0,0,Sales staff,2,0,2050-10-15 11:02:46.471042
+5113861,M,N,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2026-12-16 11:11:26.391727,1,1,0,0,High skill tech staff,2,0,2051-11-24 11:02:46.471042
+5009301,F,N,N,0,193500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,2028-08-14 11:11:26.391727,1,0,1,0,Laborers,1,0,2067-08-03 11:02:46.471042
+5135705,F,N,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2027-10-23 11:11:26.391727,1,0,0,0,Private service staff,2,0,2053-08-21 11:02:46.471042
+5023616,M,Y,Y,0,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2024-02-26 11:11:26.391727,1,0,0,0,Drivers,2,0,2071-08-28 11:02:46.471042
+5028468,F,Y,Y,2,135000.0,Working,Secondary / secondary special,Married,House / apartment,2024-03-27 11:11:26.391727,1,0,0,1,Drivers,4,0,2057-06-23 11:02:46.471042
+5125775,F,N,Y,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2024-10-17 11:11:26.391727,1,0,0,0,Laborers,2,0,2087-06-20 11:02:46.471042
+5051156,M,N,N,1,247500.0,Working,Higher education,Single / not married,House / apartment,2028-08-18 11:11:26.391727,1,0,0,0,Laborers,2,0,2061-05-03 11:02:46.471042
+5143046,M,Y,N,2,360000.0,Working,Secondary / secondary special,Married,House / apartment,2030-06-19 11:11:26.391727,1,1,0,0,Drivers,4,0,2067-05-26 11:02:46.471042
+5114060,M,Y,N,1,193500.0,Working,Higher education,Married,House / apartment,2034-06-17 11:11:26.391727,1,1,1,0,Laborers,3,0,2072-08-09 11:02:46.471042
+5113171,F,Y,Y,1,67500.0,Working,Secondary / secondary special,Married,House / apartment,2028-02-08 11:11:26.391727,1,0,1,1,Cooking staff,3,0,2054-11-14 11:02:46.471042
+5078805,F,N,Y,0,306000.0,Working,Secondary / secondary special,Married,House / apartment,2031-08-31 11:11:26.391727,1,0,0,0,High skill tech staff,2,0,2075-05-01 11:02:46.471042
+5022789,F,N,N,0,112500.0,Working,Secondary / secondary special,Separated,House / apartment,2024-01-09 11:11:26.391727,1,0,0,0,Core staff,1,0,2057-05-17 11:02:46.471042
+5028302,M,Y,Y,0,360000.0,Commercial associate,Incomplete higher,Married,House / apartment,2024-10-25 11:11:26.391727,1,0,0,0,Managers,2,0,2077-10-24 11:02:46.471042
+5146558,M,N,Y,2,157500.0,Working,Secondary / secondary special,Married,House / apartment,2027-06-11 11:11:26.391727,1,0,0,0,Laborers,4,0,2064-08-30 11:02:46.471042
+5022449,F,N,N,0,315000.0,Working,Secondary / secondary special,Separated,House / apartment,2028-12-04 11:11:26.391727,1,0,0,1,Core staff,1,0,2071-08-13 11:02:46.471042
+5044818,F,N,Y,0,135000.0,Working,Higher education,Single / not married,House / apartment,2026-08-12 11:11:26.391727,1,0,0,0,Managers,1,0,2048-06-04 11:02:46.471042
+5041367,F,N,N,0,180000.0,State servant,Incomplete higher,Married,House / apartment,2031-09-07 11:11:26.391727,1,0,0,0,Core staff,2,0,2051-10-02 11:02:46.471042
+5090039,M,N,N,1,225000.0,Working,Higher education,Married,House / apartment,2040-09-07 11:11:26.391727,1,0,0,0,Core staff,3,0,2061-02-23 11:02:46.471042
+5058271,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2035-04-02 11:11:26.391727,1,0,0,0,Low-skill Laborers,2,0,2077-03-11 11:02:46.471042
+5047929,M,Y,N,0,292500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2027-09-09 11:11:26.391727,1,0,1,0,Drivers,1,0,2061-11-02 11:02:46.471042
+5054228,F,N,N,2,180000.0,Working,Secondary / secondary special,Married,House / apartment,2023-10-03 11:11:26.391727,1,1,0,0,Managers,4,0,2055-01-14 11:02:46.471042
+5023527,F,N,Y,0,274500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2042-06-26 11:11:26.391727,1,0,0,0,High skill tech staff,2,0,2079-07-11 11:02:46.471042
+5088433,F,N,Y,0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2028-06-16 11:11:26.391727,1,0,0,0,Core staff,1,0,2072-05-09 11:02:46.471042
+5009567,M,Y,N,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2032-02-12 11:11:26.391727,1,1,1,0,Laborers,2,0,2064-12-30 11:02:46.471042
+5148915,M,Y,N,2,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2034-01-19 11:11:26.391727,1,0,0,0,Laborers,4,0,2063-08-01 11:02:46.471042
+5053646,M,N,N,0,360000.0,Commercial associate,Higher education,Married,House / apartment,2028-07-02 11:11:26.391727,1,0,1,0,Managers,2,0,2079-03-28 11:02:46.471042
+5118472,M,N,N,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2028-01-10 11:11:26.391727,1,0,1,0,Drivers,2,0,2050-10-30 11:02:46.471042
+5111178,F,N,Y,2,54000.0,Working,Higher education,Married,House / apartment,2035-12-30 11:11:26.391727,1,1,0,0,Cleaning staff,4,0,2054-05-12 11:02:46.471042
+5065808,F,N,N,1,76500.0,Working,Higher education,Married,House / apartment,2025-08-29 11:11:26.391727,1,1,1,0,Sales staff,3,0,2067-01-31 11:02:46.471042
+5091771,M,N,Y,0,247500.0,Working,Secondary / secondary special,Married,House / apartment,2029-12-22 11:11:26.391727,1,0,0,0,Laborers,2,0,2071-04-19 11:02:46.471042
+5010010,F,N,Y,1,112500.0,State servant,Incomplete higher,Civil marriage,House / apartment,2033-04-14 11:11:26.391727,1,0,1,0,Secretaries,3,0,2053-06-04 11:02:46.471042
+5096729,M,Y,N,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2029-12-10 11:11:26.391727,1,1,0,0,Laborers,2,0,2053-05-19 11:02:46.471042
+5092021,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2025-08-21 11:11:26.391727,1,1,1,0,Core staff,2,0,2059-09-06 11:02:46.471042
+5046083,F,Y,Y,0,99000.0,Working,Secondary / secondary special,Married,House / apartment,2029-10-21 11:11:26.391727,1,0,0,0,Laborers,2,0,2081-02-01 11:02:46.471042
+5092147,M,Y,Y,0,191399.3262295082,Working,Secondary / secondary special,Single / not married,House / apartment,2024-08-21 11:11:26.391727,1,1,0,0,Laborers,1,0,2051-12-12 11:02:46.471042
+5142953,M,N,N,1,202500.0,Working,Secondary / secondary special,Separated,House / apartment,2025-07-17 11:11:26.391727,1,1,1,0,Laborers,2,0,2046-03-01 11:02:46.471042
+5061135,F,N,Y,2,58500.0,Working,Higher education,Married,House / apartment,2039-10-20 11:11:26.391727,1,0,0,0,Core staff,4,0,2062-06-19 11:02:46.471042
+5010172,F,N,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2024-10-12 11:11:26.391727,1,0,0,0,Laborers,2,0,2081-10-29 11:02:46.471042
+5068523,F,N,Y,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-07-25 11:11:26.391727,1,0,0,1,Laborers,1,0,2057-05-08 11:02:46.471042
+5087756,F,N,N,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2030-04-15 11:11:26.391727,1,0,0,0,Sales staff,2,0,2065-05-06 11:02:46.471042
+5132845,F,N,Y,0,112500.0,State servant,Secondary / secondary special,Married,House / apartment,2033-08-16 11:11:26.391727,1,0,0,1,Medicine staff,2,0,2071-05-28 11:02:46.471042
+5116046,F,Y,Y,0,144000.0,Working,Secondary / secondary special,Married,House / apartment,2029-02-15 11:11:26.391727,1,0,0,0,Core staff,2,0,2060-05-07 11:02:46.471042
+5091983,M,N,Y,0,112500.0,Commercial associate,Higher education,Married,House / apartment,2025-09-21 11:11:26.391727,1,1,0,1,Managers,2,0,2082-08-26 11:02:46.471042
+5062106,M,Y,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2033-05-21 11:11:26.391727,1,0,0,0,Managers,2,0,2075-07-21 11:02:46.471042
+5052806,F,N,Y,0,81000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2030-03-25 11:11:26.391727,1,0,1,0,Laborers,1,0,2076-02-08 11:02:46.471042
+5022458,M,Y,Y,1,144000.0,Working,Secondary / secondary special,Married,House / apartment,2026-06-10 11:11:26.391727,1,0,0,1,Drivers,3,0,2047-04-27 11:02:46.471042
+5114438,F,N,Y,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,2026-07-17 11:11:26.391727,1,1,1,0,Sales staff,3,0,2070-10-09 11:02:46.471042
+5112737,M,Y,Y,0,315000.0,Working,Higher education,Married,House / apartment,2031-03-02 11:11:26.391727,1,0,0,0,Drivers,2,0,2073-09-16 11:02:46.471042
+5024038,F,N,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2025-04-08 11:11:26.391727,1,0,0,0,Sales staff,2,0,2065-11-01 11:02:46.471042
+5139846,M,Y,Y,0,202500.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,2030-10-11 11:11:26.391727,1,0,0,0,Laborers,2,0,2052-03-17 11:02:46.471042
+5140019,F,Y,Y,1,180000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2027-06-11 11:11:26.391727,1,0,0,0,Private service staff,2,0,2054-07-31 11:02:46.471042
+5104868,F,N,Y,0,112500.0,Working,Higher education,Married,House / apartment,2034-06-22 11:11:26.391727,1,0,0,0,Accountants,2,0,2056-09-04 11:02:46.471042
+5062525,F,N,Y,1,112500.0,Working,Higher education,Married,House / apartment,2029-07-21 11:11:26.391727,1,0,1,0,Sales staff,3,0,2060-11-24 11:02:46.471042
+5118118,M,N,N,1,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2038-05-10 11:11:26.391727,1,1,1,0,Drivers,3,0,2060-07-29 11:02:46.471042
+5054384,M,Y,N,0,292500.0,Commercial associate,Higher education,Single / not married,House / apartment,2033-08-02 11:11:26.391727,1,1,1,0,Laborers,1,0,2061-12-23 11:02:46.471042
+5023706,F,N,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2038-11-26 11:11:26.391727,1,0,1,0,Laborers,2,0,2072-01-23 11:02:46.471042
+5046183,F,N,Y,2,115200.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2025-06-21 11:11:26.391727,1,0,0,0,Laborers,4,0,2064-03-28 11:02:46.471042
+5145920,M,Y,Y,1,180000.0,Commercial associate,Higher education,Married,House / apartment,2027-07-11 11:11:26.391727,1,0,0,1,Laborers,3,0,2064-12-08 11:02:46.471042
+5069028,F,N,Y,0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-03-26 11:11:26.391727,1,0,0,1,Sales staff,2,0,2068-12-21 11:02:46.471042
+5010498,M,Y,Y,1,202500.0,Working,Secondary / secondary special,Married,House / apartment,2024-05-14 11:11:26.391727,1,1,0,0,Laborers,3,0,2051-06-27 11:02:46.471042
+5091564,F,Y,Y,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2028-04-23 11:11:26.391727,1,0,1,0,Sales staff,3,0,2064-05-26 11:02:46.471042
+5149887,F,N,Y,0,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2039-06-22 11:11:26.391727,1,0,0,0,Managers,2,0,2067-02-26 11:02:46.471042
+5116801,M,N,Y,1,225000.0,Working,Secondary / secondary special,Married,House / apartment,2028-02-07 11:11:26.391727,1,0,0,0,Drivers,3,0,2068-02-06 11:02:46.471042
+5089556,F,Y,N,0,191399.3262295082,Working,Incomplete higher,Single / not married,House / apartment,2031-12-09 11:11:26.391727,1,1,0,0,Managers,1,0,2054-09-27 11:02:46.471042
+5091639,M,Y,Y,0,202500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2031-11-22 11:11:26.391727,1,0,0,0,Laborers,1,0,2073-01-17 11:02:46.471042
+5022930,F,N,Y,0,270000.0,Working,Higher education,Married,House / apartment,2024-01-09 11:11:26.391727,1,0,0,1,Laborers,2,0,2048-07-28 11:02:46.471042
+5148732,F,N,Y,1,157500.0,Working,Secondary / secondary special,Separated,Municipal apartment,2025-03-22 11:11:26.391727,1,0,0,0,Sales staff,2,0,2060-01-28 11:02:46.471042
+5026539,F,N,Y,0,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2027-04-17 11:11:26.391727,1,0,1,0,High skill tech staff,1,0,2066-11-16 11:02:46.471042
+5048478,M,Y,N,0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-05-09 11:11:26.391727,1,0,0,0,Core staff,1,0,2048-08-30 11:02:46.471042
+5052762,M,Y,Y,0,225000.0,Commercial associate,Higher education,Single / not married,House / apartment,2026-01-23 11:11:26.391727,1,0,0,1,Laborers,1,0,2055-08-15 11:02:46.471042
+5067767,F,N,Y,0,202500.0,State servant,Secondary / secondary special,Single / not married,House / apartment,2038-05-25 11:11:26.391727,1,0,0,0,Medicine staff,1,0,2087-06-01 11:02:46.471042
+5056179,F,N,Y,0,202500.0,Commercial associate,Higher education,Married,House / apartment,2024-02-09 11:11:26.391727,1,0,0,0,Laborers,2,0,2049-12-19 11:02:46.471042
+5045537,M,Y,N,2,225000.0,State servant,Higher education,Married,With parents,2027-09-22 11:11:26.391727,1,0,0,0,High skill tech staff,4,0,2053-06-15 11:02:46.471042
+5053980,F,Y,N,0,108000.0,Working,Secondary / secondary special,Married,With parents,2032-04-04 11:11:26.391727,1,1,0,0,Laborers,2,0,2057-01-17 11:02:46.471042
+5092349,F,N,Y,0,225000.0,Working,Secondary / secondary special,Widow,House / apartment,2029-02-21 11:11:26.391727,1,0,0,0,Sales staff,1,0,2076-03-21 11:02:46.471042
+5090383,F,Y,Y,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2026-10-16 11:11:26.391727,1,0,1,0,Laborers,2,0,2065-09-24 11:02:46.471042
+5088687,M,N,Y,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2027-07-18 11:11:26.391727,1,1,1,0,Laborers,3,0,2074-10-05 11:02:46.471042
+5089117,F,Y,N,0,90000.0,Working,Higher education,Single / not married,House / apartment,2038-07-10 11:11:26.391727,1,1,1,0,Core staff,1,0,2067-03-26 11:02:46.471042
+5117497,M,N,Y,0,90000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2025-06-09 11:11:26.391727,1,1,0,0,Low-skill Laborers,2,0,2068-07-28 11:02:46.471042
+5126121,F,Y,N,0,72000.0,Working,Secondary / secondary special,Married,House / apartment,2024-02-18 11:11:26.391727,1,1,1,0,Medicine staff,2,0,2065-01-31 11:02:46.471042
+5125710,F,Y,Y,0,135000.0,Working,Lower secondary,Married,House / apartment,2025-03-19 11:11:26.391727,1,0,1,0,High skill tech staff,2,0,2068-06-12 11:02:46.471042
+5117233,M,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2043-01-10 11:11:26.391727,1,0,0,0,Laborers,2,0,2061-05-13 11:02:46.471042
+5142733,M,N,N,1,360000.0,Working,Higher education,Married,House / apartment,2024-10-17 11:11:26.391727,1,1,1,0,Managers,3,0,2053-12-07 11:02:46.471042
+5089736,F,Y,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2042-01-08 11:11:26.391727,1,1,1,0,Cleaning staff,2,0,2075-07-23 11:02:46.471042
+5021214,M,Y,Y,1,225000.0,State servant,Higher education,Married,House / apartment,2029-09-07 11:11:26.391727,1,0,1,0,Core staff,3,0,2058-06-15 11:02:46.471042
+5044809,F,N,Y,0,135000.0,Working,Higher education,Single / not married,House / apartment,2026-08-12 11:11:26.391727,1,0,0,0,Managers,1,0,2048-06-04 11:02:46.471042
+5068712,F,Y,Y,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,2038-02-22 11:11:26.391727,1,0,0,0,Laborers,2,0,2060-06-04 11:02:46.471042
+5146045,F,N,Y,0,360000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2030-03-12 11:11:26.391727,1,0,0,0,Accountants,1,0,2074-05-16 11:02:46.471042
+5142529,M,N,Y,0,225000.0,State servant,Higher education,Married,House / apartment,2023-12-17 11:11:26.391727,1,0,0,0,Laborers,2,0,2048-03-02 11:02:46.471042
+5091630,F,N,Y,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2040-07-22 11:11:26.391727,1,0,0,0,High skill tech staff,2,0,2076-09-16 11:02:46.471042
+5023089,F,N,N,0,202500.0,Working,Secondary / secondary special,Separated,House / apartment,2034-11-26 11:11:26.391727,1,0,0,0,Laborers,1,0,2069-09-10 11:02:46.471042
+5142698,F,Y,N,0,95850.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2041-10-17 11:11:26.391727,1,1,0,0,Laborers,2,0,2075-05-05 11:02:46.471042
+5105550,F,N,Y,0,112500.0,Working,Higher education,Married,With parents,2025-10-08 11:11:26.391727,1,0,0,0,Core staff,2,0,2048-12-31 11:02:46.471042
+5149799,F,N,Y,0,126000.0,Commercial associate,Secondary / secondary special,Civil marriage,Municipal apartment,2029-01-19 11:11:26.391727,1,1,1,0,Laborers,2,0,2052-01-13 11:02:46.471042
+5036219,F,N,Y,0,99000.0,Working,Secondary / secondary special,Married,House / apartment,2025-12-12 11:11:26.391727,1,0,0,0,Sales staff,2,0,2066-03-12 11:02:46.471042
+5061246,F,N,Y,0,112500.0,Working,Incomplete higher,Civil marriage,House / apartment,2028-04-21 11:11:26.391727,1,0,0,0,Laborers,2,0,2048-12-22 11:02:46.471042
+5135851,F,N,Y,1,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2040-02-22 11:11:26.391727,1,0,1,0,Laborers,3,0,2067-12-16 11:02:46.471042
+5009663,M,N,N,0,225000.0,Working,Higher education,Single / not married,House / apartment,2028-05-14 11:11:26.391727,1,1,0,0,Laborers,1,0,2051-05-06 11:02:46.471042
+5146002,M,Y,Y,0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-01-11 11:11:26.391727,1,0,0,1,Managers,1,0,2051-05-17 11:02:46.471042
+5125203,F,N,Y,0,202500.0,Working,Incomplete higher,Single / not married,House / apartment,2043-06-19 11:11:26.391727,1,0,0,0,Core staff,1,0,2074-06-04 11:02:46.471042
+5148748,F,Y,Y,1,135000.0,Commercial associate,Incomplete higher,Civil marriage,House / apartment,2025-05-22 11:11:26.391727,1,0,1,0,Laborers,3,0,2054-11-29 11:02:46.471042
+5024582,F,Y,Y,2,315000.0,State servant,Secondary / secondary special,Married,House / apartment,2026-11-07 11:11:26.391727,1,0,0,0,Managers,4,0,2057-04-26 11:02:46.471042
+5099948,F,Y,N,0,185400.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2032-05-08 11:11:26.391727,1,0,0,0,Laborers,2,0,2063-11-20 11:02:46.471042
+5096415,F,N,N,0,76500.0,Working,Secondary / secondary special,Married,House / apartment,2023-10-11 11:11:26.391727,1,1,0,0,Laborers,2,0,2069-09-18 11:02:46.471042
+5096609,F,Y,N,1,225000.0,Working,Higher education,Civil marriage,House / apartment,2026-03-12 11:11:26.391727,1,1,1,0,Core staff,3,0,2060-07-19 11:02:46.471042
+5090027,F,N,Y,0,126000.0,Working,Higher education,Married,House / apartment,2024-10-08 11:11:26.391727,1,0,1,1,Core staff,2,0,2051-02-04 11:02:46.471042
+5125277,F,N,Y,1,90000.0,Working,Secondary / secondary special,Married,House / apartment,2033-08-16 11:11:26.391727,1,0,0,1,Sales staff,3,0,2068-01-31 11:02:46.471042
+5067006,M,N,Y,1,157500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2038-06-11 11:11:26.391727,1,0,0,0,Laborers,3,0,2079-02-17 11:02:46.471042
+5054079,F,N,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2038-08-03 11:11:26.391727,1,0,1,0,Laborers,2,0,2070-06-12 11:02:46.471042
+5096483,F,N,N,0,103500.0,Working,Higher education,Married,House / apartment,2041-09-09 11:11:26.391727,1,1,1,0,Laborers,2,0,2067-04-15 11:02:46.471042
+5025951,F,N,Y,0,130500.0,Working,Secondary / secondary special,Married,House / apartment,2038-07-15 11:11:26.391727,1,0,0,0,Core staff,2,0,2060-07-11 11:02:46.471042
+5010995,F,N,Y,0,90000.0,Working,Secondary / secondary special,Married,House / apartment,2024-02-12 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2078-06-21 11:02:46.471042
+5117622,M,Y,N,2,112500.0,Working,Higher education,Married,House / apartment,2023-11-10 11:11:26.391727,1,0,0,0,Drivers,4,0,2063-08-24 11:02:46.471042
+5125425,F,Y,Y,1,189000.0,Working,Lower secondary,Married,House / apartment,2025-11-16 11:11:26.391727,1,0,0,1,Core staff,3,0,2068-04-04 11:02:46.471042
+5085865,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2037-09-20 11:11:26.391727,1,0,0,0,Cleaning staff,2,0,2073-05-03 11:02:46.471042
+5113180,M,Y,Y,0,135000.0,Commercial associate,Higher education,Civil marriage,House / apartment,2025-03-10 11:11:26.391727,1,0,0,0,Core staff,2,0,2071-07-12 11:02:46.471042
+5069466,F,Y,Y,0,166500.0,Working,Secondary / secondary special,Married,House / apartment,2032-01-23 11:11:26.391727,1,0,0,0,Laborers,2,0,2056-11-21 11:02:46.471042
+5009269,M,Y,N,0,337500.0,State servant,Higher education,Married,With parents,2028-01-13 11:11:26.391727,1,1,1,0,Managers,2,0,2051-08-14 11:02:46.471042
+5021790,F,Y,Y,2,157500.0,Working,Secondary / secondary special,Married,House / apartment,2042-05-06 11:11:26.391727,1,0,0,0,High skill tech staff,4,0,2064-08-20 11:02:46.471042
+5036474,M,Y,N,2,180000.0,Commercial associate,Higher education,Married,House / apartment,2030-10-30 11:11:26.391727,1,0,0,0,Managers,4,0,2066-07-16 11:02:46.471042
+5037202,F,Y,Y,1,112500.0,Working,Higher education,Married,House / apartment,2024-08-29 11:11:26.391727,1,0,0,0,Managers,3,0,2048-03-28 11:02:46.471042
+5092020,F,N,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2025-08-21 11:11:26.391727,1,1,1,0,Core staff,2,0,2059-09-06 11:02:46.471042
+5142849,F,N,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,2028-08-17 11:11:26.391727,1,0,1,0,Laborers,2,0,2062-01-22 11:02:46.471042
+5069141,F,N,N,0,135000.0,Commercial associate,Higher education,Married,With parents,2024-08-22 11:11:26.391727,1,0,0,1,Core staff,2,0,2065-07-25 11:02:46.471042
+5035431,M,Y,Y,0,191399.3262295082,Working,Secondary / secondary special,Single / not married,House / apartment,2026-06-12 11:11:26.391727,1,0,0,0,Drivers,1,0,2062-03-21 11:02:46.471042
+5090464,F,N,N,0,126000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2039-04-13 11:11:26.391727,1,1,0,0,Managers,2,0,2069-04-03 11:02:46.471042
+5149296,F,Y,Y,0,247500.0,Commercial associate,Higher education,Married,House / apartment,2028-08-19 11:11:26.391727,1,0,1,1,Laborers,2,0,2063-02-08 11:02:46.471042
+5023914,F,N,Y,2,184500.0,Working,Secondary / secondary special,Married,House / apartment,2028-03-08 11:11:26.391727,1,1,1,0,Sales staff,4,0,2050-08-25 11:02:46.471042
+5112736,M,Y,Y,0,315000.0,Working,Higher education,Married,House / apartment,2031-03-02 11:11:26.391727,1,0,0,0,Drivers,2,0,2073-09-16 11:02:46.471042
+5050619,M,Y,N,0,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2028-11-18 11:11:26.391727,1,0,1,0,Laborers,2,0,2050-11-25 11:02:46.471042
+5052606,M,N,Y,0,202500.0,Commercial associate,Secondary / secondary special,Single / not married,Rented apartment,2027-11-20 11:11:26.391727,1,0,0,0,Laborers,1,0,2074-12-10 11:02:46.471042
+5021551,F,N,Y,0,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-11-05 11:11:26.391727,1,0,0,0,Medicine staff,2,0,2080-08-25 11:02:46.471042
+5068807,M,Y,Y,1,112500.0,Working,Higher education,Married,House / apartment,2024-12-23 11:11:26.391727,1,0,0,1,Accountants,3,0,2055-11-04 11:02:46.471042
+5024666,F,N,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2036-01-07 11:11:26.391727,1,1,1,0,Laborers,2,0,2063-01-02 11:02:46.471042
+5089497,F,N,N,1,112500.0,Working,Secondary / secondary special,Widow,House / apartment,2027-02-08 11:11:26.391727,1,0,0,0,Laborers,2,0,2078-01-29 11:02:46.471042
+5045623,F,N,Y,1,270000.0,State servant,Secondary / secondary special,Married,House / apartment,2030-05-22 11:11:26.391727,1,0,0,0,Medicine staff,3,0,2062-12-08 11:02:46.471042
+5091822,M,N,Y,0,270000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2039-08-22 11:11:26.391727,1,0,0,0,Laborers,1,0,2063-08-03 11:02:46.471042
+5114227,M,Y,N,2,247500.0,Working,Secondary / secondary special,Married,House / apartment,2039-01-16 11:11:26.391727,1,1,0,0,Laborers,4,0,2073-09-19 11:02:46.471042
+5116621,F,Y,Y,1,157500.0,State servant,Secondary / secondary special,Married,House / apartment,2032-10-06 11:11:26.391727,1,0,0,0,Laborers,3,0,2061-04-28 11:02:46.471042
+5041758,F,N,Y,0,157500.0,State servant,Higher education,Married,House / apartment,2033-07-07 11:11:26.391727,1,0,1,0,Managers,2,0,2064-12-22 11:02:46.471042
+5025936,F,N,Y,0,130500.0,Working,Secondary / secondary special,Married,House / apartment,2038-07-15 11:11:26.391727,1,0,0,0,Core staff,2,0,2060-07-11 11:02:46.471042
+5033608,F,N,N,0,67500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2023-12-24 11:11:26.391727,1,0,0,0,Laborers,2,0,2075-07-02 11:02:46.471042
+5146456,F,N,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2028-06-10 11:11:26.391727,1,0,0,0,Waiters/barmen staff,2,0,2065-09-10 11:02:46.471042
+5091369,M,Y,Y,0,247500.0,Working,Secondary / secondary special,Married,House / apartment,2026-12-23 11:11:26.391727,1,1,1,0,Drivers,2,0,2065-07-31 11:02:46.471042
+5142547,F,Y,Y,0,157500.0,Commercial associate,Higher education,Single / not married,House / apartment,2026-08-17 11:11:26.391727,1,0,0,0,Private service staff,1,0,2067-06-05 19:15:21.385852
+5091708,F,Y,Y,0,135000.0,Working,Higher education,Married,House / apartment,2034-04-23 11:11:26.391727,1,0,0,0,Managers,2,0,2057-02-11 11:02:46.471042
+5088181,F,N,N,0,180000.0,Working,Incomplete higher,Widow,House / apartment,2028-09-14 11:11:26.391727,1,1,1,0,Core staff,1,0,2077-04-02 11:02:46.471042
+5093248,F,N,Y,0,247500.0,Commercial associate,Higher education,Married,House / apartment,2031-09-02 11:11:26.391727,1,0,0,0,Sales staff,2,0,2056-02-17 11:02:46.471042
+5112738,M,Y,Y,0,315000.0,Working,Higher education,Married,House / apartment,2031-03-02 11:11:26.391727,1,0,0,0,Drivers,2,0,2073-09-16 11:02:46.471042
+5069007,M,Y,Y,0,337500.0,Working,Higher education,Married,With parents,2026-09-23 11:11:26.391727,1,0,0,0,Laborers,2,0,2052-08-04 11:02:46.471042
+5113801,F,N,Y,1,337500.0,Working,Secondary / secondary special,Married,House / apartment,2032-08-16 11:11:26.391727,1,0,0,1,Core staff,3,0,2058-07-12 11:02:46.471042
+5054733,F,N,N,1,157500.0,Commercial associate,Higher education,Married,House / apartment,2027-11-03 11:11:26.391727,1,0,0,0,High skill tech staff,3,0,2053-09-28 11:02:46.471042
+5142691,M,Y,N,2,135000.0,State servant,Secondary / secondary special,Married,House / apartment,2041-06-19 11:11:26.391727,1,1,1,0,Core staff,4,0,2061-12-11 11:02:46.471042
+5105577,F,N,N,0,180000.0,Working,Secondary / secondary special,Married,Municipal apartment,2024-02-01 11:11:26.391727,1,1,1,0,Sales staff,2,0,2056-06-06 11:02:46.471042
+5033714,M,N,Y,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2031-10-24 11:11:26.391727,1,1,1,0,Security staff,3,0,2061-03-30 11:02:46.471042
+5062016,F,N,N,0,180000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2030-01-19 11:11:26.391727,1,0,0,0,Laborers,1,0,2054-07-25 11:02:46.471042
+5045798,F,Y,N,0,202500.0,Working,Higher education,Married,House / apartment,2023-11-22 11:11:26.391727,1,0,0,0,Accountants,2,0,2048-10-24 11:02:46.471042
+5066915,M,Y,Y,0,180000.0,Working,Higher education,Married,With parents,2027-07-12 11:11:26.391727,1,0,0,0,Laborers,2,0,2053-11-14 11:02:46.471042
+5088853,F,Y,Y,0,112500.0,Working,Higher education,Married,House / apartment,2029-11-07 11:11:26.391727,1,0,0,1,Accountants,2,0,2054-08-05 11:02:46.471042
+5142752,F,N,N,0,81000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-07-17 11:11:26.391727,1,1,1,0,Private service staff,1,0,2072-06-14 11:02:46.471042
+5143025,M,N,N,0,270000.0,Working,Secondary / secondary special,Married,With parents,2025-03-19 11:11:26.391727,1,1,1,0,Laborers,2,0,2055-09-24 11:02:46.471042
+5091549,F,N,Y,0,247500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2031-02-22 11:11:26.391727,1,0,1,0,Laborers,2,0,2057-03-18 11:02:46.471042
+5142248,F,N,Y,0,225000.0,State servant,Secondary / secondary special,Married,House / apartment,2029-12-01 11:11:26.391727,1,0,0,0,Private service staff,2,0,2077-10-16 11:02:46.471042
+5068262,F,N,N,2,157500.0,State servant,Higher education,Married,House / apartment,2038-02-22 11:11:26.391727,1,0,0,0,Medicine staff,4,0,2058-02-08 11:02:46.471042
+5100010,M,Y,N,0,202500.0,Working,Secondary / secondary special,Married,House / apartment,2026-01-09 11:11:26.391727,1,1,1,0,Laborers,2,0,2067-06-05 19:15:21.385852
+5068843,F,N,Y,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2035-01-23 11:11:26.391727,1,1,1,0,Secretaries,1,0,2085-10-19 11:02:46.471042
+5114166,M,Y,N,1,247500.0,Working,Higher education,Married,House / apartment,2024-01-16 11:11:26.391727,1,1,0,1,Laborers,3,0,2048-12-17 11:02:46.471042
+5105715,F,N,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2031-10-02 11:11:26.391727,1,0,0,0,Laborers,2,0,2061-06-12 11:02:46.471042
+5145964,F,N,N,2,130500.0,Working,Secondary / secondary special,Married,House / apartment,2033-01-10 11:11:26.391727,1,0,0,0,Sales staff,4,0,2065-10-09 11:02:46.471042
+5089658,F,N,N,0,99000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2024-07-10 11:11:26.391727,1,1,0,0,Core staff,1,0,2068-05-08 11:02:46.471042
+5068233,M,N,Y,1,112500.0,State servant,Secondary / secondary special,Married,House / apartment,2024-02-23 11:11:26.391727,1,0,0,0,Laborers,3,0,2061-07-11 11:02:46.471042
+5113259,F,Y,Y,0,247500.0,Working,Secondary / secondary special,Single / not married,With parents,2024-04-16 11:11:26.391727,1,0,0,0,Sales staff,1,0,2055-09-26 11:02:46.471042
+5052622,M,Y,Y,1,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2028-12-20 11:11:26.391727,1,0,1,0,High skill tech staff,3,0,2067-04-14 11:02:46.471042
+5058408,M,Y,Y,0,247500.0,Working,Higher education,Married,House / apartment,2030-08-27 11:11:26.391727,1,0,0,0,Managers,2,0,2058-09-03 11:02:46.471042
+5068324,F,N,Y,0,171000.0,Working,Higher education,Married,House / apartment,2034-01-22 11:11:26.391727,1,0,0,0,High skill tech staff,2,0,2073-09-29 11:02:46.471042
+5022156,F,Y,Y,2,180000.0,Commercial associate,Higher education,Married,House / apartment,2031-05-11 11:11:26.391727,1,0,1,1,Laborers,4,0,2055-08-06 11:02:46.471042
+5137365,M,Y,N,0,337500.0,Working,Secondary / secondary special,Married,House / apartment,2026-04-23 11:11:26.391727,1,0,1,0,Drivers,2,0,2063-02-25 11:02:46.471042
+5068811,F,N,Y,0,315000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2030-02-22 11:11:26.391727,1,0,0,0,Laborers,2,0,2062-12-27 11:02:46.471042
+5068238,F,N,Y,0,247500.0,Working,Secondary / secondary special,Married,House / apartment,2030-06-24 11:11:26.391727,1,1,1,0,Laborers,2,0,2054-05-12 11:02:46.471042
+5023491,M,Y,Y,0,83250.0,Working,Secondary / secondary special,Married,House / apartment,2040-07-26 11:11:26.391727,1,1,1,1,Laborers,2,0,2079-11-21 11:02:46.471042
+5125510,M,N,Y,1,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2023-10-18 11:11:26.391727,1,0,1,0,Security staff,3,0,2064-06-12 11:02:46.471042
+5010202,M,Y,Y,0,135000.0,Working,Lower secondary,Married,With parents,2028-08-14 11:11:26.391727,1,0,0,1,Laborers,2,0,2050-11-02 11:02:46.471042
+5143175,M,Y,N,0,225000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2030-09-18 11:11:26.391727,1,0,0,0,Managers,1,0,2071-05-08 11:02:46.471042
+5041739,M,N,Y,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,2024-07-07 11:11:26.391727,1,0,0,0,Sales staff,3,0,2057-12-19 11:02:46.471042
+5048217,M,Y,Y,1,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2025-11-09 11:11:26.391727,1,0,0,0,Laborers,3,0,2057-01-18 11:02:46.471042
+5091382,F,Y,Y,2,216000.0,Working,Higher education,Married,House / apartment,2036-11-21 11:11:26.391727,1,0,0,0,Core staff,4,0,2058-06-09 11:02:46.471042
+5009918,F,N,Y,2,99000.0,Commercial associate,Higher education,Married,House / apartment,2024-09-11 11:11:26.391727,1,0,1,0,Accountants,4,0,2058-06-04 11:02:46.471042
+5091406,F,N,Y,0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,2028-09-21 11:11:26.391727,1,1,0,0,Laborers,1,0,2071-08-22 11:02:46.471042
+5023816,F,Y,Y,1,225000.0,Commercial associate,Higher education,Married,House / apartment,2025-09-16 11:11:26.391727,1,1,1,0,Managers,3,0,2070-01-22 11:02:46.471042
+5054775,M,N,Y,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2027-09-03 11:11:26.391727,1,0,0,0,Laborers,2,0,2081-12-30 11:02:46.471042
+5062011,F,N,N,0,180000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2030-01-19 11:11:26.391727,1,0,0,0,Laborers,1,0,2054-07-25 11:02:46.471042
+5094926,F,Y,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-07-08 11:11:26.391727,1,1,0,0,Core staff,2,0,2056-11-04 11:02:46.471042
+5125462,M,N,Y,1,112500.0,Working,Secondary / secondary special,Married,House / apartment,2037-08-16 11:11:26.391727,1,0,0,0,Laborers,3,0,2073-11-14 11:02:46.471042
+5114240,F,N,N,0,270000.0,Working,Secondary / secondary special,Married,House / apartment,2025-06-17 11:11:26.391727,1,1,0,0,Managers,2,0,2069-04-18 11:02:46.471042
+5068367,F,Y,Y,1,270000.0,Working,Secondary / secondary special,Married,House / apartment,2032-05-25 11:11:26.391727,1,0,0,0,Laborers,3,0,2062-01-26 11:02:46.471042
+5051120,M,N,N,0,202500.0,State servant,Higher education,Married,House / apartment,2037-03-20 11:11:26.391727,1,0,0,0,Core staff,2,0,2058-05-08 11:02:46.471042
+5114348,M,Y,N,0,180000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,2031-09-15 11:11:26.391727,1,1,0,0,Laborers,2,0,2050-05-15 11:02:46.471042
+5067506,M,N,Y,0,180000.0,Working,Lower secondary,Civil marriage,House / apartment,2029-07-05 11:11:26.391727,1,0,0,0,Managers,2,0,2059-03-03 11:02:46.471042
+5118441,F,Y,N,1,108000.0,Commercial associate,Higher education,Married,House / apartment,2024-09-09 11:11:26.391727,1,1,0,0,Sales staff,3,0,2067-09-11 11:02:46.471042
+5054343,F,Y,N,0,225000.0,Working,Secondary / secondary special,Married,House / apartment,2026-06-04 11:11:26.391727,1,0,1,0,Sales staff,2,0,2080-01-09 11:02:46.471042
+5009000,M,Y,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2025-10-11 11:11:26.391727,1,0,0,0,Drivers,2,0,2050-09-09 11:02:46.471042
+5067299,M,N,Y,0,225000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,2026-11-04 11:11:26.391727,1,0,0,1,Laborers,1,0,2048-07-23 11:02:46.471042
+5067729,F,N,Y,1,135000.0,Commercial associate,Incomplete higher,Married,House / apartment,2030-09-03 11:11:26.391727,1,1,1,0,Managers,3,0,2051-09-05 11:02:46.471042
+5010795,F,N,N,0,45000.0,State servant,Secondary / secondary special,Married,House / apartment,2038-02-11 11:11:26.391727,1,1,1,0,Medicine staff,2,0,2061-09-05 11:02:46.471042
+5116594,M,Y,N,0,157500.0,Working,Higher education,Married,House / apartment,2025-03-08 11:11:26.391727,1,0,0,0,Laborers,2,0,2066-03-24 11:02:46.471042
+5068310,M,N,Y,1,198000.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,2023-11-23 11:11:26.391727,1,0,0,0,Managers,2,0,2049-12-05 11:02:46.471042
+5087880,F,N,N,0,234000.0,State servant,Higher education,Civil marriage,House / apartment,2037-10-15 11:11:26.391727,1,0,0,1,Core staff,2,0,2083-08-27 11:02:46.471042
+5125172,F,Y,Y,0,157500.0,Working,Secondary / secondary special,Married,House / apartment,2024-09-16 11:11:26.391727,1,0,0,0,Laborers,2,0,2064-08-22 11:02:46.471042
+5117190,F,N,Y,3,207000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,2024-10-09 11:11:26.391727,1,1,1,0,Laborers,4,0,2065-04-23 11:02:46.471042
+5118580,F,Y,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,2028-04-11 11:11:26.391727,1,0,0,0,Laborers,2,0,2059-03-31 11:02:46.471042
+5045070,F,N,N,0,112500.0,Working,Secondary / secondary special,Married,House / apartment,2030-06-12 11:11:26.391727,1,0,0,0,Laborers,2,0,2051-10-31 11:02:46.471042
+5062334,F,N,N,0,94500.0,Working,Higher education,Married,House / apartment,2026-02-18 11:11:26.391727,1,0,0,0,Laborers,2,0,2048-05-06 11:02:46.471042
+5021968,F,N,N,1,103500.0,Working,Secondary / secondary special,Married,House / apartment,2026-10-09 11:11:26.391727,1,0,0,0,Sales staff,3,0,2055-08-07 11:02:46.471042
+5028858,M,Y,Y,1,157500.0,Working,Secondary / secondary special,Married,House / apartment,2031-12-26 11:11:26.391727,1,0,0,0,Laborers,3,0,2061-06-23 11:02:46.471042
+5067182,F,N,Y,0,112500.0,Working,Higher education,Married,House / apartment,2025-10-03 11:11:26.391727,1,1,0,0,Core staff,2,0,2054-10-23 11:02:46.471042
+5112652,F,N,N,0,67500.0,Working,Secondary / secondary special,Married,With parents,2031-04-02 11:11:26.391727,1,1,1,0,Cooking staff,2,0,2067-10-25 11:02:46.471042
+5105069,M,N,Y,0,157500.0,Working,Incomplete higher,Married,House / apartment,2024-10-01 11:11:26.391727,1,1,1,0,Laborers,2,0,2060-12-20 11:02:46.471042
+5079127,M,N,Y,0,270000.0,Working,Higher education,Married,House / apartment,2029-09-14 11:11:26.391727,1,0,0,0,Laborers,2,0,2056-03-18 11:02:46.471042
+5088689,M,N,Y,1,135000.0,Working,Secondary / secondary special,Married,House / apartment,2027-07-18 11:11:26.391727,1,1,1,0,Laborers,3,0,2074-10-05 11:02:46.471042
+5132784,M,Y,Y,0,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,2024-01-17 11:11:26.391727,1,1,0,0,Laborers,1,0,2047-10-02 11:02:46.471042
+5048458,F,Y,Y,1,126000.0,Working,Higher education,Married,House / apartment,2023-12-10 11:11:26.391727,1,0,0,0,Laborers,3,0,2049-05-11 11:02:46.471042
+5065477,M,N,N,1,148500.0,Working,Secondary / secondary special,Married,House / apartment,2023-10-23 11:11:26.391727,1,0,0,0,Laborers,3,0,2060-09-03 11:02:46.471042
+5024096,F,Y,N,0,126000.0,State servant,Incomplete higher,Single / not married,House / apartment,2037-10-06 11:11:26.391727,1,1,0,0,Core staff,1,0,2056-04-21 11:02:46.471042
+5028612,M,Y,Y,0,225000.0,Commercial associate,Higher education,Single / not married,With parents,2029-05-27 11:11:26.391727,1,0,1,0,Sales staff,1,0,2052-10-02 11:02:46.471042
+5089954,M,N,Y,1,126000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,2029-04-10 11:11:26.391727,1,0,0,0,Laborers,3,0,2058-06-07 11:02:46.471042
+5125261,M,N,Y,0,157500.0,Commercial associate,Higher education,Married,House / apartment,2026-10-18 11:11:26.391727,1,1,1,0,Laborers,2,0,2065-09-26 11:02:46.471042
+5100133,M,Y,Y,2,270000.0,Commercial associate,Higher education,Married,House / apartment,2028-09-08 11:11:26.391727,1,0,0,0,Drivers,4,0,2061-09-19 11:02:46.471042
+5096856,M,Y,Y,0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2033-01-10 11:11:26.391727,1,0,0,0,Drivers,2,0,2072-09-21 11:02:46.471042
+5089719,F,N,N,0,144000.0,Working,Secondary / secondary special,Married,House / apartment,2036-04-10 11:11:26.391727,1,0,1,0,Laborers,2,0,2078-03-23 11:02:46.471042
+5033447,F,Y,N,0,112500.0,Commercial associate,Higher education,Married,House / apartment,2025-04-23 11:11:26.391727,1,0,0,0,Core staff,2,0,2053-02-26 11:02:46.471042
+5090942,M,N,N,0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,2027-06-11 11:11:26.391727,1,0,0,0,Low-skill Laborers,2,0,2060-01-09 11:02:46.471042
+5149946,F,N,Y,0,180000.0,Working,Higher education,Married,House / apartment,2025-05-22 11:11:26.391727,1,1,1,0,High skill tech staff,2,0,2084-05-14 11:02:46.471042
+5024049,F,Y,Y,1,144000.0,Working,Higher education,Married,House / apartment,2031-07-08 11:11:26.391727,1,0,0,0,Accountants,3,0,2058-11-02 11:02:46.471042
+5117065,F,N,Y,2,225000.0,Working,Higher education,Married,House / apartment,2028-01-09 11:11:26.391727,1,1,1,0,Accountants,4,0,2067-06-05 19:15:21.385852
+5118268,M,Y,N,1,360000.0,State servant,Secondary / secondary special,Married,House / apartment,2033-03-11 11:11:26.391727,1,0,1,0,Drivers,3,0,2054-06-07 11:02:46.471042
+5028645,F,N,Y,0,191399.3262295082,Commercial associate,Higher education,Married,House / apartment,2029-06-26 11:11:26.391727,1,0,0,0,Managers,2,0,2056-03-31 11:02:46.471042
+5023655,F,N,N,0,225000.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,2026-10-27 11:11:26.391727,1,0,0,0,Accountants,1,0,2051-07-08 11:02:46.471042
+5115992,M,Y,Y,2,180000.0,Working,Higher education,Married,House / apartment,2030-04-17 11:11:26.391727,1,0,0,0,Managers,4,0,2059-07-31 11:02:46.471042
+5118219,M,Y,N,0,270000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,2025-04-11 11:11:26.391727,1,1,1,0,Drivers,2,0,2065-05-18 11:02:46.471042
+5053790,F,Y,Y,0,225000.0,Working,Higher education,Married,House / apartment,2031-05-04 11:11:26.391727,1,0,0,0,Laborers,2,0,2068-12-17 11:02:46.471042
